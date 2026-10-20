@@ -60,14 +60,36 @@ def validate(rows):
     return problems
 
 
+def death_screen():
+    """Rows drawn with a font that has no Persian letters: force a game font that has them."""
+    cfg = json.loads((ROOT / 'tools' / 'death_screen_rows.json').read_text(encoding='utf-8'))
+    fonts = {i: cfg['hint_font'] for i in cfg['hints']}
+    fonts.update({i: cfg['title_font'] for i in cfg['titles']})
+    return fonts, cfg.get('extra', []), cfg['hint_font']
+
+
 def encode(rows, bidi_mode=None):
-    out = bytearray(struct.pack('<I', len(rows)))
+    fonts, extra, hint_font = death_screen()
+    pairs = []
     for r in rows:
-        fa = r['en'] if r['status'] == 'keep_original' else bidi_fix.fix(r['fa'], bidi_mode)
-        for text in (r['en'], fa):
+        if r['status'] == 'keep_original':
+            fa = r['en']
+        else:
+            fa = bidi_fix.fix(r['fa'], bidi_mode)
+            if r['index'] in fonts:
+                fa = '^F' + fonts[r['index']] + '^' + fa
+        pairs.append((r['en'], fa))
+    # extra English variants the game uses that are missing from the original table
+    known = {en for en, _ in pairs}
+    for x in extra:
+        if x['en'] not in known:
+            pairs.append((x['en'], '^F' + hint_font + '^' + bidi_fix.fix(rows[x['copy_of']]['fa'], bidi_mode)))
+    out = bytearray(struct.pack('<I', len(pairs)))
+    for en, fa in pairs:
+        for text in (en, fa):
             b = text.encode('utf-8')
             if len(b) > 0xFFFF:
-                sys.exit(f"row {r['index']}: text longer than 65535 bytes")
+                sys.exit(f'text longer than 65535 bytes: {en[:60]!r}')
             out += struct.pack('<H', len(b)) + b
     return bytes(out)
 
@@ -88,7 +110,7 @@ def main():
     out.write_bytes(data)
     print('punctuation fix:', bidi_mode or 'none')
     counts = collections.Counter(r['status'] for r in rows)
-    print(f'wrote {out}: {len(rows)} entries, {len(data)} bytes')
+    print(f"wrote {out}: {struct.unpack_from('<I', data)[0]} entries, {len(data)} bytes")
     print('statuses:', dict(counts))
     print('sha256:', hashlib.sha256(data).hexdigest())
 
