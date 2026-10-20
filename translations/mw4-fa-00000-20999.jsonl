@@ -1607,7 +1607,7 @@
 {"index": 1606, "en": "[{+actionslot 2}] Restart Course", "fa": "[{+actionslot 2}] شروع مجدد مسیر", "status": "translated", "note": ""}
 {"index": 1607, "en": "Look Keys Sensitivity Horizontal", "fa": "حساسیت افقی کلیدهای نگاه", "status": "translated", "note": ""}
 {"index": 1608, "en": "Complete all DMZ FOB challenges.", "fa": "همهٔ چالش‌های FOB در DMZ را کامل کنید.", "status": "translated", "note": ""}
-{"index": 1609, "en": "^8Jae: ^7[Mission accomplished.]", "fa": "^8جی: ^7[مأموریت انجام شد.]", "status": "translated", "note": ""}
+{"index": 1609, "en": "^8Jae: ^7[Mission accomplished.]", "fa": "^8جه: ^7[مأموریت انجام شد.]", "status": "translated", "note": ""}
 {"index": 1610, "en": "Neutralize Enemy Forces Complete", "fa": "خنثی‌سازی نیروهای دشمن کامل شد", "status": "translated", "note": ""}
 {"index": 1611, "en": "Mission Briefing Motion Graphics", "fa": "موشن گرافیک توجیه مأموریت", "status": "translated", "note": ""}
 {"index": 1612, "en": "Unlocked by completing challenge", "fa": "با تکمیل چالش باز می‌شود", "status": "translated", "note": ""}
@@ -1837,7 +1837,7 @@
 {"index": 1836, "en": "TPM 2.0 Required to Play Call of Duty®", "fa": "برای بازی Call of Duty® وجود TPM 2.0 الزامی است", "status": "translated", "note": ""}
 {"index": 1837, "en": "Cheats are not enabled on this server.", "fa": "چیت‌ها در این سرور فعال نیستند.", "status": "translated", "note": ""}
 {"index": 1838, "en": "[ Warning: Approaching out of bounds ]", "fa": "[ هشدار: نزدیک شدن به خارج از محدوده ]", "status": "translated", "note": ""}
-{"index": 1839, "en": "^8Ju Kwon: ^7[Yes, Private Park, sir.]", "fa": "^8جو کوان: ^7[بله، سرباز پارک، قربان.]", "status": "translated", "note": ""}
+{"index": 1839, "en": "^8Ju Kwon: ^7[Yes, Private Park, sir.]", "fa": "^8جو کوون: ^7[بله، سرباز پارک، قربان.]", "status": "translated", "note": ""}
 {"index": 1840, "en": "Test out your loadout in ^%BOOTCAMP^7.", "fa": "تجهیزات خود را در ^%بوت‌کمپ^7 امتحان کنید.", "status": "translated", "note": ""}
 {"index": 1841, "en": "Failed fetching crossplay friends list", "fa": "دریافت فهرست دوستان بازی بین‌پلتفرمی ناموفق بود", "status": "translated", "note": ""}
 {"index": 1842, "en": "Attachment(s) Restricted in Ranked Play", "fa": "متعلقات سلاح در بازی رنک‌دار محدود هستند", "status": "translated", "note": ""}
@@ -2223,7 +2223,7 @@
 {"index": 2222, "en": "Select the position of Sprays Wheel during gameplay.", "fa": "موقعیت چرخ اسپری‌ها را هنگام بازی انتخاب کنید.", "status": "translated", "note": ""}
 {"index": 2223, "en": "Your loadout cannot be changed until the next round.", "fa": "تا دور بعد نمی‌توانید تجهیزاتتان را تغییر دهید.", "status": "translated", "note": ""}
 {"index": 2224, "en": "Choose the speaker output to match your audio setup.", "fa": "خروجی بلندگو را متناسب با تنظیمات صوتی خود انتخاب کنید.", "status": "translated", "note": ""}
-{"index": 2225, "en": "^8Jae: ^7[So you want out, huh? Get back to normal?]", "fa": "^8جی: ^7[پس می‌خوای بیای بیرون، هان؟ برگردی به زندگی عادی؟]", "status": "translated", "note": ""}
+{"index": 2225, "en": "^8Jae: ^7[So you want out, huh? Get back to normal?]", "fa": "^8جه: ^7[پس می‌خوای بیای بیرون، هان؟ برگردی به زندگی عادی؟]", "status": "translated", "note": ""}
 {"index": 2226, "en": "DMZ progression (E.g. Faction Missions and Upgrades)", "fa": "پیشرفت DMZ (مثلاً مأموریت‌ها و ارتقاهای گروهک)", "status": "translated", "note": ""}
 {"index": 2227, "en": "You must select a save device to save your progress!", "fa": "برای ذخیرهٔ پیشرفتتان باید یک دستگاه ذخیره‌سازی انتخاب کنید!", "status": "translated", "note": ""}
 {"index": 2228, "en": "Sprint [{+sprint}] before jumping to make long jumps.", "fa": "برای پرش‌های بلند، پیش از پریدن بدوید [{+sprint}].", "status": "translated", "note": ""}
@@ -5252,7 +5252,7 @@
 {"index": 5251, "en": "^8Price: ^7They carried out a hit on my men.", "fa": "^8پرایس: ^7اونا نیروهای من رو هدف گرفتن و کشتن.", "status": "translated", "note": ""}
 {"index": 5252, "en": "^8Graves: ^7No one needs to get hurt here...", "fa": "^8گریوز: ^7لازم نیست اینجا کسی آسیب ببینه...", "status": "translated", "note": ""}
 {"index": 5253, "en": "^3Congressperson: ^7Mr. Graves, were you given orders to use lethal force against TF-141?", "fa": "^3نمایندهٔ کنگره: ^7آقای گریوز، آیا به شما دستور داده شد که علیه TF-141 از نیروی مرگبار استفاده کنید؟", "status": "translated", "note": ""}
-{"index": 5254, "en": "^8Graves: ^7Yes, I was.", "fa": "^8گریوز: ^7بله، داده شد.", "status": "translated", "note": ""}
+{"index": 5254, "en": "^8Graves: ^7Yes, I was.", "fa": "^8گریوز: ^7آره، بودم.", "status": "translated", "note": ""}
 {"index": 5255, "en": "^3Congressperson: ^7Who gave you those orders?", "fa": "^3نمایندهٔ کنگره: ^7چه کسی این دستورها را به شما داد؟", "status": "translated", "note": ""}
 {"index": 5256, "en": "^8Price: ^7This is your last chance to change your mind.", "fa": "^8پرایس: ^7این آخرین فرصتته که نظرت رو عوض کنی.", "status": "translated", "note": ""}
 {"index": 5257, "en": "^9Gen. Shepherd: ^7Then what?", "fa": "^9ژنرال شپرد: ^7بعدش چی؟", "status": "translated", "note": ""}
@@ -5269,7 +5269,7 @@
 {"index": 5268, "en": "^8Price: ^7We get dirty and the world stays clean.", "fa": "^8پرایس: ^7ما دستمون رو آلوده می‌کنیم تا دنیا پاک بمونه.", "status": "translated", "note": ""}
 {"index": 5269, "en": "^8Gen. Shepherd: ^7You’re better than this, Cap'n.", "fa": "^8ژنرال شپرد: ^7تو از این بهتری، کاپیتان.", "status": "translated", "note": ""}
 {"index": 5270, "en": "^8Price: ^7We both were…", "fa": "^8پرایس: ^7هر دومون بودیم…", "status": "translated", "note": ""}
-{"index": 5271, "en": "^8Gen. Shepherd: ^7This job is about making sacrifices for the greater good.", "fa": "^8ژنرال شپرد: ^7این کار یعنی فداکاری برای خیر بزرگ‌تر.", "status": "translated", "note": ""}
+{"index": 5271, "en": "^8Gen. Shepherd: ^7This job is about making sacrifices for the greater good.", "fa": "^8ژنرال شپرد: ^7این کار یعنی برای یه هدف بزرگ‌تر، فداکاری کنی.", "status": "translated", "note": ""}
 {"index": 5272, "en": "^8Price: ^7Agreed.", "fa": "^8پرایس: ^7موافقم.", "status": "translated", "note": ""}
 {"index": 5273, "en": "^8Gen. Shepherd: ^7Oh, I am not gonna beg for my life.", "fa": "^8ژنرال شپرد: ^7اوه، من برای جونم التماس نمی‌کنم.", "status": "translated", "note": ""}
 {"index": 5274, "en": "^8Laswell: ^7You know Commander Karim?", "fa": "^8لازول: ^7فرمانده کریم رو می‌شناسی؟", "status": "translated", "note": ""}
@@ -5453,7 +5453,7 @@
 {"index": 5452, "en": "[For fuck's sake!]", "fa": "[آخه گوه توش!]", "status": "translated", "note": ""}
 {"index": 5453, "en": "[Off with your head.]", "fa": "[سرت رو ببرید.]", "status": "translated", "note": ""}
 {"index": 5454, "en": "Peasant…", "fa": "رعیت…", "status": "translated", "note": ""}
-{"index": 5455, "en": "You shouldn’t have left me alive.", "fa": "نباید زنده‌م می‌ذاشتی.", "status": "translated", "note": ""}
+{"index": 5455, "en": "You shouldn’t have left me alive.", "fa": "نباید زنده‌ام می‌ذاشتی.", "status": "translated", "note": ""}
 {"index": 5456, "en": "Trust the French.", "fa": "به فرانسوی‌ها اعتماد کن.", "status": "translated", "note": ""}
 {"index": 5457, "en": "You're thick as shit, you bleedin' waster…", "fa": "تو مثل گه خری، ای آشغال بی‌مصرف لعنتی…", "status": "translated", "note": ""}
 {"index": 5458, "en": "Ye fuckin' gobshite.", "fa": "ای احمق کیری.", "status": "translated", "note": ""}
@@ -5661,7 +5661,7 @@
 {"index": 5660, "en": "Your next favorite weapon is waiting.", "fa": "سلاح مورد علاقهٔ بعدیت منتظرته.", "status": "translated", "note": ""}
 {"index": 5661, "en": "*Buzzer Noise* Try Again Later.", "fa": "*صدای بوق خطا* بعداً دوباره امتحان کنید.", "status": "translated", "note": ""}
 {"index": 5662, "en": "Fresh hardware's online. Time to see what it can do.", "fa": "تجهیزات تازه آماده‌ست. وقتشه ببینیم چی تو چنته داره.", "status": "translated", "note": ""}
-{"index": 5663, "en": "I don't have feelings to hurt if that one's not your style.", "fa": "اگه این به سلیقه‌ت نخورد، احساساتی ندارم که جریحه‌دار بشه.", "status": "translated", "note": ""}
+{"index": 5663, "en": "I don't have feelings to hurt if that one's not your style.", "fa": "اگه این به سلیقه تو نخورد، احساساتی ندارم که جریحه‌دار بشه.", "status": "translated", "note": ""}
 {"index": 5664, "en": "I've got another build ready, just say the word.", "fa": "یه طرح دیگه آماده دارم، فقط بگو.", "status": "translated", "note": ""}
 {"index": 5665, "en": "Long-range build's ready to test in combat.", "fa": "طرح دوربرد آمادهٔ آزمایش در نبرده.", "status": "translated", "note": ""}
 {"index": 5666, "en": "New balanced build's ready.Try it in a field test.", "fa": "طرح متعادل جدید آماده‌ست.آن را در آزمایش میدانی امتحان کن.", "status": "translated", "note": ""}
@@ -5736,7 +5736,7 @@
 {"index": 5735, "en": "Trimmed for speed at bad-breath distance.", "fa": "برای سرعت در فاصلهٔ نفس‌به‌نفس سبک شده.", "status": "translated", "note": ""}
 {"index": 5736, "en": "Your short-range build is combat-ready. Get into Gunsmith.", "fa": "طرح کوتاه‌بردت آمادهٔ نبرده. برو سراغ تفنگ‌سازی.", "status": "translated", "note": ""}
 {"index": 5737, "en": "New build's up, based on your playstyle.", "fa": "طرح جدید بر اساس سبک بازیت آماده شد.", "status": "translated", "note": ""}
-{"index": 5738, "en": "Try this on for size, based on your favorite attachments.", "fa": "اینو امتحان کن، بر اساس متعلقات مورد علاقه‌ت ساخته شده.", "status": "translated", "note": ""}
+{"index": 5738, "en": "Try this on for size, based on your favorite attachments.", "fa": "اینو امتحان کن، بر اساس متعلقات مورد علاقه تو ساخته شده.", "status": "translated", "note": ""}
 {"index": 5739, "en": "New build's up.", "fa": "طرح جدید آماده شد.", "status": "translated", "note": ""}
 {"index": 5740, "en": "I’ve updated your recommendation.", "fa": "پیشنهادت رو به‌روز کردم.", "status": "translated", "note": ""}
 {"index": 5741, "en": "New build, just for you.", "fa": "طرح جدید، مخصوص تو.", "status": "translated", "note": ""}
@@ -5744,7 +5744,7 @@
 {"index": 5743, "en": "Today’s recommendation is in.", "fa": "پیشنهاد امروز رسید.", "status": "translated", "note": ""}
 {"index": 5744, "en": "Today's build is for our most lethal operators.", "fa": "طرح امروز برای کشنده‌ترین اپراتورهای ماست.", "status": "translated", "note": ""}
 {"index": 5745, "en": "Welcome to my world. Every day, I issue a hand-picked weapons build, just for you. It's wise to try it. But if you like to learn the hard way, grab a weapon off the rack and I'll kit it out to your design. You'll see who had the better build.", "fa": "به دنیای من خوش اومدی. هر روز یه طرح سلاح دست‌چین فقط برای تو صادر می‌کنم. عاقلانه‌ست که امتحانش کنی. ولی اگه دوست داری سختی بکشی و یاد بگیری، یه سلاح از قفسه بردار تا بر اساس طراحی خودت مجهزش کنم. اون‌وقت می‌بینی کی طرح بهتری داشت.", "status": "translated", "note": ""}
-{"index": 5746, "en": "New build, tuned for your favorite modes of battle.", "fa": "طرح جدید، تنظیم‌شده برای حالت‌های نبرد مورد علاقه‌ت.", "status": "translated", "note": ""}
+{"index": 5746, "en": "New build, tuned for your favorite modes of battle.", "fa": "طرح جدید، تنظیم‌شده برای حالت‌های نبرد مورد علاقه تو.", "status": "translated", "note": ""}
 {"index": 5747, "en": "I think you hit that by mistake.", "fa": "فکر کنم اینو اشتباهی زدی.", "status": "translated", "note": ""}
 {"index": 5748, "en": "Live a little. Equip a different gun.", "fa": "یه کم زندگی کن. یه اسلحهٔ دیگه مجهز کن.", "status": "translated", "note": ""}
 {"index": 5749, "en": "Your comfort zone needs supressing.", "fa": "منطقهٔ امنت باید سرکوب بشه.", "status": "translated", "note": ""}
@@ -6918,16 +6918,16 @@
 {"index": 6917, "en": "^8Price: ^7No!", "fa": "^8پرایس: ^7نه!", "status": "translated", "note": ""}
 {"index": 6918, "en": "^9Archer: ^7No one is coming for you.", "fa": "^9آرچر: ^7هیچ‌کس به سراغت نمیاد.", "status": "translated", "note": ""}
 {"index": 6919, "en": "^9Archer: ^7Put them in separate blocks.", "fa": "^9آرچر: ^7اون‌ها رو تو بلوک‌های جدا بذارید.", "status": "translated", "note": ""}
-{"index": 6920, "en": "^8Col. Shaw: ^7North Korean forces occupy key strongpoints in the city.", "fa": "^8سرهنگ شاو: ^7نیروهای کرهٔ شمالی نقاط مستحکم کلیدی شهر رو در دست دارن.", "status": "translated", "note": ""}
-{"index": 6921, "en": "^8Col. Shaw: ^7That hotel functions as their communications relay", "fa": "^8سرهنگ شاو: ^7اون هتل رلهٔ ارتباطی‌شونه", "status": "translated", "note": ""}
+{"index": 6920, "en": "^8Col. Shaw: ^7North Korean forces occupy key strongpoints in the city.", "fa": "^8سرهنگ شاو: ^7نیروهای کرهٔ شمالی مواضع کلیدی شهر رو اشغال کردن.", "status": "translated", "note": ""}
+{"index": 6921, "en": "^8Col. Shaw: ^7That hotel functions as their communications relay", "fa": "^8سرهنگ شاو: ^7اون هتل مرکز تقویت و انتقال پیام‌هاشونه", "status": "translated", "note": ""}
 {"index": 6922, "en": "^8Col. Shaw: ^7for units operating throughout the city.", "fa": "^8سرهنگ شاو: ^7برای یگان‌هایی که تو سراسر شهر عمل می‌کنن.", "status": "translated", "note": ""}
-{"index": 6923, "en": "^8Col. Shaw: ^7Disrupt that node, and we fracture their ability to coordinate.", "fa": "^8سرهنگ شاو: ^7اون گره رو از کار بندازیم، توان هماهنگی‌شون از هم می‌پاشه.", "status": "translated", "note": ""}
-{"index": 6924, "en": "^8Col. Shaw: ^7At 0900, the Battalion Landing Team", "fa": "^8سرهنگ شاو: ^7ساعت 0900، تیم نشست گردان", "status": "translated", "note": ""}
+{"index": 6923, "en": "^8Col. Shaw: ^7Disrupt that node, and we fracture their ability to coordinate.", "fa": "^8سرهنگ شاو: ^7اون مرکز رو از کار بندازیم، دیگه نمی‌تونن نیروهاشون رو هماهنگ کنن.", "status": "translated", "note": ""}
+{"index": 6924, "en": "^8Col. Shaw: ^7At 0900, the Battalion Landing Team", "fa": "^8سرهنگ شاو: ^7ساعت 0900، گردانِ نیروی پیاده‌شونده", "status": "translated", "note": ""}
 {"index": 6925, "en": "^8Col. Shaw: ^7supported by air and naval gunfire.", "fa": "^8سرهنگ شاو: ^7با پشتیبانی آتش هوایی و دریایی.", "status": "translated", "note": ""}
 {"index": 6926, "en": "^8Col. Shaw: ^7At the same time, adjacent units from 1st Marine Regiment will push in from the south.", "fa": "^8سرهنگ شاو: ^7هم‌زمان، یگان‌های مجاور از هنگ 1 تفنگداران دریایی از جنوب فشار میارن.", "status": "translated", "note": ""}
 {"index": 6927, "en": "^8Col. Shaw: ^7Phase One:", "fa": "^8سرهنگ شاو: ^7مرحلهٔ یک:", "status": "translated", "note": ""}
 {"index": 6928, "en": "^8Col. Shaw: ^7Fox Company, will secure the beachhead, clearing all structures in the area.", "fa": "^8سرهنگ شاو: ^7گروهان فاکس سر ساحل رو تأمین می‌کنه و همهٔ ساختمان‌های منطقه رو پاک‌سازی می‌کنه.", "status": "translated", "note": ""}
-{"index": 6929, "en": "^8Col. Shaw: ^7Main Effort, Bravo Company, call sign Mayhem, will push west towards the hotel.", "fa": "^8سرهنگ شاو: ^7تلاش اصلی با گروهان براوو، با کدنام میهم، که به سمت غرب و هتل پیشروی می‌کنه.", "status": "translated", "note": ""}
+{"index": 6929, "en": "^8Col. Shaw: ^7Main Effort, Bravo Company, call sign Mayhem, will push west towards the hotel.", "fa": "^8سرهنگ شاو: ^7محور اصلی حمله با گروهان براوو، با کدنام میهمه؛ به سمت غرب و هتل پیشروی می‌کنن.", "status": "translated", "note": ""}
 {"index": 6930, "en": "^8Col. Shaw: ^7Speed and momentum are critical here.", "fa": "^8سرهنگ شاو: ^7سرعت و شتاب اینجا حیاتیه.", "status": "translated", "note": ""}
 {"index": 6931, "en": "^8Col. Shaw: ^7We don’t want to get bogged down in a street fight.", "fa": "^8سرهنگ شاو: ^7نمی‌خوایم تو نبرد خیابانی گیر کنیم.", "status": "translated", "note": ""}
 {"index": 6932, "en": "^8Col. Shaw: ^7In Phase Three: ", "fa": "^8سرهنگ شاو: ^7در مرحلهٔ سه: ", "status": "translated", "note": ""}
@@ -6945,7 +6945,7 @@
 {"index": 6944, "en": "^8Cho: ^7I was born in Seoul, you hick.", "fa": "^8چو: ^7من تو سئول به دنیا اومدم، ای دهاتی.", "status": "translated", "note": ""}
 {"index": 6945, "en": "^8Dunn: ^7Hey, rap’s for pussies, okay.", "fa": "^8دان: ^7هی، رپ مال ترسوهاست، باشه؟", "status": "translated", "note": ""}
 {"index": 6946, "en": "^8Dunn: ^7Pantera... you know them?", "fa": "^8دان: ^7پانترا... می‌شناسیشون؟", "status": "translated", "note": ""}
-{"index": 6947, "en": "^8Jae: ^7Ooh, volunteer warfighter energy, huh? Yeah...", "fa": "^8جه: ^7اوه، انرژی رزمندهٔ داوطلب، ها؟ آره...", "status": "translated", "note": ""}
+{"index": 6947, "en": "^8Jae: ^7Ooh, volunteer warfighter energy, huh? Yeah...", "fa": "^8جه: ^7اوه، حسابی جوِ رزمندهٔ داوطلب گرفتت، ها؟ آره...", "status": "translated", "note": ""}
 {"index": 6948, "en": "^8Cho: ^7Sorry, Dunn.", "fa": "^8چو: ^7ببخشید دان.", "status": "translated", "note": ""}
 {"index": 6949, "en": "^8Dunn: ^7Alright.", "fa": "^8دان: ^7باشه.", "status": "translated", "note": ""}
 {"index": 6950, "en": "^8Ju Kwon: ^7North Korea has new leader.", "fa": "^8جو کوون: ^7کرهٔ شمالی رهبر جدید داره.", "status": "translated", "note": ""}
@@ -6961,13 +6961,13 @@
 {"index": 6960, "en": "^8Moon: ^7How old is this shit?", "fa": "^8مون: ^7این گه چند سالشه؟", "status": "translated", "note": ""}
 {"index": 6961, "en": "^8Lt. West: ^7C’mon now, old? ", "fa": "^8ستوان وست: ^7ای بابا، قدیمی؟ ", "status": "translated", "note": ""}
 {"index": 6962, "en": "^8Lt. West: ^7Wu is OG.", "fa": "^8ستوان وست: ^7وو اصیله.", "status": "translated", "note": ""}
-{"index": 6963, "en": "^8Lt. West: ^7A structured, disciplined, street-level brotherhood.", "fa": "^8ستوان وست: ^7یه برادری منظم و منضبط در سطح خیابان.", "status": "translated", "note": ""}
+{"index": 6963, "en": "^8Lt. West: ^7A structured, disciplined, street-level brotherhood.", "fa": "^8ستوان وست: ^7یه جمع خیابونیِ متحد، منظم و باانضباط.", "status": "translated", "note": ""}
 {"index": 6964, "en": "^8Lt. West: ^7You wanna be a better Marine, listen to Wu.", "fa": "^8ستوان وست: ^7می‌خوای تفنگدار بهتری بشی، به وو گوش بده.", "status": "translated", "note": ""}
 {"index": 6965, "en": "^8Lt. West: ^7So, Dunn-", "fa": "^8ستوان وست: ^7خب، دان-", "status": "translated", "note": ""}
-{"index": 6966, "en": "^8Lt. West: ^7I hear you shit on Wu-Tang again,", "fa": "^8ستوان وست: ^7اگه دوباره بشنوم به وو-تانگ گه زدی،", "status": "translated", "note": ""}
+{"index": 6966, "en": "^8Lt. West: ^7I hear you shit on Wu-Tang again,", "fa": "^8ستوان وست: ^7اگه یه بار دیگه بشنوم به وو-تانگ گه می‌زنی،", "status": "translated", "note": ""}
 {"index": 6967, "en": "^8Dunn: ^7Solid copy, Lieutenant.", "fa": "^8دان: ^7دریافت شد، ستوان.", "status": "translated", "note": ""}
 {"index": 6968, "en": "^8Cho: ^7Can we make a pit-stop at the Goh mart?", "fa": "^8چو: ^7می‌شه تو فروشگاه گو یه توقف کنیم؟", "status": "translated", "note": ""}
-{"index": 6969, "en": "^8Lt. West: ^7You hungry already?", "fa": "^8ستوان وست: ^7همین الان گرسنه‌ت شده؟", "status": "translated", "note": ""}
+{"index": 6969, "en": "^8Lt. West: ^7You hungry already?", "fa": "^8ستوان وست: ^7همین الان گرسنه تو شده؟", "status": "translated", "note": ""}
 {"index": 6970, "en": "^8Jae: ^7New guy’s low on rations.", "fa": "^8جه: ^7نیروی جدید جیره‌ش کمه.", "status": "translated", "note": ""}
 {"index": 6971, "en": "^8Ju Kwon: ^7Uh, I think I’m good-", "fa": "^8جو کوون: ^7اِ، فکر کنم من خوبم-", "status": "translated", "note": ""}
 {"index": 6972, "en": "^8Lt. West: ^7Moon...", "fa": "^8ستوان وست: ^7مون...", "status": "translated", "note": ""}
@@ -6977,16 +6977,16 @@
 {"index": 6976, "en": "^8Jae: ^7[Nice and crunchy. You like it, right?]", "fa": "^8جه: ^7[ترد و خوشمزه‌ست. دوست داری، نه؟]", "status": "translated", "note": ""}
 {"index": 6977, "en": "^8Park: ^7[Thank you.]", "fa": "^8پارک: ^7[ممنون.]", "status": "translated", "note": ""}
 {"index": 6978, "en": "^8Moon: ^7You've reached your destination.", "fa": "^8مون: ^7به مقصد رسیده‌اید.", "status": "translated", "note": ""}
-{"index": 6979, "en": "^8Lt. West: ^7Ten mikes, then your asses better be in formation, north of the stadium.", "fa": "^8ستوان وست: ^7ده دقیقه وقت دارید، بعدش بهتره تو صف شمال استادیوم باشید.", "status": "translated", "note": ""}
+{"index": 6979, "en": "^8Lt. West: ^7Ten mikes, then your asses better be in formation, north of the stadium.", "fa": "^8ستوان وست: ^7ده دقیقه وقت دارین؛ بعدش کون‌تون رو برسونین به صفِ شمال استادیوم.", "status": "translated", "note": ""}
 {"index": 6980, "en": "^8Cho: ^7Yes, sir.", "fa": "^8چو: ^7بله قربان.", "status": "translated", "note": ""}
 {"index": 6981, "en": "^8Lt. West: ^7Sergeant Jae...", "fa": "^8ستوان وست: ^7گروهبان جه...", "status": "translated", "note": ""}
-{"index": 6982, "en": "^8Lt. West: ^7Keep your scouts in line.", "fa": "^8ستوان وست: ^7پیشاهنگ‌هات رو سر جاشون نگه دار.", "status": "translated", "note": ""}
+{"index": 6982, "en": "^8Lt. West: ^7Keep your scouts in line.", "fa": "^8ستوان وست: ^7حواست باشه پیشاهنگ‌هات از خط خارج نشن.", "status": "translated", "note": ""}
 {"index": 6983, "en": "^8Jae: ^7Yes, sir.", "fa": "^8جه: ^7بله قربان.", "status": "translated", "note": ""}
-{"index": 6984, "en": "^8Jae: ^7Let’s move with purpose.", "fa": "^8جه: ^7با هدف حرکت کنیم.", "status": "translated", "note": ""}
+{"index": 6984, "en": "^8Jae: ^7Let’s move with purpose.", "fa": "^8جه: ^7بجنبین، وقت تلف نکنیم.", "status": "translated", "note": ""}
 {"index": 6985, "en": "^8Ju Kwon: ^7[Oh! I’m sorry.]", "fa": "^8جو کوون: ^7[اوه! ببخشید.]", "status": "translated", "note": ""}
 {"index": 6986, "en": "^8Dunn: ^7Yeah, don’t you know we’re not going to the frontlines?", "fa": "^8دان: ^7آره، نمی‌دونی ما قرار نیست بریم خط مقدم؟", "status": "translated", "note": ""}
 {"index": 6987, "en": "^8Ju Kwon: ^7I’ll be okay.", "fa": "^8جو کوون: ^7من خوب می‌شم.", "status": "translated", "note": ""}
-{"index": 6988, "en": "^8Cho: ^7Good thing you brought your flashlight, though. At least we can see.", "fa": "^8چو: ^7ولی خوب شد چراغ‌قوه‌ت رو آوردی. حداقل می‌تونیم ببینیم.", "status": "translated", "note": ""}
+{"index": 6988, "en": "^8Cho: ^7Good thing you brought your flashlight, though. At least we can see.", "fa": "^8چو: ^7ولی خوب شد چراغ‌قوه تو رو آوردی. حداقل می‌تونیم ببینیم.", "status": "translated", "note": ""}
 {"index": 6989, "en": "^8Dunn: ^7[Hi.] Hey-", "fa": "^8دان: ^7[سلام.] هی-", "status": "translated", "note": ""}
 {"index": 6990, "en": "^8Dunn: ^7[I am a sex machine!]", "fa": "^8دان: ^7[من یه ماشین سکسم!]", "status": "translated", "note": ""}
 {"index": 6991, "en": "^8Cho: ^7(laughs)", "fa": "^8چو: ^7(می‌خنده)", "status": "translated", "note": ""}
@@ -6995,14 +6995,14 @@
 {"index": 6994, "en": "^8Jae: ^7You’re not special to them.", "fa": "^8جه: ^7تو براشون خاص نیستی.", "status": "translated", "note": ""}
 {"index": 6995, "en": "^8Cho: ^7(chuckles)", "fa": "^8چو: ^7(می‌خندد)", "status": "translated", "note": ""}
 {"index": 6996, "en": "^8Cho: ^7Oh, your Korean is excellent.", "fa": "^8چو: ^7اوه، کره‌ای‌ت عالیه.", "status": "translated", "note": ""}
-{"index": 6997, "en": "^8Ju Kwon: ^7[Sergeant, sir, I checked my rations and I’m topped off.]", "fa": "^8جو کوون: ^7[گروهبان، قربان، جیره‌م رو چک کردم و پره.]", "status": "translated", "note": ""}
+{"index": 6997, "en": "^8Ju Kwon: ^7[Sergeant, sir, I checked my rations and I’m topped off.]", "fa": "^8جو کوون: ^7[گروهبان، قربان، جیره‌ام رو چک کردم؛ چیزی کم ندارم.]", "status": "translated", "note": ""}
 {"index": 6998, "en": "^8Ju Kwon: ^7[I was just a little confused...]", "fa": "^8جو کوون: ^7[فقط یه کم گیج شده بودم...]", "status": "translated", "note": ""}
-{"index": 6999, "en": "^8Park: ^7[Private Ju Kwon, grunts are in a constant state of confusion.]", "fa": "^8پارک: ^7[سرباز جو کوون، پیاده‌نظام‌ها همیشه تو حالت سردرگمی‌ان.]", "status": "translated", "note": ""}
+{"index": 6999, "en": "^8Park: ^7[Private Ju Kwon, grunts are in a constant state of confusion.]", "fa": "^8پارک: ^7[سرباز جو کوون، پیاده‌نظام همیشه گیجه.]", "status": "translated", "note": ""}
 {"index": 7000, "en": "^8Park: ^7[So when we get inside...]", "fa": "^8پارک: ^7[پس وقتی رفتیم تو...]", "status": "translated", "note": ""}
 {"index": 7001, "en": "^8Park: ^7[Do not buy any milk.] Okay?", "fa": "^8پارک: ^7[هیچ شیری نخر.] باشه؟", "status": "translated", "note": ""}
 {"index": 7002, "en": "^8Park: ^7[He called me ‘sir’. We’re the same rank.]", "fa": "^8پارک: ^7[بهم گفت «قربان». ما هم‌درجه‌ایم.]", "status": "translated", "note": ""}
 {"index": 7003, "en": "^8Park: ^7[I heard you’re going to reenlist.]", "fa": "^8پارک: ^7[شنیدم می‌خوای دوباره خدمتت رو تمدید کنی.]", "status": "translated", "note": ""}
-{"index": 7004, "en": "^8Jae: ^7[Yeah. I’m going to make a career out of it.]", "fa": "^8جه: ^7[آره. می‌خوام ازش شغل بسازم.]", "status": "translated", "note": ""}
+{"index": 7004, "en": "^8Jae: ^7[Yeah. I’m going to make a career out of it.]", "fa": "^8جه: ^7[آره. می‌خوام نظامی‌گری شغلم باشه.]", "status": "translated", "note": ""}
 {"index": 7005, "en": "^8Jae: ^7[What about you?]", "fa": "^8جه: ^7[تو چی؟]", "status": "translated", "note": ""}
 {"index": 7006, "en": "SOUTH KOREA", "fa": "کرهٔ جنوبی", "status": "translated", "note": ""}
 {"index": 7007, "en": "^8Jae: ^7Thank you.", "fa": "^8جه: ^7ممنون.", "status": "translated", "note": ""}
@@ -7024,19 +7024,19 @@
 {"index": 7023, "en": "^8Dunn: ^7What’re you talking about sir, that’s the enemy!", "fa": "^8دان: ^7چی می‌گید قربان، اون دشمنه!", "status": "translated", "note": ""}
 {"index": 7024, "en": "^8Park: ^7He saved our asses up there.", "fa": "^8پارک: ^7اون اون بالا جونمون رو نجات داد.", "status": "translated", "note": ""}
 {"index": 7025, "en": "^8Dunn: ^7Park, this is bullshit, man. That’s a North Korean.", "fa": "^8دان: ^7پارک، این چرت و پرته رفیق. اون یه کره‌ای شمالیه.", "status": "translated", "note": ""}
-{"index": 7026, "en": "^8Kal: ^7Drop your gun.", "fa": "^8کال: ^7اسلحه‌ت رو بنداز.", "status": "translated", "note": ""}
+{"index": 7026, "en": "^8Kal: ^7Drop your gun.", "fa": "^8کال: ^7اسلحه تو رو بنداز.", "status": "translated", "note": ""}
 {"index": 7027, "en": "^8Jae: ^7[Private Park, are you crazy? Move aside!]", "fa": "^8جه: ^7[سرباز پارک، دیوونه شدی؟ برو کنار!]", "status": "translated", "note": ""}
-{"index": 7028, "en": "^8Park: ^7[Hey- Lower your gun!]", "fa": "^8پارک: ^7[هی- اسلحه‌ت رو بیار پایین!]", "status": "translated", "note": ""}
-{"index": 7029, "en": "^8Park: ^7[And I said lower your gun!]", "fa": "^8پارک: ^7[و گفتم اسلحه‌ت رو بیار پایین!]", "status": "translated", "note": ""}
-{"index": 7030, "en": "^8Jae: ^7[This bastard’s a North Korean!]", "fa": "^8جه: ^7[این حرومزاده کرهٔ شمالیه!]", "status": "translated", "note": ""}
+{"index": 7028, "en": "^8Park: ^7[Hey- Lower your gun!]", "fa": "^8پارک: ^7[هی- اسلحه تو رو بیار پایین!]", "status": "translated", "note": ""}
+{"index": 7029, "en": "^8Park: ^7[And I said lower your gun!]", "fa": "^8پارک: ^7[و گفتم اسلحه تو رو بیار پایین!]", "status": "translated", "note": ""}
+{"index": 7030, "en": "^8Jae: ^7[This bastard’s a North Korean!]", "fa": "^8جه: ^7[این حرومزاده اهل کرهٔ شمالیه!]", "status": "translated", "note": ""}
 {"index": 7031, "en": "^8Park: ^7He can help us.", "fa": "^8پارک: ^7اون می‌تونه کمکمون کنه.", "status": "translated", "note": ""}
 {"index": 7032, "en": "^8Dunn: ^7Sir, what are we doing here?", "fa": "^8دان: ^7قربان، ما اینجا داریم چی کار می‌کنیم؟", "status": "translated", "note": ""}
 {"index": 7033, "en": "^8Jae: ^7He’s one of them!", "fa": "^8جه: ^7اون یکی از اوناست!", "status": "translated", "note": ""}
 {"index": 7034, "en": "^8Ko: ^7I’m not one of them.", "fa": "^8کو: ^7من یکی از اون‌ها نیستم.", "status": "translated", "note": ""}
 {"index": 7035, "en": "^8Ko: ^7I understand your fear of North Korea. ", "fa": "^8کو: ^7ترستون از کرهٔ شمالی رو می‌فهمم. ", "status": "translated", "note": ""}
-{"index": 7036, "en": "^8Ko: ^7I have it too.", "fa": "^8کو: ^7من هم دارم.", "status": "translated", "note": ""}
+{"index": 7036, "en": "^8Ko: ^7I have it too.", "fa": "^8کو: ^7منم ازش می‌ترسم.", "status": "translated", "note": ""}
 {"index": 7037, "en": "^8Ko: ^7the strong do not protect the weak.", "fa": "^8کو: ^7قوی‌ها از ضعیف‌ها محافظت نمی‌کنن.", "status": "translated", "note": ""}
-{"index": 7038, "en": "^8Ko: ^7The masses bear the weight while the powerful want for nothing.", "fa": "^8کو: ^7مردم بار رو به دوش می‌کشن در حالی که قدرتمندها هیچ کمبودی ندارن.", "status": "translated", "note": ""}
+{"index": 7038, "en": "^8Ko: ^7The masses bear the weight while the powerful want for nothing.", "fa": "^8کو: ^7مردم سختی می‌کشن، ولی قدرتمندا هیچی کم ندارن.", "status": "translated", "note": ""}
 {"index": 7039, "en": "^8Ko: ^7This has gone on for generations.", "fa": "^8کو: ^7این ماجرا نسل‌هاست ادامه داره.", "status": "translated", "note": ""}
 {"index": 7040, "en": "^8Ko: ^7My name...", "fa": "^8کو: ^7اسم من...", "status": "translated", "note": ""}
 {"index": 7041, "en": "^8Ko: ^7is Ko Jin-Hyuk.", "fa": "^8کو: ^7کو جین‌هیوکه.", "status": "translated", "note": ""}
@@ -7105,18 +7105,18 @@
 {"index": 7104, "en": "^8Lt. West: ^7CHOW!", "fa": "^8ستوان وست: ^7چاو!", "status": "translated", "note": ""}
 {"index": 7105, "en": "^8Dunn: ^7Parachutes got a weight limit, dude.", "fa": "^8دان: ^7چتر نجات محدودیت وزن داره، رفیق.", "status": "translated", "note": ""}
 {"index": 7106, "en": "^8Dunn: ^7That don’t even make sense.", "fa": "^8دان: ^7این اصلاً منطقی نیست.", "status": "translated", "note": ""}
-{"index": 7107, "en": "^8Lt. West: ^7Don’t get stuck in your head.", "fa": "^8ستوان وست: ^7تو سر خودت گیر نکن.", "status": "translated", "note": ""}
+{"index": 7107, "en": "^8Lt. West: ^7Don’t get stuck in your head.", "fa": "^8ستوان وست: ^7زیادی فکر و خیال نکن.", "status": "translated", "note": ""}
 {"index": 7108, "en": "^8Lt. West: ^7Do not fear the unknown.", "fa": "^8ستوان وست: ^7از ناشناخته نترس.", "status": "translated", "note": ""}
 {"index": 7109, "en": "^8Lt. West: ^7Stay disciplined. ", "fa": "^8ستوان وست: ^7منضبط بمون. ", "status": "translated", "note": ""}
 {"index": 7110, "en": "^8Lt. West: ^7Trust your training.", "fa": "^8ستوان وست: ^7به آموزشت اعتماد کن.", "status": "translated", "note": ""}
 {"index": 7111, "en": "^8Lt. West: ^7Support your team.", "fa": "^8ستوان وست: ^7از تیمت حمایت کن.", "status": "translated", "note": ""}
-{"index": 7112, "en": "^8Lt. West: ^7Ain’t nothin’ to fuck with.", "fa": "^8ستوان وست: ^7هیچ چیزی نیست که بشه باهاش در افتاد، لامصب.", "status": "translated", "note": ""}
+{"index": 7112, "en": "^8Lt. West: ^7Ain’t nothin’ to fuck with.", "fa": "^8ستوان وست: ^7شوخی‌بردار نیست، لامصب.", "status": "translated", "note": ""}
 {"index": 7113, "en": "^8Kal: ^7Okay, men - One minute!", "fa": "^8کال: ^7خیلی خب، بچه‌ها - یک دقیقه!", "status": "translated", "note": ""}
 {"index": 7114, "en": "^8Jae: ^7Sir.", "fa": "^8جه: ^7قربان.", "status": "translated", "note": ""}
 {"index": 7115, "en": "^8Park: ^7[chuckles]", "fa": "^8پارک: ^7[می‌خندد]", "status": "translated", "note": ""}
 {"index": 7116, "en": "^8Moon: ^7You called him “sir”...", "fa": "^8مون: ^7بهش گفتی «قربان»...", "status": "translated", "note": ""}
 {"index": 7117, "en": "^8Jae: ^7What’s wrong with that, huh?", "fa": "^8جه: ^7مگه چه اشکالی داره، هان؟", "status": "translated", "note": ""}
-{"index": 7118, "en": "^8Park: ^7It’s bad form... sir.", "fa": "^8پارک: ^7بی‌ادبیه... قربان.", "status": "translated", "note": ""}
+{"index": 7118, "en": "^8Park: ^7It’s bad form... sir.", "fa": "^8پارک: ^7رسمش این نیست... قربان.", "status": "translated", "note": ""}
 {"index": 7119, "en": "^8Jae: ^7[What does he mean?]", "fa": "^8جه: ^7[منظورش چیه؟]", "status": "translated", "note": ""}
 {"index": 7120, "en": "^8Dunn: ^7Here, do you need me to get it for you? Yeah...", "fa": "^8دان: ^7بیا، می‌خوای من برات بگیرمش؟ آره...", "status": "translated", "note": ""}
 {"index": 7121, "en": "^8Moon: ^7[laughs]", "fa": "^8مون: ^7[می‌خندد]", "status": "translated", "note": ""}
@@ -7130,11 +7130,11 @@
 {"index": 7129, "en": "^8US Male Pilot 1: ^7Eagle-3 is going down!", "fa": "^8خلبان مرد آمریکایی 1: ^7ایگل-3 داره سقوط می‌کنه!", "status": "translated", "note": ""}
 {"index": 7130, "en": "^8US Male Pilot 1: ^7I say again, Eagle-3 is going down!", "fa": "^8خلبان مرد آمریکایی 1: ^7تکرار می‌کنم، ایگل-3 داره سقوط می‌کنه!", "status": "translated", "note": ""}
 {"index": 7131, "en": "^8Kal: ^7Everybody brace! Hold on!", "fa": "^8کال: ^7همه آماده برخورد! محکم بگیرید!", "status": "translated", "note": ""}
-{"index": 7132, "en": "^8Kal: ^7Tier-1 forces are infiltrating into North Korea to hit key targets.", "fa": "^8کال: ^7نیروهای تایر-1 دارن برای زدن اهداف کلیدی به کرهٔ شمالی نفوذ می‌کنن.", "status": "translated", "note": ""}
+{"index": 7132, "en": "^8Kal: ^7Tier-1 forces are infiltrating into North Korea to hit key targets.", "fa": "^8کال: ^7نیروهای عملیات ویژه دارن برای زدن اهداف کلیدی به کرهٔ شمالی نفوذ می‌کنن.", "status": "translated", "note": ""}
 {"index": 7133, "en": "^8Kal: ^7Our target is an artillery base ten klicks north of the border.", "fa": "^8کال: ^7هدف ما یه پایگاه توپخانه‌ست، ده کیلومتر شمال مرز.", "status": "translated", "note": ""}
 {"index": 7134, "en": "^8Kal: ^7We’ll insert via HALO drop,", "fa": "^8کال: ^7با پرش هالو نفوذ می‌کنیم،", "status": "translated", "note": ""}
 {"index": 7135, "en": "^8Kal: ^7landing on this ridgeline to the south, ", "fa": "^8کال: ^7و روی این خط‌الرأس جنوبی فرود میایم، ", "status": "translated", "note": ""}
-{"index": 7136, "en": "^8Kal: ^7Once on target, we’ll destroy all air and ground assault elements with explosive charges.", "fa": "^8کال: ^7وقتی به هدف رسیدیم، همهٔ عناصر حملهٔ هوایی و زمینی رو با بارهای انفجاری نابود می‌کنیم.", "status": "translated", "note": ""}
+{"index": 7136, "en": "^8Kal: ^7Once on target, we’ll destroy all air and ground assault elements with explosive charges.", "fa": "^8کال: ^7وقتی به هدف رسیدیم، تمام تجهیزات تهاجمی هوایی و زمینی رو با مواد منفجره نابود می‌کنیم.", "status": "translated", "note": ""}
 {"index": 7137, "en": "^8Kal: ^7Lieutenant West and his Marines will be on standby as QRF.", "fa": "^8کال: ^7ستوان وست و تفنگدارانش به‌عنوان نیروی واکنش سریع آماده‌باش هستن.", "status": "translated", "note": ""}
 {"index": 7138, "en": "^8Kal: ^7I want to be clear...", "fa": "^8کال: ^7می‌خوام واضح بگم...", "status": "translated", "note": ""}
 {"index": 7139, "en": "^8Kal: ^7We cannot fail.", "fa": "^8کال: ^7نمی‌تونیم شکست بخوریم.", "status": "translated", "note": ""}
@@ -7162,7 +7162,7 @@
 {"index": 7161, "en": "^9Valeria: ^7Everyone has a boss.", "fa": "^9والریا: ^7هر کسی یه رئیس داره.", "status": "translated", "note": ""}
 {"index": 7162, "en": "^8Price: ^7And you want him dead.", "fa": "^8پرایس: ^7و تو مرگش رو می‌خوای.", "status": "translated", "note": ""}
 {"index": 7163, "en": "^8Price: ^7Then why work for him?", "fa": "^8پرایس: ^7پس چرا براش کار می‌کنی؟", "status": "translated", "note": ""}
-{"index": 7164, "en": "^8Price: ^7What’s in that case that’s so important?", "fa": "^8پرایس: ^7تو اون محموله چی هست که این‌قدر مهمه؟", "status": "translated", "note": ""}
+{"index": 7164, "en": "^8Price: ^7What’s in that case that’s so important?", "fa": "^8پرایس: ^7تو اون کیف چی هست که این‌قدر مهمه؟", "status": "translated", "note": ""}
 {"index": 7165, "en": "^9Valeria: ^7Not chaos.", "fa": "^9والریا: ^7هرج‌ومرج نیست.", "status": "translated", "note": ""}
 {"index": 7166, "en": "^9Valeria: ^7When that case gets to him...", "fa": "^9والریا: ^7وقتی اون محموله به دستش برسه...", "status": "translated", "note": ""}
 {"index": 7167, "en": "^9Valeria: ^7Things change.", "fa": "^9والریا: ^7اوضاع عوض می‌شه.", "status": "translated", "note": ""}
@@ -7196,7 +7196,7 @@
 {"index": 7195, "en": "^8Laswell: ^7Where is he now?", "fa": "^8لازول: ^7الان کجاست؟", "status": "translated", "note": ""}
 {"index": 7196, "en": "^8Laswell: ^7The Archer will go to ground, you should do the same.", "fa": "^8لازول: ^7آرچر قایم می‌شه، تو هم باید همین کار رو بکنی.", "status": "translated", "note": ""}
 {"index": 7197, "en": "^8Price: ^7No, I can’t do that, Kate.", "fa": "^8پرایس: ^7نه، نمی‌تونم این کار رو بکنم، کیت.", "status": "translated", "note": ""}
-{"index": 7198, "en": "^8Price: ^7Because I found a way to him.", "fa": "^8پرایس: ^7چون راهی بهش پیدا کردم.", "status": "translated", "note": ""}
+{"index": 7198, "en": "^8Price: ^7Because I found a way to him.", "fa": "^8پرایس: ^7چون یه راه برای رسیدن بهش پیدا کردم.", "status": "translated", "note": ""}
 {"index": 7199, "en": "^8Laswell: ^7How?", "fa": "^8لازول: ^7چطوری؟", "status": "translated", "note": ""}
 {"index": 7200, "en": "^8Price: ^7It’s better if you don’t know.", "fa": "^8پرایس: ^7بهتره ندونی.", "status": "translated", "note": ""}
 {"index": 7201, "en": "^8Price: ^7I gotta go at this one alone, Kate. You know?", "fa": "^8پرایس: ^7این یکی رو باید تنها برم، کیت. می‌فهمی؟", "status": "translated", "note": ""}
@@ -7214,21 +7214,21 @@
 {"index": 7213, "en": "^8Ri: ^7[We could hear you.]", "fa": "^8ری: ^7[صدات رو می‌شنیدیم.]", "status": "translated", "note": ""}
 {"index": 7214, "en": "^8Ri: ^7[You’re doing well in school?]", "fa": "^8ری: ^7[تو مدرسه خوب پیش می‌ری؟]", "status": "translated", "note": ""}
 {"index": 7215, "en": "^8Ri: ^7[And you’re memorizing all the aphorisms?]", "fa": "^8ری: ^7[و همهٔ جمله‌های قصار رو حفظ می‌کنی؟]", "status": "translated", "note": ""}
-{"index": 7216, "en": "^8Ri: ^7[Tell me your favorite.]", "fa": "^8ری: ^7[محبوب‌ترینت رو بگو.]", "status": "translated", "note": ""}
+{"index": 7216, "en": "^8Ri: ^7[Tell me your favorite.]", "fa": "^8ری: ^7[اونی رو که بیشتر دوست داری بگو.]", "status": "translated", "note": ""}
 {"index": 7217, "en": "^9 Defector's Daughter: ^7[”Song and life are the foundation of patriotism.”]", "fa": "^9دختر فراری: ^7[«آواز و زندگی پایهٔ میهن‌پرستی هستند.»]", "status": "translated", "note": ""}
 {"index": 7218, "en": "^8Ri: ^7[I like that one too.]", "fa": "^8ری: ^7[من هم اون رو دوست دارم.]", "status": "translated", "note": ""}
-{"index": 7219, "en": "^8Ri: ^7[Do you want to know my favorite?]", "fa": "^8ری: ^7[می‌خوای محبوب‌ترین من رو بدونی؟]", "status": "translated", "note": ""}
+{"index": 7219, "en": "^8Ri: ^7[Do you want to know my favorite?]", "fa": "^8ری: ^7[می‌خوای بدونی من کدوم رو بیشتر دوست دارم؟]", "status": "translated", "note": ""}
 {"index": 7220, "en": "^8Ri: ^7[”Loyalty follows truth.”]", "fa": "^8ری: ^7[«وفاداری پیرو حقیقت است.»]", "status": "translated", "note": ""}
 {"index": 7221, "en": "^8Ri: ^7[Do you know what that means?]", "fa": "^8ری: ^7[می‌دونی یعنی چی؟]", "status": "translated", "note": ""}
 {"index": 7222, "en": "^9Defector's Daughter: ^7[Always be honest.]", "fa": "^9دختر فراری: ^7[همیشه صادق باش.]", "status": "translated", "note": ""}
 {"index": 7223, "en": "^9Defector's Daughter: ^7[A traitor.]", "fa": "^9دختر فراری: ^7[یه خائن.]", "status": "translated", "note": ""}
-{"index": 7224, "en": "^8Ri: ^7[Who hid you under the floor?]", "fa": "^8ری: ^7[کی تو رو زیر کف قایم کرد؟]", "status": "translated", "note": ""}
+{"index": 7224, "en": "^8Ri: ^7[Who hid you under the floor?]", "fa": "^8ری: ^7[کی زیر تخته‌های کف قایمت کرد؟]", "status": "translated", "note": ""}
 {"index": 7225, "en": "^9Defector's Daughter: ^7[Mother.]", "fa": "^9دختر فراری: ^7[مادرم.]", "status": "translated", "note": ""}
 {"index": 7226, "en": "^8Ri: ^7[And your father? Where is he?]", "fa": "^8ری: ^7[و پدرت؟ کجاست؟]", "status": "translated", "note": ""}
 {"index": 7227, "en": "^9Defector's Wife: ^7[She doesn’t know anything!]", "fa": "^9همسر فراری: ^7[اون چیزی نمی‌دونه!]", "status": "translated", "note": ""}
 {"index": 7228, "en": "^8Ri: ^7[Where is he?]", "fa": "^8ری: ^7[کجاست؟]", "status": "translated", "note": ""}
 {"index": 7229, "en": "^9Defector's Wife: ^7[No! Please! She’s scared! She’s just a child! She doesn’t know what she’s saying!]", "fa": "^9همسر فراری: ^7[نه! خواهش می‌کنم! می‌ترسه! فقط یه بچه‌ست! نمی‌دونه چی می‌گه!]", "status": "translated", "note": ""}
-{"index": 7230, "en": "^8Ri: ^7[Kin punishment. Three generations.]", "fa": "^8ری: ^7[مجازات خویشاوندان. سه نسل.]", "status": "translated", "note": ""}
+{"index": 7230, "en": "^8Ri: ^7[Kin punishment. Three generations.]", "fa": "^8ری: ^7[مجازاتِ خانواده. تا سه نسل.]", "status": "translated", "note": ""}
 {"index": 7231, "en": "^8Ri: ^7[She is the child of a traitor.]", "fa": "^8ری: ^7[اون فرزند یه خائنه.]", "status": "translated", "note": ""}
 {"index": 7232, "en": "^8Ri: ^7[You think she’s worthy? Bring me the father.]", "fa": "^8ری: ^7[فکر می‌کنی لایقه؟ پدرش رو پیشم بیار.]", "status": "translated", "note": ""}
 {"index": 7233, "en": "^8Ko: ^7[Affirmative.]", "fa": "^8کو: ^7[بله، اطاعت.]", "status": "translated", "note": ""}
@@ -7264,17 +7264,17 @@
 {"index": 7263, "en": "^9Archer: ^7England...", "fa": "^9آرچر: ^7انگلستان...", "status": "translated", "note": ""}
 {"index": 7264, "en": "^9Archer: ^7Down South?", "fa": "^9آرچر: ^7جنوب؟", "status": "translated", "note": ""}
 {"index": 7265, "en": "^9Archer: ^7You got family there, don’t you?", "fa": "^9آرچر: ^7اونجا خانواده داری، مگه نه؟", "status": "translated", "note": ""}
-{"index": 7266, "en": "^8Park: ^7[You're staying behind?]", "fa": "^8پارک: ^7[تو پشت سر می‌مونی؟]", "status": "translated", "note": ""}
+{"index": 7266, "en": "^8Park: ^7[You're staying behind?]", "fa": "^8پارک: ^7[تو اینجا می‌مونی؟]", "status": "translated", "note": ""}
 {"index": 7267, "en": "^8Ko: ^7[I don’t know...]", "fa": "^8کو: ^7[نمی‌دونم...]", "status": "translated", "note": ""}
 {"index": 7268, "en": "^8Park: ^7[Good luck to you, Ko Jin-Hyuk.]", "fa": "^8پارک: ^7[موفق باشی، کو جین‌هیوک.]", "status": "translated", "note": ""}
 {"index": 7269, "en": "^8Park: ^7[The choices ahead are ours to make.]", "fa": "^8پارک: ^7[انتخاب‌های پیش رو با خودمونه.]", "status": "translated", "note": ""}
 {"index": 7270, "en": "^8Jae: ^7[Do you realize what we just did?]", "fa": "^8جه: ^7[می‌فهمی ما الان چی کار کردیم؟]", "status": "translated", "note": ""}
 {"index": 7271, "en": "^8Park: ^7[You are going to have a great career.]", "fa": "^8پارک: ^7[آیندهٔ درخشانی در انتظارته.]", "status": "translated", "note": ""}
-{"index": 7272, "en": "^8Jae: ^7[Have you chosen a path yet?]", "fa": "^8جه: ^7[هنوز راهتو انتخاب کردی؟]", "status": "translated", "note": ""}
+{"index": 7272, "en": "^8Jae: ^7[Have you chosen a path yet?]", "fa": "^8جه: ^7[بالاخره راهت رو انتخاب کردی؟]", "status": "translated", "note": ""}
 {"index": 7273, "en": "^8Kal: ^7All stations, this is Tiger-1.", "fa": "^8کال: ^7همهٔ ایستگاه‌ها، اینجا تایگر-1.", "status": "translated", "note": ""}
 {"index": 7274, "en": "^8Kal: ^7Jackpot. I say again, jackpot.", "fa": "^8کال: ^7جکپات. تکرار می‌کنم، جکپات.", "status": "translated", "note": ""}
 {"index": 7275, "en": "^8Kal: ^7Target is down.", "fa": "^8کال: ^7هدف از پا درومد.", "status": "translated", "note": ""}
-{"index": 7276, "en": "^8Kal: ^7Collapse to your exfil points.", "fa": "^8کال: ^7به نقاط خروج‌تون جمع بشید.", "status": "translated", "note": ""}
+{"index": 7276, "en": "^8Kal: ^7Collapse to your exfil points.", "fa": "^8کال: ^7به سمت نقاط خروج‌تون عقب بکشین و جمع بشین.", "status": "translated", "note": ""}
 {"index": 7277, "en": "^8Kal: ^7Wheels up in five mikes.", "fa": "^8کال: ^7پنج دقیقهٔ دیگه پرواز می‌کنیم.", "status": "translated", "note": ""}
 {"index": 7278, "en": "^8Kal: ^7We gotta get the wounded outta here now.", "fa": "^8کال: ^7باید مجروحا رو همین الان از اینجا ببریم.", "status": "translated", "note": ""}
 {"index": 7279, "en": "^8Park: ^7Copy that.", "fa": "^8پارک: ^7متوجه شدم.", "status": "translated", "note": ""}
@@ -7294,17 +7294,17 @@
 {"index": 7293, "en": "^8Kal: ^7We’re taking it...", "fa": "^8کال: ^7ما قراره بگیریمش...", "status": "translated", "note": ""}
 {"index": 7294, "en": "^8Kal: ^7tonight.", "fa": "^8کال: ^7امشب.", "status": "translated", "note": ""}
 {"index": 7295, "en": "^8Lt. West: ^7So, what do you want from my Marines?", "fa": "^8ستوان وست: ^7خب، از تفنگدارای من چی می‌خواین؟", "status": "translated", "note": ""}
-{"index": 7296, "en": "^8Laswell: ^7Containment and isolation.", "fa": "^8لازول: ^7مهار و منزوی کردن.", "status": "translated", "note": ""}
+{"index": 7296, "en": "^8Laswell: ^7Containment and isolation.", "fa": "^8لازول: ^7محاصره‌اش کنین و راه‌های ارتباطش رو ببندین.", "status": "translated", "note": ""}
 {"index": 7297, "en": "^8Laswell: ^7Nobody gets in or out except the assault team.", "fa": "^8لازول: ^7هیچ‌کس جز تیم تهاجمی نباید وارد یا خارج بشه.", "status": "translated", "note": ""}
-{"index": 7298, "en": "^8Jae: ^7We’ll be drawing a lot of fire.", "fa": "^8جه: ^7کلی آتش رو به سمت خودمون می‌کشیم.", "status": "translated", "note": ""}
+{"index": 7298, "en": "^8Jae: ^7We’ll be drawing a lot of fire.", "fa": "^8جه: ^7کلی تیر و ترکش قراره سمت ما بیاد.", "status": "translated", "note": ""}
 {"index": 7299, "en": "^8Dunn: ^7Yeah, but, we're good at that.", "fa": "^8دان: ^7آره، ولی ما تو این کار خوبیم.", "status": "translated", "note": ""}
 {"index": 7300, "en": "^8Lt. West: ^7Last time we went behind enemy lines we got shot down.", "fa": "^8ستوان وست: ^7دفعهٔ قبل که رفتیم پشت خطوط دشمن، سرنگون شدیم.", "status": "translated", "note": ""}
 {"index": 7301, "en": "^8Lt. West: ^7How we getting in?", "fa": "^8ستوان وست: ^7چطوری نفوذ می‌کنیم؟", "status": "translated", "note": ""}
 {"index": 7302, "en": "^8Kal: ^7We hit them just like they hit us.", "fa": "^8کال: ^7همون‌طور که اونا به ما زدن، ما هم بهشون می‌زنیم.", "status": "translated", "note": ""}
 {"index": 7303, "en": "^8Laswell: ^7None of you are ordered to be here.", "fa": "^8لازول: ^7هیچ‌کدومتون مجبور نیستین اینجا باشین.", "status": "translated", "note": ""}
-{"index": 7304, "en": "^8Laswell: ^7They're all yours, Captain.", "fa": "^8لازول: ^7همه‌شون مال شما، کاپیتان.", "status": "translated", "note": ""}
+{"index": 7304, "en": "^8Laswell: ^7They're all yours, Captain.", "fa": "^8لازول: ^7فرماندهی‌شون با شما، سروان.", "status": "translated", "note": ""}
 {"index": 7305, "en": "^8Dunn: ^7Hey, y’all are seeing skeleton face, right?", "fa": "^8دان: ^7هی، همتون اون صورت اسکلتی رو می‌بینین، درسته؟", "status": "translated", "note": ""}
-{"index": 7306, "en": "^8Dunn: ^7I fuckin' knew this was CIA shit.", "fa": "^8دان: ^7لامصب می‌دونستم این کثافت‌کاری سیاست.", "status": "translated", "note": ""}
+{"index": 7306, "en": "^8Dunn: ^7I fuckin' knew this was CIA shit.", "fa": "^8دان: ^7لامصب، می‌دونستم این کثافت‌کاری کارِ سیا بوده.", "status": "translated", "note": ""}
 {"index": 7307, "en": "^8Kal: ^7Tiger-1, breaking away.", "fa": "^8کال: ^7تایگر-1، جدا می‌شم.", "status": "translated", "note": ""}
 {"index": 7308, "en": "^8Kal: ^7Tiger-1, at set point one.", "fa": "^8کال: ^7تایگر-1، در نقطهٔ استقرار یک.", "status": "translated", "note": ""}
 {"index": 7309, "en": "^8Kal: ^7Target in sight.", "fa": "^8کال: ^7هدف در دید.", "status": "translated", "note": ""}
@@ -7322,9 +7322,9 @@
 {"index": 7321, "en": "^8Kal: ^7We’re cutting the head off the snake.", "fa": "^8کال: ^7داریم سر مار رو می‌زنیم.", "status": "translated", "note": ""}
 {"index": 7322, "en": "^8Kal: ^7Lieutenant Ko Jin-Hyuk will use the weapon to take North Korea’s anti-air systems offline.", "fa": "^8کال: ^7ستوان کو جین‌هیوک با این سلاح سامانه‌های ضدهوایی کرهٔ شمالی رو از کار می‌ندازه.", "status": "translated", "note": ""}
 {"index": 7323, "en": "^8Kal: ^7We enter phase two...", "fa": "^8کال: ^7وارد فاز دو می‌شیم...", "status": "translated", "note": ""}
-{"index": 7324, "en": "^8Kal: ^7Marine chalks will insert via dual-rotor helos.", "fa": "^8کال: ^7دسته‌های تفنگدار با هلیکوپترای دورتوربینه وارد می‌شن.", "status": "translated", "note": ""}
+{"index": 7324, "en": "^8Kal: ^7Marine chalks will insert via dual-rotor helos.", "fa": "^8کال: ^7دسته‌های تفنگدار با هلیکوپترهای دوپروانه وارد می‌شن.", "status": "translated", "note": ""}
 {"index": 7325, "en": "^8Kal: ^7One will move to HLZ Alpha at the front gates, and set containment.", "fa": "^8کال: ^7دستهٔ یک به منطقهٔ فرود آلفا، جلوی دروازه می‌ره و محاصره رو برقرار می‌کنه.", "status": "translated", "note": ""}
-{"index": 7326, "en": "^8Kal: ^7Two will take HLZ Bravo, on the southern rooftop, and handle isolation.", "fa": "^8کال: ^7دستهٔ دو منطقهٔ فرود براوو رو روی پشت‌بام جنوبی می‌گیره و مسئول انزواست.", "status": "translated", "note": ""}
+{"index": 7326, "en": "^8Kal: ^7Two will take HLZ Bravo, on the southern rooftop, and handle isolation.", "fa": "^8کال: ^7دستهٔ دو منطقهٔ فرود براوو رو روی پشت‌بام جنوبی می‌گیره و راه‌های دسترسی رو می‌بنده.", "status": "translated", "note": ""}
 {"index": 7327, "en": "^8Lt. West: ^7Got it.", "fa": "^8ستوان وست: ^7متوجه شدم.", "status": "translated", "note": ""}
 {"index": 7328, "en": "^8Kal: ^7When the HLZs are secure, we make entry from the roof.", "fa": "^8کال: ^7وقتی مناطق فرود امن شد، از پشت‌بام وارد می‌شیم.", "status": "translated", "note": ""}
 {"index": 7329, "en": "^8Kal: ^7Lieutenant Ko.", "fa": "^8کال: ^7ستوان کو.", "status": "translated", "note": ""}
@@ -7337,7 +7337,7 @@
 {"index": 7336, "en": "^8Lt. West: ^7How we gonna know who he is?", "fa": "^8ستوان وست: ^7از کجا بفهمیم کدومه؟", "status": "translated", "note": ""}
 {"index": 7337, "en": "^8Kal: ^7This our chance to end the war tonight.", "fa": "^8کال: ^7این فرصت ماست که امشب جنگ رو تموم کنیم.", "status": "translated", "note": ""}
 {"index": 7338, "en": "^8Kal: ^7Let’s get this done.", "fa": "^8کال: ^7بریم تمومش کنیم.", "status": "translated", "note": ""}
-{"index": 7339, "en": "^8Moon: ^7We’re the last ones.", "fa": "^8مون: ^7ما آخرین نفریم.", "status": "translated", "note": ""}
+{"index": 7339, "en": "^8Moon: ^7We’re the last ones.", "fa": "^8مون: ^7فقط ما موندیم.", "status": "translated", "note": ""}
 {"index": 7340, "en": "^8Jae: ^7[It’s going to be okay.]", "fa": "^8جه: ^7[همه‌چی درست می‌شه.]", "status": "translated", "note": ""}
 {"index": 7341, "en": "^8Jae: ^7[Oh shit...]", "fa": "^8جه: ^7[اوه گه...]", "status": "translated", "note": ""}
 {"index": 7342, "en": "^8US Pilot: ^7We’re clear of the blast radius.", "fa": "^8خلبان آمریکایی: ^7از شعاع انفجار خارج شدیم.", "status": "translated", "note": ""}
@@ -7350,7 +7350,7 @@
 {"index": 7349, "en": "^8Lt. West: ^7North Korean forces have fallen back to the nuclear plant just outside the city.", "fa": "^8ستوان وست: ^7نیروهای کرهٔ شمالی به نیروگاه هسته‌ای بیرون شهر عقب‌نشینی کردن.", "status": "translated", "note": ""}
 {"index": 7350, "en": "^8Lt. West: ^7And Command believes they’re going to initiate a meltdown.", "fa": "^8ستوان وست: ^7و فرماندهی فکر می‌کنه می‌خوان ذوب هسته‌ای راه بندازن.", "status": "translated", "note": ""}
 {"index": 7351, "en": "^8Lt. West: ^7Hard part'll be getting there.", "fa": "^8ستوان وست: ^7قسمت سخت، رسیدن به اونجاست.", "status": "translated", "note": ""}
-{"index": 7352, "en": "^8Lt. West: ^7Air support will soften the target for us.", "fa": "^8ستوان وست: ^7پشتیبانی هوایی هدف رو برامون نرم می‌کنه.", "status": "translated", "note": ""}
+{"index": 7352, "en": "^8Lt. West: ^7Air support will soften the target for us.", "fa": "^8ستوان وست: ^7پشتیبانی هوایی دفاع دشمن رو قبل از رسیدن ما تضعیف می‌کنه.", "status": "translated", "note": ""}
 {"index": 7353, "en": "^8Park: ^7What’s our contingency if the relay station goes down?", "fa": "^8پارک: ^7اگه ایستگاه رله از کار بیفته، برنامهٔ جایگزین ما چیه؟", "status": "translated", "note": ""}
 {"index": 7354, "en": "^8Lt. West: ^7We assault the power plant directly.", "fa": "^8ستوان وست: ^7مستقیم به نیروگاه حمله می‌کنیم.", "status": "translated", "note": ""}
 {"index": 7355, "en": "^8Lt. West: ^7Colonel Shaw’s got a plant engineer on standby", "fa": "^8ستوان وست: ^7سرهنگ شاو یه مهندس نیروگاه آماده نگه داشته", "status": "translated", "note": ""}
@@ -7368,7 +7368,7 @@
 {"index": 7367, "en": "^8Laswell: ^7Don’t force my hand, John.", "fa": "^8لازول: ^7مجبورم نکن دست به کار بشم، جان.", "status": "translated", "note": ""}
 {"index": 7368, "en": "^8Laswell: ^7Stand down.", "fa": "^8لازول: ^7کنار بکش.", "status": "translated", "note": ""}
 {"index": 7369, "en": "^8Price: ^7You do whatever you need to.", "fa": "^8پرایس: ^7هر کاری لازمه بکن.", "status": "translated", "note": ""}
-{"index": 7370, "en": "^8Price: ^7'Cause you know I will.", "fa": "^8پرایس: ^7چون می‌دونی که می‌کشمش.", "status": "translated", "note": ""}
+{"index": 7370, "en": "^8Price: ^7'Cause you know I will.", "fa": "^8پرایس: ^7چون می‌دونی منم هر کاری لازم باشه می‌کنم.", "status": "translated", "note": ""}
 {"index": 7371, "en": "^8Price: ^7Where’s the handoff?", "fa": "^8پرایس: ^7تحویل کجاست؟", "status": "translated", "note": ""}
 {"index": 7372, "en": "^8Valeria: ^7He will be.", "fa": "^8والریا: ^7می‌شه.", "status": "translated", "note": ""}
 {"index": 7373, "en": "^8Price: ^7Hmm?", "fa": "^8پرایس: ^7هوم؟", "status": "translated", "note": ""}
@@ -7379,7 +7379,7 @@
 {"index": 7378, "en": "^8Price: ^7Are you going to help me kill him?", "fa": "^8پرایس: ^7کمکم می‌کنی بکشمش؟", "status": "translated", "note": ""}
 {"index": 7379, "en": "^8Valeria: ^7[Sweetie...] a deal is a deal.", "fa": "^8والریا: ^7[عزیزم...] قرار، قراره.", "status": "translated", "note": ""}
 {"index": 7380, "en": "^8Eduardo: ^7[What happened!?]", "fa": "^8ادواردو: ^7[چی شد!؟]", "status": "translated", "note": ""}
-{"index": 7381, "en": "^8Cartel Soldier: ^7[Our lead vehicle is down!]", "fa": "^8سرباز کارتل: ^7[ماشین جلویی زمین خورد!]", "status": "translated", "note": ""}
+{"index": 7381, "en": "^8Cartel Soldier: ^7[Our lead vehicle is down!]", "fa": "^8سرباز کارتل: ^7[ماشین جلویی‌مون از کار افتاده!]", "status": "translated", "note": ""}
 {"index": 7382, "en": "^8Price: ^7More rivals, is it?", "fa": "^8پرایس: ^7باز رقیبای جدید، آره؟", "status": "translated", "note": ""}
 {"index": 7383, "en": "^8Valeria: ^7No...", "fa": "^8والریا: ^7نه...", "status": "translated", "note": ""}
 {"index": 7384, "en": "^8Valeria: ^7They’re different.", "fa": "^8والریا: ^7اینا فرق دارن.", "status": "translated", "note": ""}
@@ -7418,7 +7418,7 @@
 {"index": 7417, "en": "^8News Reporter: ^7Many claimed they were hit with some sort of sound wave", "fa": "^8گزارشگر خبر: ^7خیلی‌ها می‌گن با نوعی موج صوتی ضربه خوردن", "status": "translated", "note": ""}
 {"index": 7418, "en": "^8News Reporter: ^7that caused many to lose hearing or bleed from the nose.", "fa": "^8گزارشگر خبر: ^7که باعث شده شنوایی‌شون رو از دست بدن یا از بینی خونریزی کنن.", "status": "translated", "note": ""}
 {"index": 7419, "en": "^8News Reporter: ^7Most of the country is now in a blackout.", "fa": "^8گزارشگر خبر: ^7بیشتر کشور الان تو خاموشی فرو رفته.", "status": "translated", "note": ""}
-{"index": 7420, "en": "^8News Reporter: ^7In what seems to be a coordinated effort,", "fa": "^8گزارشگر خبر: ^7در چیزی که شبیه یه اقدام هماهنگه،", "status": "translated", "note": ""}
+{"index": 7420, "en": "^8News Reporter: ^7In what seems to be a coordinated effort,", "fa": "^8گزارشگر خبر: ^7در اقدامی که ظاهراً هماهنگ‌شده‌ست،", "status": "translated", "note": ""}
 {"index": 7421, "en": "^8News Reporter: ^7Russia has begun to take ground in the Middle East.", "fa": "^8گزارشگر خبر: ^7روسیه شروع کرده به تصرف مناطقی در خاورمیانه.", "status": "translated", "note": ""}
 {"index": 7422, "en": "^8News Reporter: ^7This is much larger than just the Korean peninsula.", "fa": "^8گزارشگر خبر: ^7این ماجرا خیلی بزرگ‌تر از شبه‌جزیرهٔ کره‌ست.", "status": "translated", "note": ""}
 {"index": 7423, "en": "^8News Reporter: ^7We are receiving reports that Russia has begun", "fa": "^8گزارشگر خبر: ^7گزارش‌هایی می‌رسه که روسیه شروع کرده", "status": "translated", "note": ""}
@@ -7488,7 +7488,7 @@
 {"index": 7487, "en": "^8Park: ^7We could all die tonight and we don’t even get a choice.", "fa": "^8پارک: ^7ممکنه همهٔ ما امشب بمیریم و حتی حق انتخاب هم نداریم.", "status": "translated", "note": ""}
 {"index": 7488, "en": "^8Lt. West: ^7War doesn’t wait.", "fa": "^8ستوان وست: ^7جنگ منتظر کسی نمی‌مونه.", "status": "translated", "note": ""}
 {"index": 7489, "en": "^8Lt. West: ^7No one chose today,", "fa": "^8ستوان وست: ^7هیچ‌کس این روز رو انتخاب نکرد،", "status": "translated", "note": ""}
-{"index": 7490, "en": "^8Lt. West: ^7but it’s here now.", "fa": "^8ستوان وست: ^7ولی الان اینجاست.", "status": "translated", "note": ""}
+{"index": 7490, "en": "^8Lt. West: ^7but it’s here now.", "fa": "^8ستوان وست: ^7ولی حالا باید باهاش روبه‌رو بشیم.", "status": "translated", "note": ""}
 {"index": 7491, "en": "^8Lt. West: ^7You want a choice?", "fa": "^8ستوان وست: ^7انتخاب می‌خوای؟", "status": "translated", "note": ""}
 {"index": 7492, "en": "^8Lt. West: ^7When you’re forced through hell,", "fa": "^8ستوان وست: ^7وقتی مجبور می‌شی از جهنم رد بشی،", "status": "translated", "note": ""}
 {"index": 7493, "en": "^8Lt. West: ^7choose how you respond.", "fa": "^8ستوان وست: ^7انتخاب کن چطور واکنش نشون بدی.", "status": "translated", "note": ""}
@@ -7524,7 +7524,7 @@
 {"index": 7523, "en": "^8Lt. West: ^7Rally at TRP Charlie. Out.", "fa": "^8ستوان وست: ^7در نقطهٔ تجمع TRP چارلی جمع بشید. تمام.", "status": "translated", "note": ""}
 {"index": 7524, "en": "^8Jae: ^7Okay, guys, move to TRP Charlie.", "fa": "^8جه: ^7خیلی خب بچه‌ها، بریم TRP چارلی.", "status": "translated", "note": ""}
 {"index": 7525, "en": "^8Dunn: ^7Where’s that?", "fa": "^8دان: ^7اون کجاست؟", "status": "translated", "note": ""}
-{"index": 7526, "en": "^8Jae: ^7Just up the road.", "fa": "^8جه: ^7همین بالای جاده.", "status": "translated", "note": ""}
+{"index": 7526, "en": "^8Jae: ^7Just up the road.", "fa": "^8جه: ^7کمی جلوتر، تو همین جاده.", "status": "translated", "note": ""}
 {"index": 7527, "en": "^8Jae: ^7[Hey], Chow, you take point.", "fa": "^8جه: ^7[هی]، چاو، تو جلودار باش.", "status": "translated", "note": ""}
 {"index": 7528, "en": "^8Cho: ^7Roger that, Sergeant.", "fa": "^8چو: ^7متوجه شدم، گروهبان.", "status": "translated", "note": ""}
 {"index": 7529, "en": "^8Jae: ^7Let’s head out.", "fa": "^8جه: ^7حرکت کنیم.", "status": "translated", "note": ""}
@@ -7541,7 +7541,7 @@
 {"index": 7540, "en": "^8Leader Seung-ho: ^7What may I do for you?", "fa": "^8رهبر سونگ-هو: ^7چه کاری از دستم برمیاد؟", "status": "translated", "note": ""}
 {"index": 7541, "en": "^8Archer: ^7Before your father passed, we were coordinating efforts to reunite the peninsula.", "fa": "^8آرچر: ^7پیش از درگذشت پدرتون، برای اتحاد دوبارهٔ شبه‌جزیره هماهنگی داشتیم.", "status": "translated", "note": ""}
 {"index": 7542, "en": "^8Leader Seung-ho: ^7Reunite?", "fa": "^8رهبر سونگ-هو: ^7اتحاد دوباره؟", "status": "translated", "note": ""}
-{"index": 7543, "en": "^8Leader Seung-ho: ^7By what means?", "fa": "^8رهبر سونگ-هو: ^7با چه وسیله‌ای؟", "status": "translated", "note": ""}
+{"index": 7543, "en": "^8Leader Seung-ho: ^7By what means?", "fa": "^8رهبر سونگ-هو: ^7از چه راهی؟", "status": "translated", "note": ""}
 {"index": 7544, "en": "^8Archer: ^7A pre-emptive strike.", "fa": "^8آرچر: ^7یه ضربهٔ پیشگیرانه.", "status": "translated", "note": ""}
 {"index": 7545, "en": "^8Leader Seung-ho: ^7Our people are in mourning.", "fa": "^8رهبر سونگ-هو: ^7مردم ما عزادارن.", "status": "translated", "note": ""}
 {"index": 7546, "en": "^8Archer: ^7So do you.", "fa": "^8آرچر: ^7شما هم همین‌طور.", "status": "translated", "note": ""}
@@ -7560,7 +7560,7 @@
 {"index": 7559, "en": "^8Leader Seung-ho: ^7How is your English?", "fa": "^8رهبر سونگ-هو: ^7انگلیسی‌ت چطوره؟", "status": "translated", "note": ""}
 {"index": 7560, "en": "^8Ko: ^7Good enough not to envy your position.", "fa": "^8کو: ^7اون‌قدر خوبه که حسرت جای شما رو نخورم.", "status": "translated", "note": ""}
 {"index": 7561, "en": "^8Leader Seung-ho: ^7The Russian wants war...", "fa": "^8رهبر سونگ-هو: ^7اون روسه جنگ می‌خواد...", "status": "translated", "note": ""}
-{"index": 7562, "en": "^8Leader Seung-ho: ^7He has my sister’s ear.", "fa": "^8رهبر سونگ-هو: ^7گوش خواهرم دست اونه.", "status": "translated", "note": ""}
+{"index": 7562, "en": "^8Leader Seung-ho: ^7He has my sister’s ear.", "fa": "^8رهبر سونگ-هو: ^7خواهرم به حرفش گوش می‌ده.", "status": "translated", "note": ""}
 {"index": 7563, "en": "^8Leader Seung-ho: ^7You were with her at the village.", "fa": "^8رهبر سونگ-هو: ^7تو اون روستا همراهش بودی.", "status": "translated", "note": ""}
 {"index": 7564, "en": "^8Leader Seung-ho: ^7Were her actions justified?", "fa": "^8رهبر سونگ-هو: ^7کارش موجه بود؟", "status": "translated", "note": ""}
 {"index": 7565, "en": "^8Ko: ^7[Comrade Ri Ju-Young made the best possible decision.]", "fa": "^8کو: ^7[رفیق ری جو-یونگ بهترین تصمیم ممکن رو گرفت.]", "status": "translated", "note": ""}

@@ -16,3 +16,10 @@ Subtitle rows are recognized by their validated hierarchy, alignment, measured t
 backgrounds and viewport bounds. Whole name/body subtrees are repositioned together.
 Unsupported signatures disable layout initialization. Compatibility with every game
 update is not guaranteed. rtlcompanion.log is optional and stored beside the DLL.
+
+Campaign background mask/fill callbacks are identified using unique masked native
+signatures and their calling mode is validated. Bound caption backgrounds have
+their horizontal coordinates restored immediately before drawing. Text references
+guard against reusing a binding after a caption slot is assigned new dialogue.
+Logical and pixel coordinates are synchronized; vertical animation is retained.
+During caption motion the background may temporarily disappear on the tested build.

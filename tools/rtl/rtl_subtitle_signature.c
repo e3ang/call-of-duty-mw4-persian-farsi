@@ -1,7 +1,6 @@
-/* Persian subtitle layout with signature resolution on private memory snapshots.
- * Gameplay layout is enabled only while the active client has no UI key catcher.
- * Subtitle name/background subtrees are placed beside the measured dialogue and
- * the complete row is centered. Menu layout remains in the original direction.
+/* Signature-resolved campaign subtitle layout and draw-time background alignment.
+ * Native executable bytes are not patched; verified callback slots are replaced.
+ * Gameplay selects RTL; menus retain their original layout.
  */
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
@@ -27,6 +26,7 @@ static int access_ok(const void *p,size_t n,int write) {
 #include "rtl_signature_resolver.h"
 #define RTL_REQUIRE_TEXT_RENDERER
 #include "rtl_text_renderer_resolver.h"
+#include "rtl_background_resolver.h"
 #include "rtl_safe_snapshot.h"
 #include "rtl_gameplay_state.h"
 #include "rtl_subtitle_geometry.h"
@@ -58,7 +58,7 @@ static DWORD WINAPI worker(LPVOID unused) {
  wchar_t path[32768];GetModuleFileNameW(NULL,path,32768);wchar_t *slash=wcsrchr(path,L'\\');
  if(!slash||_wcsicmp(slash+1,L"sp26-cod.exe"))return 1;
  open_optional_log(self);
- log_message("SUBTITLE_GEOMETRY_V8_TRIAL safe_snapshot=1 automatic=1 fixed_address_fallback=0 hotkeys=0\n");
+ log_message("SUBTITLE_GEOMETRY_V15_BACKGROUND_DRAW_LOCK_TRIAL safe_snapshot=1 automatic=1 fixed_address_fallback=0 hotkeys=0\n");
  RtlTargets targets={0};const char *reason="initializing",*last_reason=NULL;
  unsigned char *base=(unsigned char *)GetModuleHandleW(NULL);
  int resolved=0;
@@ -69,6 +69,7 @@ static DWORD WINAPI worker(LPVOID unused) {
  }
  if(!resolved){log_message("DISABLED reason=%s no_game_data_changed=1\n",reason);return 4;}
  *targets.flag=0;original_text_renderer=(TextRenderer)targets.text_function;log_message("TEXT_RENDERER_RESOLVED rva=0x%llx\n",(unsigned long long)(targets.text_function-base));
+ for(unsigned k=0;k<2;k++){original_background_renderer[k]=(BackgroundRenderer)targets.background_function[k];log_message("BACKGROUND_RENDERER_RESOLVED kind=%u enabled=%d\n",k,original_background_renderer[k]!=NULL);}
  Render replacements[]={normal_render,cinematic_render};
  for(int i=0;i<2;i++)original[i]=(Render)targets.function[i];
  log_message("READY global_layout=0 normal_rva=0x%llx cinematic_rva=0x%llx normal_id=%u cinematic_id=%u normal_slot_rva=0x%llx cinematic_slot_rva=0x%llx flag_rva=0x%llx\n",
@@ -93,10 +94,16 @@ static DWORD WINAPI worker(LPVOID unused) {
     }
    }else if(access_ok(targets.flag,1,1))*targets.flag=0;
   }
+  refresh_caption_draw_caches();
   unsigned char callbacks[101*16];
   if(safe_read(targets.table,callbacks,sizeof(callbacks))){
    for(unsigned id=0;id<=100;id++){
     void *fn;memcpy(&fn,callbacks+id*16+8,8);
+    for(unsigned k=0;k<2;k++)if(original_background_renderer[k]&&callbacks[id*16]==0&&fn==(void*)original_background_renderer[k]){
+     void **slot=(void**)(targets.table+id*16+8);
+     void *replacement=k?(void*)caption_background_dark:(void*)caption_background_mask;
+     if(access_ok(slot,8,1)&&InterlockedCompareExchangePointer(slot,replacement,fn)==fn)log_message("BACKGROUND_RENDERER_ATTACHED kind=%u id=%u\n",k,id);
+    }
     if(callbacks[id*16]==1&&fn==(void*)original_text_renderer){
      void **slot=(void**)(targets.table+id*16+8);
      if(access_ok(slot,8,1)&&InterlockedCompareExchangePointer(slot,(void*)subtitle_text_renderer,fn)==fn)log_message("TEXT_RENDERER_ATTACHED id=%u function=%p\n",id,fn);

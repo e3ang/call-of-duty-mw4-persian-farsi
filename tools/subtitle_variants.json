@@ -1124,7 +1124,7 @@
   },
   {
     "en": "Yes, I was.",
-    "fa": "بله، داده شد.",
+    "fa": "آره، بودم.",
     "source_indices": [
       5254
     ],
@@ -1240,7 +1240,7 @@
   },
   {
     "en": "This job is about making sacrifices for the greater good.",
-    "fa": "این کار یعنی فداکاری برای خیر بزرگ‌تر.",
+    "fa": "این کار یعنی برای یه هدف بزرگ‌تر، فداکاری کنی.",
     "source_indices": [
       5271
     ],
@@ -1752,7 +1752,7 @@
   },
   {
     "en": "North Korean forces occupy key strongpoints in the city.",
-    "fa": "نیروهای کرهٔ شمالی نقاط مستحکم کلیدی شهر را در اختیار دارند.",
+    "fa": "نیروهای کرهٔ شمالی مواضع کلیدی شهر رو اشغال کردن.",
     "source_indices": [
       6920
     ],
@@ -1760,7 +1760,7 @@
   },
   {
     "en": "That hotel functions as their communications relay",
-    "fa": "آن هتل به‌عنوان رلهٔ ارتباطی آن‌ها عمل می‌کند",
+    "fa": "اون هتل مرکز تقویت و انتقال پیام‌هاشونه",
     "source_indices": [
       6921
     ],
@@ -1776,7 +1776,7 @@
   },
   {
     "en": "Disrupt that node, and we fracture their ability to coordinate.",
-    "fa": "آن گره را مختل کنیم، توان هماهنگی‌شان را درهم می‌شکنیم.",
+    "fa": "اون مرکز رو از کار بندازیم، دیگه نمی‌تونن نیروهاشون رو هماهنگ کنن.",
     "source_indices": [
       6923
     ],
@@ -1784,7 +1784,7 @@
   },
   {
     "en": "At 0900, the Battalion Landing Team",
-    "fa": "ساعت 0900، تیم نشست گردان",
+    "fa": "ساعت 0900، گردانِ نیروی پیاده‌شونده",
     "source_indices": [
       6924
     ],
@@ -1824,7 +1824,7 @@
   },
   {
     "en": "Main Effort, Bravo Company, call sign Mayhem, will push west towards the hotel.",
-    "fa": "تلاش اصلی با گروهان براوو، با رمز میهم، است که به سمت غرب و هتل پیشروی می‌کند.",
+    "fa": "محور اصلی حمله با گروهان براوو، با کدنام میهمه؛ به سمت غرب و هتل پیشروی می‌کنن.",
     "source_indices": [
       6929
     ],
@@ -1992,7 +1992,7 @@
   },
   {
     "en": "A structured, disciplined, street-level brotherhood.",
-    "fa": "یه برادری منظم و منضبط در سطح خیابان.",
+    "fa": "یه جمع خیابونیِ متحد، منظم و باانضباط.",
     "source_indices": [
       6963
     ],
@@ -2016,7 +2016,7 @@
   },
   {
     "en": "I hear you shit on Wu-Tang again,",
-    "fa": "اگه دوباره بشنوم به وو-تانگ گه زدی،",
+    "fa": "اگه یه بار دیگه بشنوم به وو-تانگ گه می‌زنی،",
     "source_indices": [
       6966
     ],
@@ -2048,7 +2048,7 @@
   },
   {
     "en": "Keep your scouts in line.",
-    "fa": "پیشاهنگ‌هات رو سر جاشون نگه دار.",
+    "fa": "حواست باشه پیشاهنگ‌هات از خط خارج نشن.",
     "source_indices": [
       6982
     ],
@@ -2056,7 +2056,7 @@
   },
   {
     "en": "Let’s move with purpose.",
-    "fa": "با هدف حرکت کنیم.",
+    "fa": "بجنبین، وقت تلف نکنیم.",
     "source_indices": [
       6984
     ],
@@ -2096,7 +2096,7 @@
   },
   {
     "en": "[Sergeant, sir, I checked my rations and I’m topped off.]",
-    "fa": "[گروهبان، قربان، جیره‌م رو چک کردم و پره.]",
+    "fa": "[گروهبان، قربان، جیره‌م رو چک کردم؛ چیزی کم ندارم.]",
     "source_indices": [
       6997
     ],
@@ -2112,7 +2112,7 @@
   },
   {
     "en": "[Private Ju Kwon, grunts are in a constant state of confusion.]",
-    "fa": "[سرباز جو کوون، پیاده‌نظام‌ها همیشه تو حالت سردرگمی‌ان.]",
+    "fa": "[سرباز جو کوون، پیاده‌نظام همیشه گیجه.]",
     "source_indices": [
       6999
     ],
@@ -2144,7 +2144,7 @@
   },
   {
     "en": "[Yeah. I’m going to make a career out of it.]",
-    "fa": "[آره. می‌خوام ازش شغل بسازم.]",
+    "fa": "[آره. می‌خوام نظامی‌گری شغلم باشه.]",
     "source_indices": [
       7004
     ],
@@ -2208,7 +2208,7 @@
   },
   {
     "en": "I have it too.",
-    "fa": "من هم دارم.",
+    "fa": "منم ازش می‌ترسم.",
     "source_indices": [
       7036
     ],
@@ -2224,7 +2224,7 @@
   },
   {
     "en": "The masses bear the weight while the powerful want for nothing.",
-    "fa": "مردم بار رو به دوش می‌کشن در حالی که قدرتمندها هیچ کمبودی ندارن.",
+    "fa": "مردم سختی می‌کشن، ولی قدرتمندا هیچی کم ندارن.",
     "source_indices": [
       7038
     ],
@@ -2536,7 +2536,7 @@
   },
   {
     "en": "Don’t get stuck in your head.",
-    "fa": "تو سر خودت گیر نکن.",
+    "fa": "زیادی فکر و خیال نکن.",
     "source_indices": [
       7107
     ],
@@ -2656,7 +2656,7 @@
   },
   {
     "en": "Tier-1 forces are infiltrating into North Korea to hit key targets.",
-    "fa": "نیروهای تایر-1 برای زدن اهداف کلیدی به کرهٔ شمالی نفوذ می‌کنند.",
+    "fa": "نیروهای عملیات ویژه دارن برای زدن اهداف کلیدی به کرهٔ شمالی نفوذ می‌کنن.",
     "source_indices": [
       7132
     ],
@@ -2688,7 +2688,7 @@
   },
   {
     "en": "Once on target, we’ll destroy all air and ground assault elements with explosive charges.",
-    "fa": "وقتی به هدف رسیدیم، همهٔ عناصر حملهٔ هوایی و زمینی رو با بارهای انفجاری نابود می‌کنیم.",
+    "fa": "وقتی به هدف رسیدیم، تمام تجهیزات تهاجمی هوایی و زمینی رو با مواد منفجره نابود می‌کنیم.",
     "source_indices": [
       7136
     ],
@@ -2792,7 +2792,7 @@
   },
   {
     "en": "What’s in that case that’s so important?",
-    "fa": "تو اون محموله چی هست که این‌قدر مهمه؟",
+    "fa": "تو اون کیف چی هست که این‌قدر مهمه؟",
     "source_indices": [
       7164
     ],
@@ -2904,7 +2904,7 @@
   },
   {
     "en": "Because I found a way to him.",
-    "fa": "چون راهی بهش پیدا کردم.",
+    "fa": "چون یه راه برای رسیدن بهش پیدا کردم.",
     "source_indices": [
       7198
     ],
@@ -3017,7 +3017,7 @@
   },
   {
     "en": "[Tell me your favorite.]",
-    "fa": "[محبوب‌ترینت رو بگو.]",
+    "fa": "[اونی رو که بیشتر دوست داری بگو.]",
     "source_indices": [
       7216
     ],
@@ -3033,7 +3033,7 @@
   },
   {
     "en": "[Do you want to know my favorite?]",
-    "fa": "[می‌خوای محبوب‌ترین من رو بدونی؟]",
+    "fa": "[می‌خوای بدونی من کدوم رو بیشتر دوست دارم؟]",
     "source_indices": [
       7219
     ],
@@ -3057,7 +3057,7 @@
   },
   {
     "en": "[Who hid you under the floor?]",
-    "fa": "[کی تو رو زیر کف قایم کرد؟]",
+    "fa": "[کی زیر تخته‌های کف قایمت کرد؟]",
     "source_indices": [
       7224
     ],
@@ -3073,7 +3073,7 @@
   },
   {
     "en": "[Kin punishment. Three generations.]",
-    "fa": "[مجازات خویشاوندان. سه نسل.]",
+    "fa": "[مجازاتِ خانواده. تا سه نسل.]",
     "source_indices": [
       7230
     ],
@@ -3161,7 +3161,7 @@
   },
   {
     "en": "[You're staying behind?]",
-    "fa": "[تو پشت سر می‌مونی؟]",
+    "fa": "[تو اینجا می‌مونی؟]",
     "source_indices": [
       7266
     ],
@@ -3209,7 +3209,7 @@
   },
   {
     "en": "[Have you chosen a path yet?]",
-    "fa": "[هنوز راهتو انتخاب کردی؟]",
+    "fa": "[بالاخره راهت رو انتخاب کردی؟]",
     "source_indices": [
       7272
     ],
@@ -3217,7 +3217,7 @@
   },
   {
     "en": "Collapse to your exfil points.",
-    "fa": "به نقاط خروج‌تون جمع بشید.",
+    "fa": "به سمت نقاط خروج‌تون عقب بکشین و جمع بشین.",
     "source_indices": [
       7276
     ],
@@ -3329,7 +3329,7 @@
   },
   {
     "en": "Containment and isolation.",
-    "fa": "مهار و منزوی کردن.",
+    "fa": "محاصره‌اش کنین و راه‌های ارتباطش رو ببندین.",
     "source_indices": [
       7296
     ],
@@ -3345,7 +3345,7 @@
   },
   {
     "en": "We’ll be drawing a lot of fire.",
-    "fa": "آتش زیادی رو خودمون می‌کشیم.",
+    "fa": "کلی تیر و ترکش قراره سمت ما بیاد.",
     "source_indices": [
       7298
     ],
@@ -3393,7 +3393,7 @@
   },
   {
     "en": "They're all yours, Captain.",
-    "fa": "همه‌شون مال شما، کاپیتان.",
+    "fa": "فرماندهی‌شون با شما، سروان.",
     "source_indices": [
       7304
     ],
@@ -3474,7 +3474,7 @@
   },
   {
     "en": "Marine chalks will insert via dual-rotor helos.",
-    "fa": "دسته‌های تفنگدار با هلیکوپترای دورتوربینه وارد می‌شن.",
+    "fa": "دسته‌های تفنگدار با هلیکوپترهای دوپروانه وارد می‌شن.",
     "source_indices": [
       7324
     ],
@@ -3490,7 +3490,7 @@
   },
   {
     "en": "Two will take HLZ Bravo, on the southern rooftop, and handle isolation.",
-    "fa": "دستهٔ دو منطقهٔ فرود براوو، روی پشت‌بام جنوبی رو می‌گیره و مسئول انزواست.",
+    "fa": "دستهٔ دو منطقهٔ فرود براوو رو روی پشت‌بام جنوبی می‌گیره و راه‌های دسترسی رو می‌بنده.",
     "source_indices": [
       7326
     ],
@@ -3626,7 +3626,7 @@
   },
   {
     "en": "Air support will soften the target for us.",
-    "fa": "پشتیبانی هوایی هدف رو برامون نرم می‌کنه.",
+    "fa": "پشتیبانی هوایی دفاع دشمن رو قبل از رسیدن ما تضعیف می‌کنه.",
     "source_indices": [
       7352
     ],
@@ -3762,7 +3762,7 @@
   },
   {
     "en": "'Cause you know I will.",
-    "fa": "چون می‌دونی که می‌کشمش.",
+    "fa": "چون می‌دونی منم هر کاری لازم باشه می‌کنم.",
     "source_indices": [
       7370
     ],
@@ -3939,7 +3939,7 @@
   },
   {
     "en": "In what seems to be a coordinated effort,",
-    "fa": "در چیزی که شبیه یه اقدام هماهنگه،",
+    "fa": "در اقدامی که ظاهراً هماهنگ‌شده‌ست،",
     "source_indices": [
       7420
     ],
@@ -4467,7 +4467,7 @@
   },
   {
     "en": "but it’s here now.",
-    "fa": "ولی الان اینجاست.",
+    "fa": "ولی حالا باید باهاش روبه‌رو بشیم.",
     "source_indices": [
       7490
     ],
@@ -4676,7 +4676,7 @@
   },
   {
     "en": "By what means?",
-    "fa": "با چه وسیله‌ای؟",
+    "fa": "از چه راهی؟",
     "source_indices": [
       7543
     ],
@@ -4820,7 +4820,7 @@
   },
   {
     "en": "He has my sister’s ear.",
-    "fa": "گوش خواهرم دست اونه.",
+    "fa": "خواهرم به حرفش گوش می‌ده.",
     "source_indices": [
       7562
     ],
@@ -6197,7 +6197,7 @@
   },
   {
     "en": "They dominate any threat with controlled aggression and a verbal swagger.",
-    "fa": "اونا هر تهدیدی رو با پرخاشگری کنترل‌شده و کلاس کلامی مهار می‌کنن.",
+    "fa": "اونا با حملهٔ حساب‌شده و رجزخونی، هر حریفی رو از پا درمیارن.",
     "source_indices": [
       37444
     ],
@@ -6205,7 +6205,7 @@
   },
   {
     "en": "They’ve established a Command Element in Hotel Lucera, half a klick inland.",
-    "fa": "اونا یه عنصر فرماندهی تو هتل لوچرا، نیم کیلومتر داخل خشکی مستقر کردن.",
+    "fa": "اونا یه مرکز فرماندهی تو هتل لوچرا مستقر کردن، نیم کیلومتر دورتر از ساحل.",
     "source_indices": [
       37521
     ],
@@ -6221,7 +6221,7 @@
   },
   {
     "en": "Do you want to explain to me why they’re fucking up all the good work we’ve done?",
-    "fa": "می‌خوای برام توضیح بدی چرا دارن همهٔ کارای خوبی که کردیم رو گه می‌زنن؟",
+    "fa": "می‌خوای برام توضیح بدی چرا دارن به همهٔ زحمتایی که کشیدیم می‌رینن؟",
     "source_indices": [
       37576
     ],
@@ -6229,7 +6229,7 @@
   },
   {
     "en": "The base is within effective range of Hajin and is a main deterrent from retaking the city.",
-    "fa": "این پایگاه در برد مؤثر هاجین قرار دارد و مانع اصلی بازپس‌گیری شهر است.",
+    "fa": "هاجین تو بردِ آتش این پایگاهه؛ تا این پایگاه سر جاشه، پس گرفتن شهر کار سختیه.",
     "source_indices": [
       37705
     ],

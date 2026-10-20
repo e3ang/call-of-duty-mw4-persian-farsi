@@ -46,6 +46,15 @@ static int resolve_live_snapshot(unsigned char *base,RtlTargets *out,const char 
   candidate.text_function=base+rva;
  }
 #endif
+#ifdef RTL_REQUIRE_TEXT_RENDERER
+ for(unsigned k=0;k<2;k++){
+  unsigned char *fn=find_caption_background_renderer(&view,k),live[64];
+  if(fn&&in_section(&view,fn,sizeof(live),IMAGE_SCN_MEM_EXECUTE)){
+   size_t rva=fn-copy;
+   if(safe_read(base+rva,live,sizeof(live))&&!memcmp(live,fn,sizeof(live)))candidate.background_function[k]=base+rva;
+  }
+ }
+#endif
  candidate.table=base+(candidate.table-copy);
  for(int i=0;i<2;i++){
   size_t function_rva=candidate.function[i]-copy;

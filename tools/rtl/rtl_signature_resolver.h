@@ -1,6 +1,6 @@
 #include "rtl_signatures.h"
 typedef struct {unsigned char *base;size_t size;IMAGE_SECTION_HEADER *sections;unsigned count;unsigned char *live_base;} ImageView;
-typedef struct {unsigned char *function[2];void **slot[2];unsigned char *flag;unsigned char ids[2];unsigned char *table,*text_function;} RtlTargets;
+typedef struct {unsigned char *function[2];void **slot[2];unsigned char *flag;unsigned char ids[2];unsigned char *table,*text_function,*background_function[2];} RtlTargets;
 static int image_view(unsigned char *base,ImageView *v){
  if(!access_ok(base,sizeof(IMAGE_DOS_HEADER),0))return 0;
  IMAGE_DOS_HEADER *d=(void*)base;if(d->e_magic!=IMAGE_DOS_SIGNATURE||d->e_lfanew<=0||d->e_lfanew>0x100000)return 0;

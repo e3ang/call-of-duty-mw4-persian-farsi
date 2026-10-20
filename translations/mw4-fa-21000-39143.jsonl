@@ -3831,7 +3831,7 @@
 {"index": 24830, "en": "Got that one.", "fa": "اون یکی رو زدم.", "status": "translated", "note": ""}
 {"index": 24831, "en": "To the right!", "fa": "سمت راست!", "status": "translated", "note": ""}
 {"index": 24832, "en": "To the right.", "fa": "سمت راست.", "status": "translated", "note": ""}
-{"index": 24833, "en": "^8Jae: ^7Sir!", "fa": "^8جی: ^7قربان!", "status": "translated", "note": ""}
+{"index": 24833, "en": "^8Jae: ^7Sir!", "fa": "^8جه: ^7قربان!", "status": "translated", "note": ""}
 {"index": 24834, "en": "To your left.", "fa": "سمت چپت.", "status": "translated", "note": ""}
 {"index": 24835, "en": "DELETE RECORD", "fa": "حذف رکورد", "status": "translated", "note": ""}
 {"index": 24836, "en": "Nine o’clock!", "fa": "ساعت نُه!", "status": "translated", "note": ""}
@@ -4026,10 +4026,10 @@
 {"index": 25025, "en": "FSS Tac90 Grip", "fa": "دستگیرهٔ FSS Tac90", "status": "translated", "note": ""}
 {"index": 25026, "en": "I’m moving in.", "fa": "دارم می‌رم تو.", "status": "translated", "note": ""}
 {"index": 25027, "en": "Crowd Control!", "fa": "کنترل جمعیت!", "status": "translated", "note": ""}
-{"index": 25028, "en": "Use your NODs.", "fa": "از دید شبانه‌ت استفاده کن.", "status": "translated", "note": ""}
+{"index": 25028, "en": "Use your NODs.", "fa": "از دید شبانه تو استفاده کن.", "status": "translated", "note": ""}
 {"index": 25029, "en": "Ergonomic Comb", "fa": "کمپ ارگونومیک", "status": "needs_context", "note": "Comb likely short for Compensator"}
 {"index": 25030, "en": "Just like you.", "fa": "درست مثل خودت.", "status": "translated", "note": ""}
-{"index": 25031, "en": "Use your NODs!", "fa": "از دید شبانه‌ت استفاده کن!", "status": "translated", "note": ""}
+{"index": 25031, "en": "Use your NODs!", "fa": "از دید شبانه تو استفاده کن!", "status": "translated", "note": ""}
 {"index": 25032, "en": "Hallway clear!", "fa": "راهرو امنه!", "status": "translated", "note": ""}
 {"index": 25033, "en": "Decoy Distract", "fa": "حواس‌پرتی با فریب", "status": "translated", "note": ""}
 {"index": 25034, "en": "SANG Wood Grip", "fa": "دستگیرهٔ چوبی SANG", "status": "translated", "note": ""}
@@ -4207,7 +4207,7 @@
 {"index": 25206, "en": "Not seeing it.", "fa": "نمی‌بینمش.", "status": "translated", "note": ""}
 {"index": 25207, "en": "Hit him again!", "fa": "دوباره بزنش!", "status": "translated", "note": ""}
 {"index": 25208, "en": "Counter Attack", "fa": "ضدحمله", "status": "translated", "note": ""}
-{"index": 25209, "en": "Drop your gun.", "fa": "اسلحه‌ت رو بنداز.", "status": "translated", "note": ""}
+{"index": 25209, "en": "Drop your gun.", "fa": "اسلحه تو رو بنداز.", "status": "translated", "note": ""}
 {"index": 25210, "en": "Popping smoke!", "fa": "دود می‌ندازم!", "status": "translated", "note": ""}
 {"index": 25211, "en": "Fucked ‘em up!", "fa": "گاییدمشون!", "status": "translated", "note": ""}
 {"index": 25212, "en": "Popping smoke.", "fa": "دود می‌ندازم.", "status": "translated", "note": ""}
@@ -4578,7 +4578,7 @@
 {"index": 25577, "en": "Side Ops Payout", "fa": "پاداش عملیات فرعی", "status": "translated", "note": ""}
 {"index": 25578, "en": "We gotta climb.", "fa": "باید بالا بریم.", "status": "translated", "note": ""}
 {"index": 25579, "en": "It’s j-just us.", "fa": "ف-فقط خودمونیم.", "status": "translated", "note": ""}
-{"index": 25580, "en": "I'm good to go.", "fa": "آماده‌م.", "status": "translated", "note": ""}
+{"index": 25580, "en": "I'm good to go.", "fa": "آماده‌ام.", "status": "translated", "note": ""}
 {"index": 25581, "en": "I don’t know...", "fa": "نمی‌دونم...", "status": "translated", "note": ""}
 {"index": 25582, "en": "1-1’s engaging!", "fa": "1-1 درگیر شد!", "status": "translated", "note": ""}
 {"index": 25583, "en": "Pay the Cashier", "fa": "به صندوق‌دار پول بده", "status": "translated", "note": ""}
@@ -5004,7 +5004,7 @@
 {"index": 26003, "en": "Artillery Beacon", "fa": "نشانگر توپخانه", "status": "translated", "note": ""}
 {"index": 26004, "en": "[Kill them all.]", "fa": "[همه‌شونو بکشین.]", "status": "translated", "note": ""}
 {"index": 26005, "en": "8x Magnification", "fa": "بزرگ‌نمایی 8x", "status": "translated", "note": ""}
-{"index": 26006, "en": "I'm set. On you.", "fa": "آماده‌م. منتظر توام.", "status": "translated", "note": ""}
+{"index": 26006, "en": "I'm set. On you.", "fa": "آماده‌ام. منتظر توام.", "status": "translated", "note": ""}
 {"index": 26007, "en": "I’m on your six!", "fa": "پشتتم!", "status": "translated", "note": ""}
 {"index": 26008, "en": "[We’re loyal...]", "fa": "[ما وفاداریم...]", "status": "translated", "note": ""}
 {"index": 26009, "en": "Behind the tree!", "fa": "پشت درخت!", "status": "translated", "note": ""}
@@ -5195,7 +5195,7 @@
 {"index": 26194, "en": "I can’t find it.", "fa": "پیداش نمی‌کنم.", "status": "translated", "note": ""}
 {"index": 26195, "en": "Pushing through.", "fa": "دارم رد می‌شم.", "status": "translated", "note": ""}
 {"index": 26196, "en": "One charge left.", "fa": "یه شارژ مونده.", "status": "translated", "note": ""}
-{"index": 26197, "en": "^8Jae: ^7Yeah...", "fa": "^8جی: ^7آره...", "status": "translated", "note": ""}
+{"index": 26197, "en": "^8Jae: ^7Yeah...", "fa": "^8جه: ^7آره...", "status": "translated", "note": ""}
 {"index": 26198, "en": "Next room. Move.", "fa": "اتاق بعدی. حرکت.", "status": "translated", "note": ""}
 {"index": 26199, "en": "Dunn, he’s dead.", "fa": "دان، مرده.", "status": "translated", "note": ""}
 {"index": 26200, "en": "^8Ghost: ^7Yeah.", "fa": "^8گوست: ^7آره.", "status": "translated", "note": ""}
@@ -5959,7 +5959,7 @@
 {"index": 26958, "en": "[No! Just leave!]", "fa": "[نه! فقط برو!]", "status": "translated", "note": ""}
 {"index": 26959, "en": "Broadcast Expired", "fa": "پخش منقضی شد", "status": "translated", "note": ""}
 {"index": 26960, "en": "[Don’t kill him.]", "fa": "[نکشینش.]", "status": "translated", "note": ""}
-{"index": 26961, "en": "Just up the road.", "fa": "همین بالای جاده.", "status": "translated", "note": ""}
+{"index": 26961, "en": "Just up the road.", "fa": "کمی جلوتر، تو همین جاده.", "status": "translated", "note": ""}
 {"index": 26962, "en": "[Here they come!]", "fa": "[دارن میان!]", "status": "translated", "note": ""}
 {"index": 26963, "en": "From store bundle", "fa": "از بسته فروشگاه", "status": "translated", "note": ""}
 {"index": 26964, "en": "Supplies in here.", "fa": "لوازم اینجاست.", "status": "translated", "note": ""}
@@ -6028,7 +6028,7 @@
 {"index": 27027, "en": "Regroup with Squad", "fa": "به تیم ملحق شوید", "status": "translated", "note": ""}
 {"index": 27028, "en": "Just stay s-still.", "fa": "فقط ب-بی‌حرکت بمون.", "status": "translated", "note": ""}
 {"index": 27029, "en": "Enemies moving in!", "fa": "دشمن داره نزدیک می‌شه!", "status": "translated", "note": ""}
-{"index": 27030, "en": "I’m low on plates!", "fa": "صفحه زره‌م کمه!", "status": "translated", "note": ""}
+{"index": 27030, "en": "I’m low on plates!", "fa": "صفحه زره‌ام کمه!", "status": "translated", "note": ""}
 {"index": 27031, "en": "Come on, this way!", "fa": "بیا، از این طرف!", "status": "translated", "note": ""}
 {"index": 27032, "en": "PRINTED TO LOADOUT", "fa": "چاپ شد در تجهیزات", "status": "translated", "note": ""}
 {"index": 27033, "en": "Lead the way, sir.", "fa": "راه رو نشون بدین، قربان.", "status": "translated", "note": ""}
@@ -6345,7 +6345,7 @@
 {"index": 27344, "en": "Upper level clear.", "fa": "طبقه بالا پاکه.", "status": "translated", "note": ""}
 {"index": 27345, "en": "Killstreak Lottery", "fa": "قرعه‌کشی کیل‌استریک", "status": "translated", "note": ""}
 {"index": 27346, "en": "6.4x Magnification", "fa": "بزرگ‌نمایی 6.4 برابر", "status": "translated", "note": ""}
-{"index": 27347, "en": "[My armor's gone!]", "fa": "[زره‌م از بین رفت!]", "status": "translated", "note": ""}
+{"index": 27347, "en": "[My armor's gone!]", "fa": "[زره‌ام از بین رفت!]", "status": "translated", "note": ""}
 {"index": 27348, "en": "Manual: PI Hotel45", "fa": "راهنما: PI Hotel45", "status": "translated", "note": ""}
 {"index": 27349, "en": "Two vehicles left!", "fa": "دو تا وسیله نقلیه مونده!", "status": "translated", "note": ""}
 {"index": 27350, "en": "No &&1 to display.", "fa": "هیچ &&1 برای نمایش وجود ندارد.", "status": "translated", "note": ""}
@@ -6536,12 +6536,12 @@
 {"index": 27535, "en": "They got fucked up.", "fa": "گاییده شدن.", "status": "translated", "note": ""}
 {"index": 27536, "en": "Master Sergeant III", "fa": "استوار ارشد 3", "status": "translated", "note": ""}
 {"index": 27537, "en": "Hardcore Quick Play", "fa": "بازی سریع هاردکور", "status": "translated", "note": ""}
-{"index": 27538, "en": "Oh. I’m not hungry.", "fa": "آهان. گرسنه‌م نیست.", "status": "translated", "note": ""}
+{"index": 27538, "en": "Oh. I’m not hungry.", "fa": "آهان. گرسنه‌ام نیست.", "status": "translated", "note": ""}
 {"index": 27539, "en": "That’s our way out.", "fa": "اون راه خروج ماست.", "status": "translated", "note": ""}
 {"index": 27540, "en": "// MISSION OVERVIEW", "fa": "// مرور مرحله", "status": "translated", "note": ""}
 {"index": 27541, "en": "Got another sniper!", "fa": "یه تکتیرانداز دیگه هست!", "status": "translated", "note": ""}
 {"index": 27542, "en": "Stay the fuck down!", "fa": "سرتو بیار پایین، کونی!", "status": "translated", "note": ""}
-{"index": 27543, "en": "You hungry already?", "fa": "همین الان گرسنه‌ت شد؟", "status": "translated", "note": ""}
+{"index": 27543, "en": "You hungry already?", "fa": "همین الان گرسنه تو شد؟", "status": "translated", "note": ""}
 {"index": 27544, "en": "They’re safer here.", "fa": "اینجا امن‌ترن.", "status": "translated", "note": ""}
 {"index": 27545, "en": "Suicide Spawn Delay", "fa": "تأخیر بازگشت پس از خودکشی", "status": "translated", "note": ""}
 {"index": 27546, "en": "You trying to miss?", "fa": "می‌خوای عمداً خطا بزنی؟", "status": "translated", "note": ""}
@@ -6949,7 +6949,7 @@
 {"index": 27948, "en": "Target the vehicle.", "fa": "خودرو رو هدف بگیر.", "status": "translated", "note": ""}
 {"index": 27949, "en": "Next room. Push up.", "fa": "اتاق بعدی. پیش برو.", "status": "translated", "note": ""}
 {"index": 27950, "en": "[Shut the fuck up.]", "fa": "[خفه شو، کونی.]", "status": "translated", "note": ""}
-{"index": 27951, "en": "Flatten your angle.", "fa": "زاویه‌ت رو کم کن.", "status": "translated", "note": ""}
+{"index": 27951, "en": "Flatten your angle.", "fa": "زاویه تو رو کم کن.", "status": "translated", "note": ""}
 {"index": 27952, "en": "Got some over here!", "fa": "اینجا چندتا هست!", "status": "translated", "note": ""}
 {"index": 27953, "en": "Right side’s clear!", "fa": "سمت راست پاکه!", "status": "translated", "note": ""}
 {"index": 27954, "en": "More Shadows ahead.", "fa": "شدوهای بیشتری جلوئه.", "status": "translated", "note": ""}
@@ -7110,7 +7110,7 @@
 {"index": 28109, "en": "You want on my team?", "fa": "می‌خوای تو تیم من باشی؟", "status": "translated", "note": ""}
 {"index": 28110, "en": "Yeah - I'm with you.", "fa": "آره - من با توام.", "status": "translated", "note": ""}
 {"index": 28111, "en": "&&1% BLACKCELL BOOST", "fa": "&&1% تقویت BLACKCELL", "status": "translated", "note": ""}
-{"index": 28112, "en": "That'll shut you up…", "fa": "این خفه‌ت می‌کنه…", "status": "translated", "note": ""}
+{"index": 28112, "en": "That'll shut you up…", "fa": "این خفه تو می‌کنه…", "status": "translated", "note": ""}
 {"index": 28113, "en": "EXP Calvary II Stock", "fa": "قنداق EXP Calvary II", "status": "translated", "note": ""}
 {"index": 28114, "en": "Blow them back, SAS!", "fa": "پسشون بزنید، اس‌ای‌اس!", "status": "translated", "note": ""}
 {"index": 28115, "en": "They're using smoke!", "fa": "دارن از دود استفاده می‌کنن!", "status": "translated", "note": ""}
@@ -7128,7 +7128,7 @@
 {"index": 28127, "en": "Damn, nice reflexes.", "fa": "لعنتی، رفلکس خوبی داری.", "status": "translated", "note": ""}
 {"index": 28128, "en": "[Got an enemy here!]", "fa": "[اینجا یه دشمن دارم!]", "status": "translated", "note": ""}
 {"index": 28129, "en": "Enemy bird overhead!", "fa": "پرنده دشمن بالای سرمونه!", "status": "translated", "note": ""}
-{"index": 28130, "en": "We’re the last ones.", "fa": "ما آخری‌ها هستیم.", "status": "translated", "note": ""}
+{"index": 28130, "en": "We’re the last ones.", "fa": "فقط ما موندیم.", "status": "translated", "note": ""}
 {"index": 28131, "en": "Yo, who got the hwe?", "fa": "هی، کی hwe رو گرفت؟", "status": "translated", "note": ""}
 {"index": 28132, "en": "Took out their tank.", "fa": "تانکشون رو زدیم.", "status": "translated", "note": ""}
 {"index": 28133, "en": "Mayhem-4, moving up.", "fa": "میهم-4، در حال پیشروی.", "status": "translated", "note": ""}
@@ -7379,12 +7379,12 @@
 {"index": 28378, "en": "[{ui_alt2}] CONTINUE", "fa": "[{ui_alt2}] ادامه", "status": "translated", "note": ""}
 {"index": 28379, "en": "I’ll take the right.", "fa": "من سمت راست رو می‌گیرم.", "status": "translated", "note": ""}
 {"index": 28380, "en": "[What is he doing?!]", "fa": "[داره چی کار می‌کنه؟!]", "status": "translated", "note": ""}
-{"index": 28381, "en": "^8Jae: ^7[You good?]", "fa": "^8جی: ^7[خوبی؟]", "status": "translated", "note": ""}
+{"index": 28381, "en": "^8Jae: ^7[You good?]", "fa": "^8جه: ^7[خوبی؟]", "status": "translated", "note": ""}
 {"index": 28382, "en": "Please stop talking.", "fa": "لطفاً دیگه حرف نزن.", "status": "translated", "note": ""}
 {"index": 28383, "en": "^8Kal: ^7He’s right.", "fa": "^8کال: ^7حق با اونه.", "status": "translated", "note": ""}
 {"index": 28384, "en": "[It's cold as hell.]", "fa": "[هوا لامصب سرده.]", "status": "translated", "note": ""}
 {"index": 28385, "en": "You chose your side.", "fa": "تو طرفتو انتخاب کردی.", "status": "translated", "note": ""}
-{"index": 28386, "en": "Get your weapon out.", "fa": "اسلحه‌ت رو بیار بیرون.", "status": "translated", "note": ""}
+{"index": 28386, "en": "Get your weapon out.", "fa": "اسلحه تو رو بیار بیرون.", "status": "translated", "note": ""}
 {"index": 28387, "en": "Bomb drone incoming!", "fa": "پهپاد بمب‌گذار در راهه!", "status": "translated", "note": ""}
 {"index": 28388, "en": "Targets in the road!", "fa": "اهداف تو جاده‌ان!", "status": "translated", "note": ""}
 {"index": 28389, "en": "Killstreak Confirmed", "fa": "کیل‌استریک تأیید شد", "status": "translated", "note": ""}
@@ -7609,7 +7609,7 @@
 {"index": 28608, "en": "Take the pistol, too.", "fa": "تپانچه رو هم بردار.", "status": "translated", "note": ""}
 {"index": 28609, "en": "Zombies Completionist", "fa": "کامل‌کنندهٔ زامبی‌ها", "status": "translated", "note": ""}
 {"index": 28610, "en": "Took their light out!", "fa": "چراغشونو از کار انداختم!", "status": "translated", "note": ""}
-{"index": 28611, "en": "It’s bad form... sir.", "fa": "کار زشتیه... قربان.", "status": "translated", "note": ""}
+{"index": 28611, "en": "It’s bad form... sir.", "fa": "رسمش این نیست... قربان.", "status": "translated", "note": ""}
 {"index": 28612, "en": "Happy birthday, Park.", "fa": "تولدت مبارک، پارک.", "status": "translated", "note": ""}
 {"index": 28613, "en": "Where are the others?", "fa": "بقیه کجان؟", "status": "translated", "note": ""}
 {"index": 28614, "en": "Tactical Sprint Speed", "fa": "سرعت دوی تاکتیکی", "status": "translated", "note": ""}
@@ -7864,7 +7864,7 @@
 {"index": 28863, "en": "How far is the hotel?", "fa": "هتل چقدر مونده؟", "status": "translated", "note": ""}
 {"index": 28864, "en": "Got supplies in here.", "fa": "اینجا تدارکات هست.", "status": "translated", "note": ""}
 {"index": 28865, "en": "Hug the ground, Park.", "fa": "بچسب به زمین، پارک.", "status": "translated", "note": ""}
-{"index": 28866, "en": "^8Jae: ^7[Good idea.]", "fa": "^8جی: ^7[ایدهٔ خوبیه.]", "status": "translated", "note": ""}
+{"index": 28866, "en": "^8Jae: ^7[Good idea.]", "fa": "^8جه: ^7[ایدهٔ خوبیه.]", "status": "translated", "note": ""}
 {"index": 28867, "en": "Hey! Watch your head!", "fa": "هی! حواست به سرت باشه!", "status": "translated", "note": ""}
 {"index": 28868, "en": "Timed sticky grenade.", "fa": "نارنجک چسبنده زمان‌دار.", "status": "translated", "note": ""}
 {"index": 28869, "en": "Where the fuck is he?", "fa": "این لامصب کدوم گوریه؟", "status": "translated", "note": ""}
@@ -8166,7 +8166,7 @@
 {"index": 29165, "en": "I’ll get us a vehicle.", "fa": "یه وسیله برامون جور می‌کنم.", "status": "translated", "note": ""}
 {"index": 29166, "en": "The Citadel South Wing", "fa": "جناح جنوبی ارگ", "status": "translated", "note": ""}
 {"index": 29167, "en": "[Capture, don’t kill.]", "fa": "[دستگیر کن، نکش.]", "status": "translated", "note": ""}
-{"index": 29168, "en": "What’s your plan here?", "fa": "نقشه‌ت اینجا چیه؟", "status": "translated", "note": ""}
+{"index": 29168, "en": "What’s your plan here?", "fa": "نقشه تو اینجا چیه؟", "status": "translated", "note": ""}
 {"index": 29169, "en": "Stolen Antiquities 4\n", "fa": "عتیقه‌های سرقتی 4\n", "status": "translated", "note": ""}
 {"index": 29170, "en": "I‘ll fucking kill you!", "fa": "می‌کشمت لامصب!", "status": "translated", "note": ""}
 {"index": 29171, "en": "Stolen Antiquities 1\n", "fa": "عتیقه‌های سرقتی 1\n", "status": "translated", "note": ""}
@@ -8316,7 +8316,7 @@
 {"index": 29315, "en": "Activate Armory Unlock", "fa": "فعال‌سازی بازگشایی زرادخانه", "status": "translated", "note": ""}
 {"index": 29316, "en": "I see the power plant.", "fa": "نیروگاه رو می‌بینم.", "status": "translated", "note": ""}
 {"index": 29317, "en": "Multiple targets down.", "fa": "چند هدف از پا درآمدن.", "status": "translated", "note": ""}
-{"index": 29318, "en": "What’s your plan now!?", "fa": "حالا نقشه‌ت چیه!؟", "status": "translated", "note": ""}
+{"index": 29318, "en": "What’s your plan now!?", "fa": "حالا نقشه تو چیه!؟", "status": "translated", "note": ""}
 {"index": 29319, "en": "7.62 NATO Hollow Point", "fa": "7.62 ناتو سرتوخالی", "status": "translated", "note": ""}
 {"index": 29320, "en": "[Hey!] Get in! Get in!", "fa": "[هی!] سوار شو! سوار شو!", "status": "translated", "note": ""}
 {"index": 29321, "en": "4.6x30mm High Velocity", "fa": "4.6x30mm پرسرعت", "status": "translated", "note": ""}
@@ -8738,7 +8738,7 @@
 {"index": 29737, "en": "Exit through that gate.", "fa": "از اون دروازه خارج شو.", "status": "translated", "note": ""}
 {"index": 29738, "en": "Destroyed Sentry Turret", "fa": "برج دیده‌بانی نابود شد", "status": "translated", "note": ""}
 {"index": 29739, "en": "Got a house up ahead...", "fa": "یه خونه جلوتره...", "status": "translated", "note": ""}
-{"index": 29740, "en": "[They’re boxing me in!]", "fa": "[دارن محاصره‌م می‌کنن!]", "status": "translated", "note": ""}
+{"index": 29740, "en": "[They’re boxing me in!]", "fa": "[دارن محاصره‌ام می‌کنن!]", "status": "translated", "note": ""}
 {"index": 29741, "en": "[They’re killing them!]", "fa": "[دارن می‌کشنشون!]", "status": "translated", "note": ""}
 {"index": 29742, "en": "You gotta get up there.", "fa": "باید بری اون بالا.", "status": "translated", "note": ""}
 {"index": 29743, "en": "They should have moved.", "fa": "باید جابه‌جا شده باشن.", "status": "translated", "note": ""}
@@ -8774,7 +8774,7 @@
 {"index": 29773, "en": "What do we do now, sir?", "fa": "حالا چیکار کنیم، قربان؟", "status": "translated", "note": ""}
 {"index": 29774, "en": "You don't want to stay?", "fa": "نمی‌خوای بمونی؟", "status": "translated", "note": ""}
 {"index": 29775, "en": "You guys eat this shit?", "fa": "شماها این گه رو می‌خورید؟", "status": "translated", "note": ""}
-{"index": 29776, "en": "^8Jae: ^7Happy to help.", "fa": "^8جی: ^7خوشحالم که تونستم کمک کنم.", "status": "translated", "note": ""}
+{"index": 29776, "en": "^8Jae: ^7Happy to help.", "fa": "^8جه: ^7خوشحالم که تونستم کمک کنم.", "status": "translated", "note": ""}
 {"index": 29777, "en": "// &&1 Specific Unlocks", "fa": "// &&1 آنلاک‌های اختصاصی", "status": "translated", "note": ""}
 {"index": 29778, "en": "Closest Drone: ^1&&1M\n", "fa": "نزدیک‌ترین پهپاد: ^1&&1M\n", "status": "translated", "note": ""}
 {"index": 29779, "en": "Enemies on the docks...", "fa": "دشمن روی اسکله‌ست...", "status": "translated", "note": ""}
@@ -8810,7 +8810,7 @@
 {"index": 29809, "en": ".50 Pistol Hollow Point", "fa": ".50 تپانچه سر توخالی", "status": "translated", "note": ""}
 {"index": 29810, "en": "7.62x54mmR Hollow Point", "fa": "7.62x54mmR سر توخالی", "status": "translated", "note": ""}
 {"index": 29811, "en": "Hey, Jae, come help me.", "fa": "هی جی، بیا کمکم کن.", "status": "translated", "note": ""}
-{"index": 29812, "en": "Yeah. Keep your gun up.", "fa": "آره. اسلحه‌ت رو آماده نگه دار.", "status": "translated", "note": ""}
+{"index": 29812, "en": "Yeah. Keep your gun up.", "fa": "آره. اسلحه تو رو آماده نگه دار.", "status": "translated", "note": ""}
 {"index": 29813, "en": "What do you want to do?", "fa": "می‌خوای چیکار کنی؟", "status": "translated", "note": ""}
 {"index": 29814, "en": "Targets by the statues.", "fa": "اهداف کنار مجسمه‌ها.", "status": "translated", "note": ""}
 {"index": 29815, "en": "Skip To Ranked Play AAR", "fa": "رد شدن به گزارش پس از بازی رنکد", "status": "translated", "note": ""}
@@ -9053,7 +9053,7 @@
 {"index": 30052, "en": "Sewer Maintenance Tunnel", "fa": "تونل تعمیرات فاضلاب", "status": "translated", "note": ""}
 {"index": 30053, "en": "[Sounded like gunshots.]", "fa": "[شبیه صدای تیر بود.]", "status": "translated", "note": ""}
 {"index": 30054, "en": "Fuck! Enemy machine gun!", "fa": "لامصب! مسلسل دشمن!", "status": "translated", "note": ""}
-{"index": 30055, "en": "^8Jae: ^7We’re shooters.", "fa": "^8جی: ^7ما تیراندازیم.", "status": "translated", "note": ""}
+{"index": 30055, "en": "^8Jae: ^7We’re shooters.", "fa": "^8جه: ^7ما تیراندازیم.", "status": "translated", "note": ""}
 {"index": 30056, "en": "Fuckers are coordinated.", "fa": "این کونی‌ها هماهنگن.", "status": "translated", "note": ""}
 {"index": 30057, "en": "Luca, we’re moving east.", "fa": "لوکا، داریم میریم شرق.", "status": "translated", "note": ""}
 {"index": 30058, "en": "Took out their RPG team!", "fa": "تیم آرپی‌جی‌شون رو زدیم!", "status": "translated", "note": ""}
@@ -9411,7 +9411,7 @@
 {"index": 30410, "en": "We’ll find you something.", "fa": "یه چیزی برات پیدا می‌کنیم.", "status": "translated", "note": ""}
 {"index": 30411, "en": "Watch right. Enemy close.", "fa": "مراقب راست باش. دشمن نزدیکه.", "status": "translated", "note": ""}
 {"index": 30412, "en": "Phase Shift + Power Slide", "fa": "جابه‌جایی فازی + سر خوردن قدرتی", "status": "translated", "note": ""}
-{"index": 30413, "en": "^8Jae: ^7Go for Sierra-1.", "fa": "^8جی: ^7بریم سراغ سیرا-1.", "status": "translated", "note": ""}
+{"index": 30413, "en": "^8Jae: ^7Go for Sierra-1.", "fa": "^8جه: ^7بریم سراغ سیرا-1.", "status": "translated", "note": ""}
 {"index": 30414, "en": "[Hey...is someone there?]", "fa": "[هی... کسی اونجاست؟]", "status": "translated", "note": ""}
 {"index": 30415, "en": "Moving through the doors.", "fa": "داریم از درها رد می‌شیم.", "status": "translated", "note": ""}
 {"index": 30416, "en": "Cross the railroad tracks", "fa": "از ریل قطار رد شو", "status": "translated", "note": ""}
@@ -9853,7 +9853,7 @@
 {"index": 30852, "en": "Left one hundred, private.", "fa": "صد متر چپ، سرباز.", "status": "translated", "note": ""}
 {"index": 30853, "en": "Eyes on a mobile launcher.", "fa": "یه پرتابگر متحرک دیدم.", "status": "translated", "note": ""}
 {"index": 30854, "en": "Hold it as long as we can.", "fa": "تا جایی که می‌تونیم نگهش می‌داریم.", "status": "translated", "note": ""}
-{"index": 30855, "en": "Increase your angle, Park.", "fa": "زاویه‌ت رو بیشتر کن، پارک.", "status": "translated", "note": ""}
+{"index": 30855, "en": "Increase your angle, Park.", "fa": "زاویه تو رو بیشتر کن، پارک.", "status": "translated", "note": ""}
 {"index": 30856, "en": "Enemies! Behind that wall!", "fa": "دشمن! پشت اون دیوار!", "status": "translated", "note": ""}
 {"index": 30857, "en": "Oh shit! Park! God damnit!", "fa": "اوه گوه! پارک! لعنت بهش!", "status": "translated", "note": ""}
 {"index": 30858, "en": "Let’s clear the room then.", "fa": "پس اتاق رو پاک‌سازی کنیم.", "status": "translated", "note": ""}
@@ -10139,7 +10139,7 @@
 {"index": 31138, "en": "You’re ruthless, [Captain].", "fa": "بی‌رحمی، [کاپیتان].", "status": "translated", "note": ""}
 {"index": 31139, "en": "Need to reload! Stay close!", "fa": "باید خشاب عوض کنم! نزدیک بمون!", "status": "translated", "note": ""}
 {"index": 31140, "en": "[Someone opened that door.]", "fa": "[یکی اون در رو باز کرده.]", "status": "translated", "note": ""}
-{"index": 31141, "en": "Ain’t nothin’ to fuck with.", "fa": "چیزی نیست که بشه باهاش درافتاد.", "status": "translated", "note": ""}
+{"index": 31141, "en": "Ain’t nothin’ to fuck with.", "fa": "شوخی‌بردار نیست، لامصب.", "status": "translated", "note": ""}
 {"index": 31142, "en": "Door number two. Copy that.", "fa": "در شمارهٔ دو. دریافت شد.", "status": "translated", "note": ""}
 {"index": 31143, "en": "Valuables Worth: ^3$&&1^0\n", "fa": "ارزش اشیای قیمتی: ^3$&&1^0\n", "status": "translated", "note": ""}
 {"index": 31144, "en": "Roger. Sending coordinates.", "fa": "متوجه شدم. مختصات رو می‌فرستم.", "status": "translated", "note": ""}
@@ -10322,7 +10322,7 @@
 {"index": 31321, "en": "Ready at the kitchen, boss.", "fa": "توی آشپزخونه آماده‌ام، رئیس.", "status": "translated", "note": ""}
 {"index": 31322, "en": "Ju Kwon’s going to need it.", "fa": "جو کوان بهش نیاز پیدا می‌کنه.", "status": "translated", "note": ""}
 {"index": 31323, "en": "I can see the SAM site too.", "fa": "سایت سام رو هم می‌بینم.", "status": "translated", "note": ""}
-{"index": 31324, "en": "[Our lead vehicle is down!]", "fa": "[خودروی جلویی ما از کار افتاد!]", "status": "translated", "note": ""}
+{"index": 31324, "en": "[Our lead vehicle is down!]", "fa": "[ماشین جلویی‌مون از کار افتاده!]", "status": "translated", "note": ""}
 {"index": 31325, "en": "Throw some smoke for cover!", "fa": "برای پوشش دود بنداز!", "status": "translated", "note": ""}
 {"index": 31326, "en": "Dunn! I need a mortar here!", "fa": "دان! اینجا خمپاره لازم دارم!", "status": "translated", "note": ""}
 {"index": 31327, "en": "Check on top of the crates.", "fa": "بالای جعبه‌ها رو چک کن.", "status": "translated", "note": ""}
@@ -10577,7 +10577,7 @@
 {"index": 31576, "en": "GET PLACED & CLIMB THE RANKS", "fa": "رتبه بگیر و صعود کن", "status": "translated", "note": ""}
 {"index": 31577, "en": "Copy, Warpig-6, we’re on it!", "fa": "دریافت شد، وارپیگ-6، رسیدگی می‌کنیم!", "status": "translated", "note": ""}
 {"index": 31578, "en": "Price, launcher’s all yours.", "fa": "پرایس، لانچر مال خودته.", "status": "translated", "note": ""}
-{"index": 31579, "en": "^8Jae: ^7Check your corners.", "fa": "^8جی: ^7گوشه‌هات رو چک کن.", "status": "translated", "note": ""}
+{"index": 31579, "en": "^8Jae: ^7Check your corners.", "fa": "^8جه: ^7گوشه‌هات رو چک کن.", "status": "translated", "note": ""}
 {"index": 31580, "en": "C’mon, let’s get these guys.", "fa": "بیا، اینا رو بگیریم.", "status": "translated", "note": ""}
 {"index": 31581, "en": "Hold [{+gostand}] to swim up", "fa": "[{+gostand}] را نگه دارید تا به بالا شنا کنید", "status": "translated", "note": ""}
 {"index": 31582, "en": "[I already did, we're good.]", "fa": "[قبلاً انجامش دادم، مشکلی نیست.]", "status": "translated", "note": ""}
@@ -10723,7 +10723,7 @@
 {"index": 31722, "en": "Launcher’s all yours, [baby].", "fa": "لانچر مال خودته، [عزیزم].", "status": "translated", "note": ""}
 {"index": 31723, "en": "[Thank you for your honesty.]", "fa": "[از صداقتت ممنونم.]", "status": "translated", "note": ""}
 {"index": 31724, "en": "Come on, Park. We gotta move!", "fa": "بیا دیگه، پارک. باید حرکت کنیم!", "status": "translated", "note": ""}
-{"index": 31725, "en": "^8Jae: ^7What does that mean?", "fa": "^8جی: ^7یعنی چی؟", "status": "translated", "note": ""}
+{"index": 31725, "en": "^8Jae: ^7What does that mean?", "fa": "^8جه: ^7یعنی چی؟", "status": "translated", "note": ""}
 {"index": 31726, "en": "The Citadel South Wing Office", "fa": "دفتر جناح جنوبی سیتادل", "status": "translated", "note": ""}
 {"index": 31727, "en": "Shooters incoming! East side!", "fa": "تیراندازها دارن میان! سمت شرق!", "status": "translated", "note": ""}
 {"index": 31728, "en": "Everybody, move to the doors.", "fa": "همه، بیاین سمت در‌ها.", "status": "translated", "note": ""}
@@ -11792,7 +11792,7 @@
 {"index": 32791, "en": "^,Switch to the Right (NO POWER)", "fa": "^,تغییر به سمت راست (بدون برق)", "status": "translated", "note": ""}
 {"index": 32792, "en": "That’s what the rockets are for.", "fa": "موشک‌ها واسه همین کار هستن.", "status": "translated", "note": ""}
 {"index": 32793, "en": "Look at all those wires ahead...", "fa": "به این همه سیم جلو نگاه کن...", "status": "translated", "note": ""}
-{"index": 32794, "en": "[This bastard’s a North Korean!]", "fa": "[این حرومزاده کره‌ای شمالیه!]", "status": "translated", "note": ""}
+{"index": 32794, "en": "[This bastard’s a North Korean!]", "fa": "[این حرومزاده اهل کرهٔ شمالیه!]", "status": "translated", "note": ""}
 {"index": 32795, "en": "I could have pulled the trigger.", "fa": "می‌تونستم ماشه رو بکشم.", "status": "translated", "note": ""}
 {"index": 32796, "en": "^8Kal: ^7It's gonna be you guys.", "fa": "^8کال: ^7قراره شما بچه‌ها باشید.", "status": "translated", "note": ""}
 {"index": 32797, "en": "Park, open the door. I’ll cover.", "fa": "پارک، در رو باز کن. من پوشش می‌دم.", "status": "translated", "note": ""}
@@ -11836,7 +11836,7 @@
 {"index": 32835, "en": "[They’re not gonna let us leave!]", "fa": "[نمی‌ذارن ما بریم!]", "status": "translated", "note": ""}
 {"index": 32836, "en": "Dunn’s still inside! Back him up!", "fa": "دان هنوز داخله! پشتیبانیش کنید!", "status": "translated", "note": ""}
 {"index": 32837, "en": "Hey- HEY! Enemy tank! North side!", "fa": "هی- هی! تانک دشمن! سمت شمال!", "status": "translated", "note": ""}
-{"index": 32838, "en": "[Do not point your weapon at me.]", "fa": "[اسلحه‌ت رو سمت من نگیر.]", "status": "translated", "note": ""}
+{"index": 32838, "en": "[Do not point your weapon at me.]", "fa": "[اسلحه تو رو سمت من نگیر.]", "status": "translated", "note": ""}
 {"index": 32839, "en": "That’ll help you get around fast.", "fa": "این کمکت می‌کنه سریع جابه‌جا بشی.", "status": "translated", "note": ""}
 {"index": 32840, "en": "[They are swarming the building!]", "fa": "[دارن ساختمون رو محاصره می‌کنن!]", "status": "translated", "note": ""}
 {"index": 32841, "en": "Get your ass in the trench, Park!", "fa": "برو تو سنگر، پارک!", "status": "translated", "note": ""}
@@ -11920,7 +11920,7 @@
 {"index": 32919, "en": "[Surrender or we will shoot you!]", "fa": "[تسلیم شید وگرنه بهتون شلیک می‌کنیم!]", "status": "translated", "note": ""}
 {"index": 32920, "en": "That’s why you’re here, [outlaw]!", "fa": "واسه همین اینجایی، [یاغی]!", "status": "translated", "note": ""}
 {"index": 32921, "en": "[Unit-3 is under attack! We’re-!]", "fa": "[یگان 3 زیر حمله‌ست! ما-!]", "status": "translated", "note": ""}
-{"index": 32922, "en": "Just have to use my gut instinct.", "fa": "باید فقط به غریزه‌م تکیه کنم.", "status": "translated", "note": ""}
+{"index": 32922, "en": "Just have to use my gut instinct.", "fa": "باید فقط به غریزه‌ام تکیه کنم.", "status": "translated", "note": ""}
 {"index": 32923, "en": "Cut through them! Clear the area.", "fa": "از وسطشون رد شو! منطقه رو پاکسازی کن.", "status": "translated", "note": ""}
 {"index": 32924, "en": "We’ve got bomb drones. Hell yeah.", "fa": "پهپاد بمب‌گذار داریم. آره دیگه.", "status": "translated", "note": ""}
 {"index": 32925, "en": "Working with that scorpion bitch.", "fa": "دارم با اون عقرب جنده کار می‌کنم.", "status": "translated", "note": ""}
@@ -11964,7 +11964,7 @@
 {"index": 32963, "en": "Enemies. They’ve got flashlights.", "fa": "دشمن‌ها. چراغ‌قوه دارن.", "status": "translated", "note": ""}
 {"index": 32964, "en": "Enemy ahead of you. I’m engaging.", "fa": "دشمن جلوته. درگیر می‌شم.", "status": "translated", "note": ""}
 {"index": 32965, "en": "Likewise. Park, you got anything?", "fa": "منم همین‌طور. پارک، تو چیزی داری؟", "status": "translated", "note": ""}
-{"index": 32966, "en": "I fuckin' knew this was CIA shit.", "fa": "لامصب می‌دونستم این گه کار سی‌آی‌ایه.", "status": "translated", "note": ""}
+{"index": 32966, "en": "I fuckin' knew this was CIA shit.", "fa": "لامصب، می‌دونستم این کثافت‌کاری کارِ سیا بوده.", "status": "translated", "note": ""}
 {"index": 32967, "en": "^8Price: ^7Police are closing in.", "fa": "^8پرایس: ^7پلیس داره نزدیک می‌شه.", "status": "translated", "note": ""}
 {"index": 32968, "en": "Ko Jin-Hyuk, we’re at the hangar.", "fa": "کو جین-هیوک، ما تو آشیانه‌ایم.", "status": "translated", "note": ""}
 {"index": 32969, "en": "Ju Kwon! [Where is Ju Kwon?] Huh?", "fa": "جو کوون! [جو کوون کجاست؟] هاه؟", "status": "translated", "note": ""}
@@ -12077,7 +12077,7 @@
 {"index": 33076, "en": "(scoffs) Fucking Tier-1... god....", "fa": "(پوزخند) تیر-1 کونی... خدایا....", "status": "translated", "note": ""}
 {"index": 33077, "en": "Living up to your end of the deal.", "fa": "داری به سهمت از معامله عمل می‌کنی.", "status": "translated", "note": ""}
 {"index": 33078, "en": "Warehouse! Other side of the yard!", "fa": "انبار! اون طرف محوطه!", "status": "translated", "note": ""}
-{"index": 33079, "en": "[I think I cracked a rib earlier.]", "fa": "[فکر کنم قبلاً یه دنده‌م ترک خورد.]", "status": "translated", "note": ""}
+{"index": 33079, "en": "[I think I cracked a rib earlier.]", "fa": "[فکر کنم قبلاً یه دنده‌ام ترک خورد.]", "status": "translated", "note": ""}
 {"index": 33080, "en": "Park, I’m at the exit. North side.", "fa": "پارک، دم خروجی‌ام. سمت شمال.", "status": "translated", "note": ""}
 {"index": 33081, "en": "There’s ammo behind the container!", "fa": "پشت کانتینر مهمات هست!", "status": "translated", "note": ""}
 {"index": 33082, "en": "What the hell are we transporting?", "fa": "لعنتی داریم چی حمل می‌کنیم؟", "status": "translated", "note": ""}
@@ -13009,7 +13009,7 @@
 {"index": 34008, "en": "Negative. Friendlies are danger close.", "fa": "منفی. نیروهای خودی خیلی نزدیکن.", "status": "translated", "note": ""}
 {"index": 34009, "en": "Helo’s coming back around! Take cover!", "fa": "هلی داره دوباره برمی‌گرده! پناه بگیر!", "status": "translated", "note": ""}
 {"index": 34010, "en": "Yeah. Don’t tell the Lieutenant, Dunn.", "fa": "آره. به ستوان نگو، دان.", "status": "translated", "note": ""}
-{"index": 34011, "en": "Okay, Park. I’m set up. Call for fire.", "fa": "باشه، پارک. آماده‌م. آتش درخواست کن.", "status": "translated", "note": ""}
+{"index": 34011, "en": "Okay, Park. I’m set up. Call for fire.", "fa": "باشه، پارک. آماده‌ام. آتش درخواست کن.", "status": "translated", "note": ""}
 {"index": 34012, "en": "We mark supply crates with RFID chips.", "fa": "جعبه‌های تدارکات رو با تراشهٔ RFID علامت می‌زنیم.", "status": "translated", "note": ""}
 {"index": 34013, "en": "[Hey!] That’s too close to friendlies!", "fa": "[هی!] اون خیلی نزدیک نیروهای خودیه!", "status": "translated", "note": ""}
 {"index": 34014, "en": "Sir, tell me you don’t trust this guy.", "fa": "قربان، بگید به این یارو اعتماد ندارید.", "status": "translated", "note": ""}
@@ -14211,7 +14211,7 @@
 {"index": 35210, "en": "[Private Park], you’re shooting at friendlies!", "fa": "[سرباز پارک]، داری به هم‌تیمی‌ها شلیک می‌کنی!", "status": "translated", "note": ""}
 {"index": 35211, "en": "The trucks are right in front of the building!", "fa": "کامیون‌ها درست جلوی ساختمونن!", "status": "translated", "note": ""}
 {"index": 35212, "en": "North Korea has new leader. They say he could-", "fa": "کرهٔ شمالی رهبر جدید داره. می‌گن اون می‌تونه-", "status": "translated", "note": ""}
-{"index": 35213, "en": "Ooh, volunteer warfighter energy, huh? Yeah...", "fa": "اوه، انرژی رزمندهٔ داوطلب، آره؟ آره...", "status": "translated", "note": ""}
+{"index": 35213, "en": "Ooh, volunteer warfighter energy, huh? Yeah...", "fa": "اوه، حسابی جوِ رزمندهٔ داوطلب گرفتت، ها؟ آره...", "status": "translated", "note": ""}
 {"index": 35214, "en": "Private Park, we have three primary targets...", "fa": "سرباز پارک، سه هدف اصلی داریم...", "status": "translated", "note": ""}
 {"index": 35215, "en": "^BPurchase Call of Duty® Modern Warfare II\n^R", "fa": "^Bخرید Call of Duty® Modern Warfare II\n^R", "status": "translated", "note": ""}
 {"index": 35216, "en": "Park, got a sniper rifle with your name on it!", "fa": "پارک، یه تک‌تیرانداز با اسم خودت دارم!", "status": "translated", "note": ""}
@@ -14700,7 +14700,7 @@
 {"index": 35699, "en": "You can get around faster if you can commandeer it.", "fa": "اگه بتونی تصرفش کنی سریع‌تر جابه‌جا می‌شی.", "status": "translated", "note": ""}
 {"index": 35700, "en": "Park! Lieutenant West will be pissed if we’re late.", "fa": "پارک! اگه دیر کنیم ستوان وست کفری می‌شه.", "status": "translated", "note": ""}
 {"index": 35701, "en": "You ain’t done, Park. Threats are still down there.", "fa": "کارت تموم نشده، پارک. تهدیدها هنوز پایینن.", "status": "translated", "note": ""}
-{"index": 35702, "en": "That’s where your explosives are. Deep underground.", "fa": "مواد منفجره‌ت اونجاست. عمق زیرزمین.", "status": "translated", "note": ""}
+{"index": 35702, "en": "That’s where your explosives are. Deep underground.", "fa": "مواد منفجره تو اونجاست. عمق زیرزمین.", "status": "translated", "note": ""}
 {"index": 35703, "en": "Keep an eye out for supplies when you’re out there.", "fa": "وقتی بیرونی حواست به تدارکات باشه.", "status": "translated", "note": ""}
 {"index": 35704, "en": "And you’ve got ten seconds, [girl], same as before.", "fa": "و ده ثانیه وقت داری، [دختر]، مثل قبل.", "status": "translated", "note": ""}
 {"index": 35705, "en": "Park. C’mon, man, we’re leaving! C’mon, Parky Park.", "fa": "پارک. بیا دیگه رفیق، داریم می‌ریم! بیا دیگه، پارکی پارک.", "status": "translated", "note": ""}
@@ -14930,7 +14930,7 @@
 {"index": 35929, "en": "[Comrade. His wife is in the kitchen. Bring her here.]", "fa": "[رفیق. زنش توی آشپزخونه‌ست. بیارش اینجا.]", "status": "translated", "note": ""}
 {"index": 35930, "en": "Private Park, your team's outside. Do not fall behind.", "fa": "سرباز پارک، تیمت بیرونه. عقب نمون.", "status": "translated", "note": ""}
 {"index": 35931, "en": "Stay with your squad to avoid becoming a sniper target", "fa": "کنار تیمت بمون تا هدف تک‌تیرانداز نشی", "status": "translated", "note": ""}
-{"index": 35932, "en": "I don't give a fuck about your deal! Where is Makarov?", "fa": "به کیرم معامله‌ت! ماکاروف کجاست؟", "status": "translated", "note": ""}
+{"index": 35932, "en": "I don't give a fuck about your deal! Where is Makarov?", "fa": "به کیرم معامله تو! ماکاروف کجاست؟", "status": "translated", "note": ""}
 {"index": 35933, "en": "Excellent work, Park. I found meds for the Lieutenant.", "fa": "عالی بود، پارک. برای ستوان دارو پیدا کردم.", "status": "translated", "note": ""}
 {"index": 35934, "en": "Don’t get stuck in your head. Do not fear the unknown.", "fa": "توی فکر خودت گیر نکن. از ناشناخته نترس.", "status": "translated", "note": ""}
 {"index": 35935, "en": "Copy. Mayhem-1 is on station. Engaging enemy vehicles.", "fa": "دریافت شد. میهم-1 در موقعیته. خودروهای دشمن را درگیر می‌کنیم.", "status": "translated", "note": ""}
@@ -14958,7 +14958,7 @@
 {"index": 35957, "en": "Shit! Pull up, pull up! We gotta get off the buidling.", "fa": "گه توش! بکش بالا، بکش بالا! باید از ساختمون بریم پایین.", "status": "translated", "note": ""}
 {"index": 35958, "en": "Bounced a Combat Axe off a surface and killed an enemy", "fa": "تبر رزمی را از یک سطح برگشت دادی و دشمنی را کشتی", "status": "translated", "note": ""}
 {"index": 35959, "en": "Two plates are better than one. Right, [Private Park]?", "fa": "دو تا پلیت از یکی بهتره. درسته، [سرباز پارک]؟", "status": "translated", "note": ""}
-{"index": 35960, "en": "Luca, we’ve got a problem at the railyard. Pack heavy.", "fa": "لوکا، توی ایستگاه راه‌آهن مشکل داریم. سنگین مسلح بیا.", "status": "translated", "note": ""}
+{"index": 35960, "en": "Luca, we’ve got a problem at the railyard. Pack heavy.", "fa": "لوکا، تو محوطهٔ راه‌آهن به مشکل خوردیم. با اسلحه و مهماتِ حسابی بیا.", "status": "translated", "note": ""}
 {"index": 35961, "en": "[The defector was found. You’re safe to come outside.]", "fa": "[فراری پیدا شد. می‌تونید با خیال راحت بیاید بیرون.]", "status": "translated", "note": ""}
 {"index": 35962, "en": "Sierra-1, be advised. Mayhem’s rolling in on your six.", "fa": "سیرا-1، توجه کن. میهم از پشت سرتون داره میاد.", "status": "translated", "note": ""}
 {"index": 35963, "en": "[Sergeant Jae!] Hit the BMP with the grenade launcher!", "fa": "[گروهبان جه!] بی‌ام‌پی رو با نارنجک‌انداز بزن!", "status": "translated", "note": ""}
@@ -15804,7 +15804,7 @@
 {"index": 36803, "en": "Get on target quicker with this stock that improves aiming speeds. ", "fa": "با این قنداق که سرعت نشانه‌روی را بهبود می‌دهد، سریع‌تر روی هدف قفل کنید. ", "status": "translated", "note": ""}
 {"index": 36804, "en": "Get a Kill with a weapon before hitting the ground from a Wall Jump", "fa": "پیش از فرود آمدن از پرش دیواری، با یک سلاح یک کشتن انجام دهید", "status": "translated", "note": ""}
 {"index": 36805, "en": "You were killed by an explosion.\nSome burning objects can explode.", "fa": "در اثر انفجار کشته شدید.\nبرخی اشیای در حال سوختن می‌توانند منفجر شوند.", "status": "translated", "note": ""}
-{"index": 36806, "en": "^8Valeria: ^7Luca, we’ve got a problem at the railyard. Pack heavy.", "fa": "^8والریا: ^7لوکا، توی ایستگاه راه‌آهن مشکل داریم. سنگین مسلح بیا.", "status": "translated", "note": ""}
+{"index": 36806, "en": "^8Valeria: ^7Luca, we’ve got a problem at the railyard. Pack heavy.", "fa": "^8والریا: ^7لوکا، تو محوطهٔ راه‌آهن به مشکل خوردیم. با اسلحه و مهماتِ حسابی بیا.", "status": "translated", "note": ""}
 {"index": 36807, "en": "[Private Park], c'mon. Let's move this and locate the missile team.", "fa": "[سرباز پارک]، بیا دیگه. زود باشیم و تیم موشک رو پیدا کنیم.", "status": "translated", "note": ""}
 {"index": 36808, "en": "They’re armored. You should look for something to use against them.", "fa": "زره‌پوشن. باید دنبال چیزی بگردی که علیهشون به کار بیاد.", "status": "translated", "note": ""}
 {"index": 36809, "en": "You can resume from this point later using the Mission Select menu.", "fa": "می‌توانید بعداً با منوی انتخاب مرحله از همین نقطه ادامه دهید.", "status": "translated", "note": ""}
@@ -16012,7 +16012,7 @@
 {"index": 37011, "en": "Good work. When you get back, we can look at upgrading gear and weapons.", "fa": "کار خوبی بود. وقتی برگشتی، می‌تونیم ارتقای تجهیزات و سلاح‌ها رو بررسی کنیم.", "status": "translated", "note": ""}
 {"index": 37012, "en": "Reroute to the underpass. We’ll fall in with Charlie. Watch for threats.", "fa": "مسیر رو به زیرگذر عوض کنید. به چارلی ملحق می‌شیم. مراقب تهدیدها باشید.", "status": "translated", "note": ""}
 {"index": 37013, "en": "We have successfully acquired the industrial-grade explosives from here.", "fa": "مواد منفجرهٔ صنعتی رو با موفقیت از اینجا به دست آوردیم.", "status": "translated", "note": ""}
-{"index": 37014, "en": "Ten mikes, then your asses better be in formation, north of the stadium.", "fa": "ده دقیقه وقت دارید، بعدش بهتره تو آرایش و شمال استادیوم باشید.", "status": "translated", "note": ""}
+{"index": 37014, "en": "Ten mikes, then your asses better be in formation, north of the stadium.", "fa": "ده دقیقه وقت دارین؛ بعدش کون‌تون رو برسونین به صفِ شمال استادیوم.", "status": "translated", "note": ""}
 {"index": 37015, "en": "[{+speed_throw,+toggleads_throw}] Locate friendlies at the green smoke. ", "fa": "[{+speed_throw,+toggleads_throw}] نیروهای خودی را کنار دود سبز پیدا کنید. ", "status": "translated", "note": ""}
 {"index": 37016, "en": "[Private Park], you swim down to that valve, we will look for a way out.", "fa": "[سرباز پارک]، تو تا اون شیر شنا کن، ما دنبال راه خروج می‌گردیم.", "status": "translated", "note": ""}
 {"index": 37017, "en": "[All citizens evacuate the city immediately. We are under active attack.]", "fa": "[همهٔ شهروندان فوراً شهر را تخلیه کنند. ما تحت حملهٔ مستقیم هستیم.]", "status": "translated", "note": ""}
@@ -16404,7 +16404,7 @@
 {"index": 37403, "en": "All Mayhem, foothold established. Rally at the underpass. We’re pushing to the hotel.", "fa": "همهٔ میهم‌ها، جای پا گرفتیم. زیرگذر جمع بشید. داریم به سمت هتل پیشروی می‌کنیم.", "status": "translated", "note": ""}
 {"index": 37404, "en": "You are missing one or more &&1 Single Player DLC Packs. Please download and install.", "fa": "یک یا چند بستهٔ DLC تک‌نفره &&1 را ندارید. لطفاً دانلود و نصب کنید.", "status": "translated", "note": ""}
 {"index": 37405, "en": "[Private Park], don’t forget the plate carrier. The extra armor could save your life.", "fa": "[سرباز پارک]، جلیقهٔ حامل صفحه رو فراموش نکن. زرهٔ اضافه می‌تونه جونت رو نجات بده.", "status": "translated", "note": ""}
-{"index": 37406, "en": "I heard you've got a surplus of food hidden under your kitchen floor.\nCare to share?", "fa": "شنیدم زیر کف آشپزخونه‌ت کلی غذای اضافه قایم کردی.\nمی‌خوای سهیم بشی؟", "status": "translated", "note": ""}
+{"index": 37406, "en": "I heard you've got a surplus of food hidden under your kitchen floor.\nCare to share?", "fa": "شنیدم زیر کف آشپزخونه تو کلی غذای اضافه قایم کردی.\nمی‌خوای سهیم بشی؟", "status": "translated", "note": ""}
 {"index": 37407, "en": "One or more &&1 DMZ DLC packs are out of date. Please download and install to update.", "fa": "یک یا چند بستهٔ DLC دی‌ام‌زد &&1 قدیمی است. برای به‌روزرسانی لطفاً دانلود و نصب کنید.", "status": "translated", "note": ""}
 {"index": 37408, "en": "Guardian Actual to all stations. Fall back. I say again: Fall back from the plant now.", "fa": "گاردین اکچوال به همهٔ ایستگاه‌ها. عقب‌نشینی. تکرار می‌کنم: همین حالا از نیروگاه عقب‌نشینی کنید.", "status": "translated", "note": ""}
 {"index": 37409, "en": "Park, all secondary targets are down. Return to base. Time to finish this and go home.", "fa": "پارک، همهٔ اهداف فرعی از کار افتادن. به پایگاه برگرد. وقتشه این کار رو تموم کنیم و بریم خونه.", "status": "translated", "note": ""}
@@ -16442,7 +16442,7 @@
 {"index": 37441, "en": "Contoured to better fit the palm, this grip provides flinch resistance when under fire.", "fa": "این دستگیره برای جا شدن بهتر در کف دست شکل گرفته و هنگام زیر آتش بودن مقاومت در برابر لرزش می‌دهد.", "status": "translated", "note": ""}
 {"index": 37442, "en": "For long-distance shooting, this long barrel improves damage range and bullet velocity.", "fa": "برای شلیک دوربرد، این لولهٔ بلند برد آسیب و سرعت گلوله را بهبود می‌دهد.", "status": "translated", "note": ""}
 {"index": 37443, "en": "You can now Stow an extra weapon in your backpack. [{+actionslot 2; mission_ability_2}]", "fa": "اکنون می‌توانید یک سلاح اضافه در کوله‌پشتی خود جا دهید. [{+actionslot 2; mission_ability_2}]", "status": "translated", "note": ""}
-{"index": 37444, "en": "^8Lt. West: ^7They dominate any threat with controlled aggression and a verbal swagger.", "fa": "^8ستوان وست: ^7اونا هر تهدیدی رو با پرخاشگری کنترل‌شده و کلاس کلامی مهار می‌کنن.", "status": "translated", "note": ""}
+{"index": 37444, "en": "^8Lt. West: ^7They dominate any threat with controlled aggression and a verbal swagger.", "fa": "^8ستوان وست: ^7اونا با حملهٔ حساب‌شده و رجزخونی، هر حریفی رو از پا درمیارن.", "status": "translated", "note": ""}
 {"index": 37445, "en": "A lightweight suppressor. Offers reduced sound signature and an impact to damage range.", "fa": "صدا‌خفه‌کن سبک. ردپای صوتی را کم می‌کند و بر برد آسیب اثر می‌گذارد.", "status": "translated", "note": ""}
 {"index": 37446, "en": "Designed for the KG-7 Vulcan, this factory scope offers significant range and accuracy.", "fa": "این دوربین کارخانه‌ای برای KG-7 Vulcan طراحی شده و برد و دقت قابل‌توجهی دارد.", "status": "translated", "note": ""}
 {"index": 37447, "en": "A skeletonized and slimmed down pistol grip that offers greatly improved aiming speeds.", "fa": "قبضهٔ تپانچه‌ای اسکلتی و سبک‌شده که سرعت هدف‌گیری را به‌شدت بهبود می‌دهد.", "status": "translated", "note": ""}
@@ -16519,7 +16519,7 @@
 {"index": 37518, "en": "The coolant tanks have ruptured. You’ll need to flood the water directly into the reactor.", "fa": "مخزن‌های خنک‌کننده ترکیدن. باید آب رو مستقیم به داخل راکتور سرازیر کنی.", "status": "translated", "note": ""}
 {"index": 37519, "en": "Play the Warzone Orientation mission to learn all the new mechanics introduced in Warzone.", "fa": "مرحلهٔ آشنایی با Warzone را بازی کنید تا همهٔ مکانیک‌های جدید Warzone را یاد بگیرید.", "status": "translated", "note": ""}
 {"index": 37520, "en": "A tactical, lightweight barrel built for mobility and aiming speed for fast-paced action. ", "fa": "لولهٔ تاکتیکی و سبک برای تحرک و سرعت هدف‌گیری در نبردهای پرسرعت. ", "status": "translated", "note": ""}
-{"index": 37521, "en": "^8Col. Shaw: ^7They’ve established a Command Element in Hotel Lucera, half a klick inland.", "fa": "^8سرهنگ شاو: ^7اونا یه عنصر فرماندهی تو هتل لوچرا، نیم کیلومتر داخل خشکی مستقر کردن.", "status": "translated", "note": ""}
+{"index": 37521, "en": "^8Col. Shaw: ^7They’ve established a Command Element in Hotel Lucera, half a klick inland.", "fa": "^8سرهنگ شاو: ^7اونا یه مرکز فرماندهی تو هتل لوچرا مستقر کردن، نیم کیلومتر دورتر از ساحل.", "status": "translated", "note": ""}
 {"index": 37522, "en": "Ammo and supplies are running low. Whatever we find on-target, we’ll use to our advantage.", "fa": "مهمات و تدارکات داره ته می‌کشه. هر چی تو منطقهٔ هدف پیدا کنیم به نفع خودمون استفاده می‌کنیم.", "status": "translated", "note": ""}
 {"index": 37523, "en": "A simple yet effective comb that improves aiming speed at the cost of some recoil control.", "fa": "گونه‌گیر ساده ولی مؤثر که سرعت هدف‌گیری را به قیمت کمی کاهش کنترل پس‌زدن بهبود می‌دهد.", "status": "translated", "note": ""}
 {"index": 37524, "en": "Then why have we got our hands tied? Let's just take the bloody gloves off and fight… Sir.", "fa": "پس چرا دست‌هامون بسته‌ست؟ بیایید این دستکش‌های لعنتی رو دربیاریم و بجنگیم… قربان.", "status": "translated", "note": ""}
@@ -16574,7 +16574,7 @@
 {"index": 37573, "en": "A tactical, textured grip from ZLR that provides superior flinch resistance when under fire.", "fa": "دستگیرهٔ تاکتیکی و بافت‌دار از ZLR که هنگام زیر آتش بودن مقاومت برتر در برابر لرزش می‌دهد.", "status": "translated", "note": ""}
 {"index": 37574, "en": "An ergonomic comb that provides flinch resistance and improved idle control over the weapon.", "fa": "گونه‌گیر ارگونومیک که مقاومت در برابر لرزش و کنترل بهتر سلاح در حالت ثابت را فراهم می‌کند.", "status": "translated", "note": ""}
 {"index": 37575, "en": "Quickly gain the tactical advantage with this lightweight stock that improves aiming speeds.", "fa": "با این قنداق سبک که سرعت هدف‌گیری را بهبود می‌دهد، سریع برتری تاکتیکی بگیرید.", "status": "translated", "note": ""}
-{"index": 37576, "en": "^8Price: ^7Do you want to explain to me why they’re fucking up all the good work we’ve done?", "fa": "^8پرایس: ^7می‌خوای برام توضیح بدی چرا دارن همهٔ کارای خوبی که کردیم رو گه می‌زنن؟", "status": "translated", "note": ""}
+{"index": 37576, "en": "^8Price: ^7Do you want to explain to me why they’re fucking up all the good work we’ve done?", "fa": "^8پرایس: ^7می‌خوای برام توضیح بدی چرا دارن به همهٔ زحمتایی که کشیدیم می‌رینن؟", "status": "translated", "note": ""}
 {"index": 37577, "en": "A short, suppressed barrel that reduces muzzle report while improving handling and mobility.", "fa": "لولهٔ کوتاه و صدا‌خفه‌دار که صدای شلیک را کم می‌کند و کنترل و تحرک را بهبود می‌دهد.", "status": "translated", "note": ""}
 {"index": 37578, "en": "3D printed, single-use pistol that can be quickly deployed to take out close ranged targets.", "fa": "تپانچهٔ یکبارمصرف چاپ سه‌بعدی که سریع آماده می‌شود تا اهداف نزدیک را از پا درآورد.", "status": "translated", "note": ""}
 {"index": 37579, "en": "Missions are multi-step challenges that can be completed for XP bonuses and special rewards.", "fa": "مأموریت‌ها چالش‌های چندمرحله‌ای هستند که با تکمیل آن‌ها جایزهٔ تجربه و جوایز ویژه می‌گیرید.", "status": "translated", "note": ""}
@@ -16703,7 +16703,7 @@
 {"index": 37702, "en": "A tactical, wrapped suppressor that offers significant sound reduction at the cost of aiming speed.", "fa": "صداخفه‌کن تاکتیکی با پوشش پیچیده که صدا را به‌طور چشمگیری کاهش می‌دهد، به بهای کاهش سرعت هدف‌گیری.", "status": "translated", "note": ""}
 {"index": 37703, "en": "Mayhem-Actual, taking rocket fire from enemy vehicles ahead. We need to force up and take them out.", "fa": "میهم-اکچوال، از خودروهای دشمن جلوتر زیر آتش راکت هستیم. باید پیشروی کنیم و نابودشون کنیم.", "status": "translated", "note": ""}
 {"index": 37704, "en": "LT says gear and info you need is in Comm Center of Outpost to south. \nHas Helipad. \nGo tomorrow.", "fa": "ستوان می‌گه تجهیزات و اطلاعاتی که لازم داری توی مرکز ارتباطات پاسگاه جنوبیه. \nهلی‌پد داره. \nفردا برو.", "status": "translated", "note": ""}
-{"index": 37705, "en": "^8Kal: ^7The base is within effective range of Hajin and is a main deterrent from retaking the city.", "fa": "^8کال: ^7این پایگاه در برد مؤثر هاجین قرار دارد و مانع اصلی بازپس‌گیری شهر است.", "status": "translated", "note": ""}
+{"index": 37705, "en": "^8Kal: ^7The base is within effective range of Hajin and is a main deterrent from retaking the city.", "fa": "^8کال: ^7هاجین تو بردِ آتش این پایگاهه؛ تا این پایگاه سر جاشه، پس گرفتن شهر کار سختیه.", "status": "translated", "note": ""}
 {"index": 37706, "en": "Defeat all enemies in the kitchen of 'Out in the Cold' without firing your gun on Hardened or harder", "fa": "همه دشمنان آشپزخانهٔ «Out in the Cold» را بدون شلیک با سلاح در سختی Hardened یا بالاتر شکست بده", "status": "translated", "note": ""}
 {"index": 37707, "en": "Destroying a contraband weapon will permanently remove it from your stash.\nDo you wish to continue?", "fa": "نابود کردن سلاح قاچاق آن را برای همیشه از انبارت حذف می‌کند.\nمی‌خواهی ادامه بدهی؟", "status": "translated", "note": ""}
 {"index": 37708, "en": "Hop into the vehicle you equipped your War Track on and use [{ui_secondary}] to turn it on and off..", "fa": "سوار خودرویی شو که وار ترک را رویش تجهیز کرده‌ای و با [{ui_secondary}] آن را روشن و خاموش کن..", "status": "translated", "note": ""}
