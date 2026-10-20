@@ -20,6 +20,7 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import bidi_fix  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+PERSIAN_FONT_DEFAULT = 'secondary_medium.ttf'
 BIDI_DEFAULT = 'rlm'  # tested in game: punctuation lands at the end of Persian sentences
 SOURCES = sorted((ROOT / 'translations').glob('mw4-fa-*.jsonl'))
 OUT = ROOT / 'files' / 'trdata2.bin'
@@ -68,7 +69,7 @@ def death_screen():
     return fonts, cfg.get('extra', []), cfg['hint_font']
 
 
-def encode(rows, bidi_mode=None):
+def encode(rows, bidi_mode=None, persian_font=PERSIAN_FONT_DEFAULT):
     fonts, extra, hint_font = death_screen()
     pairs = []
     for r in rows:
@@ -84,8 +85,27 @@ def encode(rows, bidi_mode=None):
     for x in extra:
         if x['en'] not in known:
             pairs.append((x['en'], '^F' + hint_font + '^' + bidi_fix.fix(rows[x['copy_of']]['fa'], bidi_mode)))
+            known.add(x['en'])
+    # Cinematics can request a speaker name or dialogue body separately from
+    # the combined caption. Preserve exact lookup keys and existing translations.
+    variants = json.loads((ROOT / 'tools' / 'subtitle_variants.json').read_text(encoding='utf-8'))
+    for x in variants:
+        en, fa = x['en'], x['fa']
+        if en in known:
+            continue
+        if not en or not fa.strip() or any(c in FORBIDDEN for c in fa):
+            sys.exit('Invalid standalone subtitle variant: ' + repr(en))
+        if collections.Counter(TOKEN.findall(en)) != collections.Counter(TOKEN.findall(fa)):
+            sys.exit('Standalone subtitle format codes differ: ' + repr(en))
+        pairs.append((en, bidi_fix.fix(fa, bidi_mode)))
+        known.add(en)
     out = bytearray(struct.pack('<I', len(pairs)))
     for en, fa in pairs:
+        if persian_font and any('\u0600' <= c <= '\u06ff' and c.isalpha() for c in fa):
+            # Trial override: retain all text, colors, placeholders and line breaks.
+            # Replace an existing leading font override instead of stacking it.
+            fa = re.sub(r'^\^F[^\^\r\n]+\^', '', fa)
+            fa = '^F' + persian_font + '^' + fa
         for text in (en, fa):
             b = text.encode('utf-8')
             if len(b) > 0xFFFF:
@@ -95,17 +115,20 @@ def encode(rows, bidi_mode=None):
 
 
 def main():
-    # usage: build_trdata.py [--bidi rlm|move] [--out PATH]
+    # usage: build_trdata.py [--bidi rlm|move] [--out PATH] [--persian-font secondary_medium.ttf]
     args = sys.argv[1:]
     bidi_mode = args[args.index('--bidi') + 1] if '--bidi' in args else BIDI_DEFAULT
     out = pathlib.Path(args[args.index('--out') + 1]) if '--out' in args else OUT
+    persian_font = args[args.index('--persian-font') + 1] if '--persian-font' in args else PERSIAN_FONT_DEFAULT
+    if persian_font and not re.fullmatch(r'[A-Za-z0-9_\-]+\.ttf', persian_font):
+        sys.exit('Invalid font asset name')
     rows = load()
     problems = validate(rows)
     if problems:
         for p in problems[:30]:
             print('row %d: %s' % p)
         sys.exit(f'{len(problems)} problem(s); fix them before building')
-    data = encode(rows, bidi_mode)
+    data = encode(rows, bidi_mode, persian_font)
     out.parent.mkdir(exist_ok=True)
     out.write_bytes(data)
     print('punctuation fix:', bidi_mode or 'none')

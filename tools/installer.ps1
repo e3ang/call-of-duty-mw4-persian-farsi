@@ -67,7 +67,7 @@ try {
             Copy-Item -LiteralPath $data -Destination "$data$Backup"
             Write-Host 'Backed up previous trdata2.bin'
         }
-        foreach ($n in 'bink2w64.dll', 'trhook.dll', 'trdata2.bin') {
+        foreach ($n in 'rtlcompanion.dll', 'bink2w64.dll', 'trhook.dll', 'trdata2.bin') {
             $src = Join-Path $Files $n
             $dst = Join-Path $Sp26 $n
             Copy-Item -LiteralPath $src -Destination $dst -Force
@@ -83,7 +83,7 @@ try {
             Write-Host 'Restored original bink2w64.dll'
         }
         elseif ((Test-Path -LiteralPath $bink) -and (Hash $bink) -eq $PatchedBink) {
-            $keepHook = $true   # without trhook.dll the patched bink2w64.dll could break the game
+            $keepHook = $true   # patched bink needs trhook.dll, which depends on rtlcompanion.dll
         }
         if (Test-Path -LiteralPath "$data$Backup") {
             Move-Item -LiteralPath "$data$Backup" -Destination $data -Force
@@ -96,10 +96,12 @@ try {
         if (-not $keepHook) {
             Remove-Item -LiteralPath $hook -Force -ErrorAction SilentlyContinue
             Remove-Item -LiteralPath (Join-Path $Sp26 'trhook.log') -Force -ErrorAction SilentlyContinue
+            Remove-Item -LiteralPath (Join-Path $Sp26 'rtlcompanion.dll') -Force -ErrorAction SilentlyContinue
+            Remove-Item -LiteralPath (Join-Path $Sp26 'rtlcompanion.log') -Force -ErrorAction SilentlyContinue
             Say 'ترجمه فارسی حذف شد و بازی به حالت اصلی برگشت.' 'Persian translation removed; original files restored.'
         }
         else {
-            Say "متن‌های فارسی حذف شد، ولی نسخه اصلی bink2w64.dll پیدا نشد؛ پس trhook.dll نگه داشته شد تا بازی سالم بماند.`nبرای حذف کامل، فایل اصلی bink2w64.dll را از نصب بازی برگردانید (مثلاً Verify files در لانچر)." 'Translation removed, but no backup of the original bink2w64.dll was found, so trhook.dll was kept. Restore the original bink2w64.dll from your game install to remove the hook completely.' 'Warning'
+            Say "متن‌های فارسی حذف شد، ولی نسخه اصلی bink2w64.dll پیدا نشد؛ پس trhook.dll و rtlcompanion.dll نگه داشته شدند تا بازی سالم بماند.`nبرای حذف کامل، فایل اصلی bink2w64.dll را از نصب بازی برگردانید (مثلاً Verify files در لانچر)." 'Translation removed, but no backup of the original bink2w64.dll was found, so trhook.dll and rtlcompanion.dll were kept. Restore the original bink2w64.dll from your game install to remove the hook completely.' 'Warning'
         }
     }
 }

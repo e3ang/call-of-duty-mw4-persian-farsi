@@ -1,0 +1,9192 @@
+[
+  {
+    "en": "Ko",
+    "fa": "کو",
+    "source_indices": [
+      937,
+      6854,
+      6868,
+      6871,
+      6893,
+      7034,
+      7035,
+      7036,
+      7037,
+      7038,
+      7039,
+      7040,
+      7041,
+      7042,
+      7055,
+      7056,
+      7057,
+      7058,
+      7064,
+      7065,
+      7066,
+      7068,
+      7069,
+      7070,
+      7084,
+      7090,
+      7091,
+      7096,
+      7206,
+      7207,
+      7233,
+      7267,
+      7311,
+      7316,
+      7330,
+      7331,
+      7560,
+      7565,
+      7566,
+      7569,
+      25685,
+      27552,
+      30315,
+      30318,
+      30385,
+      31355,
+      32056,
+      33657,
+      33718,
+      33759,
+      34063,
+      34391,
+      34545,
+      34627,
+      34866,
+      35157,
+      35563,
+      36442,
+      37567
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Gordo",
+    "fa": "گوردو",
+    "source_indices": [
+      1208,
+      7501,
+      7585,
+      27047,
+      34398
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Price",
+    "fa": "پرایس",
+    "source_indices": [
+      1432,
+      1539,
+      2034,
+      2726,
+      5240,
+      5241,
+      5242,
+      5243,
+      5244,
+      5250,
+      5251,
+      5256,
+      5258,
+      5261,
+      5264,
+      5266,
+      5268,
+      5270,
+      5272,
+      5275,
+      5276,
+      6844,
+      6894,
+      6895,
+      6896,
+      6897,
+      6899,
+      6907,
+      6917,
+      7150,
+      7152,
+      7156,
+      7158,
+      7162,
+      7163,
+      7164,
+      7168,
+      7170,
+      7175,
+      7179,
+      7194,
+      7197,
+      7198,
+      7200,
+      7201,
+      7202,
+      7247,
+      7256,
+      7257,
+      7258,
+      7282,
+      7283,
+      7359,
+      7362,
+      7363,
+      7366,
+      7369,
+      7370,
+      7371,
+      7373,
+      7378,
+      7382,
+      7386,
+      7391,
+      7392,
+      7438,
+      7440,
+      7447,
+      7448,
+      7455,
+      7456,
+      7459,
+      7463,
+      7503,
+      7505,
+      7575,
+      7579,
+      7580,
+      7590,
+      25142,
+      27721,
+      28244,
+      28599,
+      29045,
+      29620,
+      29802,
+      30044,
+      30046,
+      30357,
+      30378,
+      30777,
+      31094,
+      31105,
+      31361,
+      31742,
+      31747,
+      32520,
+      32812,
+      32906,
+      32967,
+      33237,
+      33257,
+      33736,
+      33764,
+      34362,
+      34523,
+      34696,
+      35006,
+      35008,
+      35614,
+      36570,
+      37576
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "And if I say no?",
+    "fa": "اگه بگم نه، چی؟",
+    "source_indices": [
+      1432
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Ri",
+    "fa": "ری",
+    "source_indices": [
+      1487,
+      1574,
+      6846,
+      6847,
+      6849,
+      6850,
+      6853,
+      6855,
+      6857,
+      6858,
+      7203,
+      7204,
+      7205,
+      7209,
+      7210,
+      7213,
+      7214,
+      7215,
+      7216,
+      7218,
+      7219,
+      7220,
+      7221,
+      7224,
+      7226,
+      7228,
+      7230,
+      7231,
+      7232,
+      7552,
+      28448,
+      30174,
+      34217,
+      34994,
+      35000,
+      35500,
+      37373
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "[Yes. That’s right.]",
+    "fa": "[آره. درسته.]",
+    "source_indices": [
+      1487
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "That's the mission.",
+    "fa": "مأموریت همینه.",
+    "source_indices": [
+      1539
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Park",
+    "fa": "پارک",
+    "source_indices": [
+      1546,
+      2517,
+      2745,
+      6870,
+      6937,
+      6954,
+      6977,
+      6999,
+      7000,
+      7001,
+      7002,
+      7003,
+      7018,
+      7024,
+      7028,
+      7029,
+      7031,
+      7101,
+      7115,
+      7118,
+      7123,
+      7266,
+      7268,
+      7269,
+      7271,
+      7279,
+      7353,
+      7473,
+      7482,
+      7486,
+      7487,
+      7509,
+      7519,
+      7536,
+      28396,
+      31700,
+      32672,
+      33447,
+      33466,
+      33785,
+      36184
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "[And you’ve failed us.]",
+    "fa": "[و تو ما را ناکام گذاشتی.]",
+    "source_indices": [
+      1574
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Mission accomplished.]",
+    "fa": "[مأموریت انجام شد.]",
+    "source_indices": [
+      1609
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Kal",
+    "fa": "کال",
+    "source_indices": [
+      1626,
+      1627,
+      1809,
+      2123,
+      2171,
+      2280,
+      2284,
+      2381,
+      2578,
+      6862,
+      6863,
+      6864,
+      6866,
+      6867,
+      6869,
+      6872,
+      6873,
+      6892,
+      7010,
+      7014,
+      7015,
+      7022,
+      7026,
+      7047,
+      7048,
+      7049,
+      7050,
+      7051,
+      7052,
+      7053,
+      7054,
+      7060,
+      7061,
+      7067,
+      7071,
+      7072,
+      7073,
+      7074,
+      7075,
+      7076,
+      7077,
+      7078,
+      7079,
+      7081,
+      7113,
+      7131,
+      7132,
+      7133,
+      7134,
+      7135,
+      7136,
+      7137,
+      7138,
+      7139,
+      7140,
+      7273,
+      7274,
+      7275,
+      7276,
+      7277,
+      7278,
+      7285,
+      7286,
+      7287,
+      7288,
+      7292,
+      7293,
+      7294,
+      7302,
+      7307,
+      7308,
+      7309,
+      7310,
+      7313,
+      7317,
+      7318,
+      7319,
+      7320,
+      7321,
+      7322,
+      7323,
+      7324,
+      7325,
+      7326,
+      7328,
+      7329,
+      7337,
+      7338,
+      7344,
+      7345,
+      7467,
+      7477,
+      7480,
+      7508,
+      27625,
+      27880,
+      28383,
+      29048,
+      31731,
+      32796,
+      32819,
+      33453,
+      33710,
+      34245,
+      34251,
+      34382,
+      35424,
+      35710,
+      35745,
+      35826,
+      36163,
+      36517,
+      37705,
+      38941
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "We’re mission complete.",
+    "fa": "مأموریت تموم شد.",
+    "source_indices": [
+      1626
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Let’s go hit them back.",
+    "fa": "بریم تلافی کنیم.",
+    "source_indices": [
+      1627
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Archer",
+    "fa": "آرچر",
+    "source_indices": [
+      1654,
+      7537,
+      7538,
+      7541,
+      7544,
+      7546,
+      7547,
+      7548,
+      7549,
+      7551,
+      7556,
+      7557,
+      32116,
+      33690,
+      34946,
+      36906
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "be running back home.",
+    "fa": "دارن به خونه برمی‌گردن.",
+    "source_indices": [
+      1654
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Valeria",
+    "fa": "والریا",
+    "source_indices": [
+      1680,
+      6826,
+      6828,
+      6831,
+      6832,
+      6834,
+      6836,
+      6837,
+      7189,
+      7190,
+      7191,
+      7192,
+      7372,
+      7374,
+      7375,
+      7376,
+      7377,
+      7379,
+      7383,
+      7384,
+      7387,
+      7388,
+      7389,
+      7397,
+      7398,
+      7399,
+      7400,
+      7402,
+      7403,
+      7496,
+      7497,
+      7498,
+      7499,
+      7500,
+      7506,
+      7573,
+      7574,
+      7577,
+      7578,
+      7581,
+      7582,
+      28424,
+      29063,
+      29069,
+      29799,
+      30001,
+      30792,
+      30845,
+      31356,
+      31740,
+      32810,
+      33213,
+      33514,
+      33748,
+      34095,
+      34666,
+      35473,
+      35477,
+      36021,
+      36563,
+      36806
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Dunn",
+    "fa": "دان",
+    "source_indices": [
+      1688,
+      1773,
+      2206,
+      2310,
+      6882,
+      6883,
+      6884,
+      6887,
+      6888,
+      6891,
+      6942,
+      6945,
+      6946,
+      6949,
+      6955,
+      6956,
+      6967,
+      6986,
+      6989,
+      6990,
+      6992,
+      7020,
+      7021,
+      7023,
+      7025,
+      7032,
+      7043,
+      7044,
+      7062,
+      7080,
+      7105,
+      7106,
+      7120,
+      7234,
+      7238,
+      7239,
+      7240,
+      7289,
+      7299,
+      7305,
+      7306,
+      7347,
+      7472,
+      7515,
+      7516,
+      7517,
+      7520,
+      7525,
+      7530,
+      7531,
+      31719,
+      33209,
+      33732,
+      34645,
+      35422,
+      36983,
+      37167
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "We got your back, sir.",
+    "fa": "پشتتون هستیم، قربان.",
+    "source_indices": [
+      1750
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Speak my language, please.",
+    "fa": "به زبون من حرف بزن، لطفاً.",
+    "source_indices": [
+      1773
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We're back here at 1800.",
+    "fa": "ساعت 1800 همین‌جا برمی‌گردیم.",
+    "source_indices": [
+      1803
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Meet back here at 1800 hours.",
+    "fa": "ساعت 1800 همین‌جا جمع می‌شیم.",
+    "source_indices": [
+      1809
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Welcome back, Mayhem-1.",
+    "fa": "خوش برگشتی، Mayhem-1.",
+    "source_indices": [
+      1817
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[No more violence.]",
+    "fa": "[دیگه خشونت بس.]",
+    "source_indices": [
+      1883
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You need to call off your Shadow.",
+    "fa": "باید سایه‌ات رو صدا بزنی و عقب بکشی.",
+    "source_indices": [
+      2034
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You want to start a war?",
+    "fa": "می‌خوای جنگ راه بندازی؟",
+    "source_indices": [
+      2048
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Gaz",
+    "fa": "گاز",
+    "source_indices": [
+      2064,
+      5267,
+      6900,
+      6901,
+      6902,
+      6909,
+      6910,
+      6914,
+      7404,
+      7407,
+      7410,
+      30351,
+      31231,
+      31681,
+      32816,
+      33750,
+      34087,
+      36037
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "And we’re no fucking good on our own.",
+    "fa": "و ما تنهایی به درد لعنتی هم نمی‌خوریم.",
+    "source_indices": [
+      2064
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Once we confirm the systems are down...",
+    "fa": "به محض اینکه تأیید کنیم سیستم‌ها از کار افتادن...",
+    "source_indices": [
+      2123
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Cho",
+    "fa": "چو",
+    "source_indices": [
+      2125,
+      6939,
+      6941,
+      6944,
+      6948,
+      6957,
+      6968,
+      6975,
+      6980,
+      6988,
+      6991,
+      6995,
+      6996,
+      7008,
+      7469,
+      7528,
+      27522,
+      29068,
+      29076,
+      30396,
+      31278,
+      33720,
+      34246,
+      35936
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Like Laswell said, no one gets in or out.",
+    "fa": "همونطور که لازول گفت، هیچ‌کس نه وارد می‌شه نه خارج.",
+    "source_indices": [
+      2171
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And keep your eyes on the objective.",
+    "fa": "و چشمتان به هدف باشد.",
+    "source_indices": [
+      2177
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Laswell",
+    "fa": "لازول",
+    "source_indices": [
+      2203,
+      2273,
+      2374,
+      5234,
+      5235,
+      5236,
+      5245,
+      5246,
+      5274,
+      7143,
+      7144,
+      7145,
+      7193,
+      7195,
+      7196,
+      7199,
+      7291,
+      7296,
+      7297,
+      7303,
+      7304,
+      7333,
+      7334,
+      7335,
+      7358,
+      7360,
+      7361,
+      7364,
+      7365,
+      7367,
+      7368,
+      7436,
+      7437,
+      7439,
+      7441,
+      7442,
+      7443,
+      7444,
+      7445,
+      7446,
+      7449,
+      7450,
+      7451,
+      7452,
+      7453,
+      7454,
+      7457,
+      7458,
+      7460,
+      7461,
+      7462,
+      7502,
+      7504,
+      7591,
+      27290,
+      27420,
+      28628,
+      30038,
+      30356,
+      32970,
+      33177,
+      34058,
+      34099,
+      34209,
+      34417,
+      34480,
+      34660,
+      34694,
+      34721,
+      34833,
+      35010,
+      35498,
+      35706,
+      36360
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "This is not just another kill mission.",
+    "fa": "این فقط یه ماموریت کشتار معمولی نیست.",
+    "source_indices": [
+      2203
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hey, fellas, I don’t got my subtitles on.",
+    "fa": "هی، بچه‌ها، من زیرنویسم روشن نیست.",
+    "source_indices": [
+      2206
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hajin city is back under our control.",
+    "fa": "شهر هاجین دوباره تحت کنترل ماست.",
+    "source_indices": [
+      2208
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "That means no support. No reinforcements.",
+    "fa": "یعنی هیچ پشتیبانی‌ای در کار نیست. هیچ نیروی کمکی‌ای.",
+    "source_indices": [
+      2273
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "My team needs a trailer element to back us up.",
+    "fa": "تیم من یه نیروی عقبدار لازم داره که پشتیبانی‌مون کنه.",
+    "source_indices": [
+      2284
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I make sure no one knows what we’re doing here.",
+    "fa": "من مطمئن می‌شم هیچ‌کس نفهمه ما اینجا چی کار می‌کنیم.",
+    "source_indices": [
+      2374
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Roger that. You heard the man, back here at 1800.",
+    "fa": "دریافت شد. حرف آقا رو شنیدین، ساعت 1800 اینجا باشین.",
+    "source_indices": [
+      2428
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We just went through hell and you’re sending us right back?",
+    "fa": "ما تازه از جهنم برگشتیم و تو دوباره می‌فرستی‌مون سمتش؟",
+    "source_indices": [
+      2517
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Our mission is to secure a relay station south of the plant.",
+    "fa": "ماموریت ما اینه که یه ایستگاه رله جنوب کارخونه رو امن کنیم.",
+    "source_indices": [
+      2571
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The success of our mission determines who controls the peninsula.",
+    "fa": "موفقیت ماموریت ما تعیین می‌کنه کی شبه‌جزیره رو کنترل کنه.",
+    "source_indices": [
+      2578
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We complete this mission, we get a shot at taking back Hajin City.",
+    "fa": "این ماموریت رو تموم کنیم، شانس پس گرفتن شهر هاجین رو پیدا می‌کنیم.",
+    "source_indices": [
+      2656
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You just get me as close as you can to that fucker, so I can end this. Okay?",
+    "fa": "فقط تا جایی که می‌تونی منو به اون مادرجنده نزدیک کن، که بتونم تمومش کنم. باشه؟",
+    "source_indices": [
+      2726
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[We don't have a choice about entering military service. I decide how I leave.]",
+    "fa": "[ما برای ورود به خدمت نظامی اختیاری نداریم. اینکه چطور برم رو خودم تعیین می‌کنم.]",
+    "source_indices": [
+      2745
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "When can you brief?",
+    "fa": "کی می‌تونی توضیح بدی؟",
+    "source_indices": [
+      5234
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "General Shepherd pulled the files you asked for…",
+    "fa": "ژنرال شپرد پرونده‌هایی که خواسته بودی رو درآورد…",
+    "source_indices": [
+      5235
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What are you calling this task force?",
+    "fa": "اسم این نیروی ویژه رو چی می‌ذاری؟",
+    "source_indices": [
+      5236
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Soap",
+    "fa": "سوپ",
+    "source_indices": [
+      5237,
+      5265,
+      32526
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Call me Soap.",
+    "fa": "من رو سوپ صدا کن.",
+    "source_indices": [
+      5237
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Alejandro",
+    "fa": "الخاندرو",
+    "source_indices": [
+      5238,
+      5239,
+      33146
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Lieutenant…",
+    "fa": "ستوان…",
+    "source_indices": [
+      5238
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Laswell says they call you Ghost.",
+    "fa": "لازول می‌گه بهت می‌گن گوست.",
+    "source_indices": [
+      5239
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Good to see you again, Simon.",
+    "fa": "خوشحالم دوباره می‌بینمت، سایمون.",
+    "source_indices": [
+      5240
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Okay. Garrick-",
+    "fa": "باشه. گاریک-",
+    "source_indices": [
+      5241
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You're with me.",
+    "fa": "تو با منی.",
+    "source_indices": [
+      5242
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I want Farah on the team.",
+    "fa": "فرح رو تو تیم می‌خوام.",
+    "source_indices": [
+      5243
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And I'm not asking.",
+    "fa": "و درخواست نمی‌کنم.",
+    "source_indices": [
+      5244
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You have execute authority.",
+    "fa": "اختیار اجرا دست شماست.",
+    "source_indices": [
+      5245
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "All of you.",
+    "fa": "همهٔ شما.",
+    "source_indices": [
+      5246
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You've lost your mind, General.",
+    "fa": "عقلت رو از دست دادی، ژنرال.",
+    "source_indices": [
+      5250
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They carried out a hit on my men.",
+    "fa": "اونا نیروهای من رو هدف گرفتن و کشتن.",
+    "source_indices": [
+      5251
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Graves",
+    "fa": "گریوز",
+    "source_indices": [
+      5252,
+      5254
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "No one needs to get hurt here...",
+    "fa": "لازم نیست اینجا کسی آسیب ببینه...",
+    "source_indices": [
+      5252
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yes, I was.",
+    "fa": "بله، داده شد.",
+    "source_indices": [
+      5254
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This is your last chance to change your mind.",
+    "fa": "این آخرین فرصتته که نظرت رو عوض کنی.",
+    "source_indices": [
+      5256
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’m comin’ for you…",
+    "fa": "دارم میام سراغت…",
+    "source_indices": [
+      5258
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Gen. Shepherd",
+    "fa": "ژنرال شپرد",
+    "source_indices": [
+      5259,
+      5260,
+      5269,
+      5271,
+      5273
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Cap'n, let me paint you the bigger picture.",
+    "fa": "کاپیتان، بذار تصویر بزرگ‌تر رو برات توضیح بدم.",
+    "source_indices": [
+      5259
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You need Makarov in a pine box and I’ve got the nails.",
+    "fa": "تو ماکاروف رو توی تابوت می‌خوای و میخ‌هاش پیش منه.",
+    "source_indices": [
+      5260
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Vladimir Makarov! Get out of the vehicle! Now!",
+    "fa": "ولادیمیر ماکاروف! از ماشین بیا بیرون! همین حالا!",
+    "source_indices": [
+      5261
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "NO…!!",
+    "fa": "نه…!!",
+    "source_indices": [
+      5264
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Had him right in our fuckin’ hands...",
+    "fa": "لامصب درست تو دستامون بود...",
+    "source_indices": [
+      5265
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I shoulda killed him when we had the chance.",
+    "fa": "باید وقتی فرصتش بود می‌کشتمش.",
+    "source_indices": [
+      5266
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Where do we draw the line at, sir?",
+    "fa": "مرزمون کجاست، قربان؟",
+    "source_indices": [
+      5267
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We get dirty and the world stays clean.",
+    "fa": "ما دستمون رو آلوده می‌کنیم تا دنیا پاک بمونه.",
+    "source_indices": [
+      5268
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You’re better than this, Cap'n.",
+    "fa": "تو از این بهتری، کاپیتان.",
+    "source_indices": [
+      5269
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We both were…",
+    "fa": "هر دومون بودیم…",
+    "source_indices": [
+      5270
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This job is about making sacrifices for the greater good.",
+    "fa": "این کار یعنی فداکاری برای خیر بزرگ‌تر.",
+    "source_indices": [
+      5271
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Agreed.",
+    "fa": "موافقم.",
+    "source_indices": [
+      5272
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oh, I am not gonna beg for my life.",
+    "fa": "اوه، من برای جونم التماس نمی‌کنم.",
+    "source_indices": [
+      5273
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You know Commander Karim?",
+    "fa": "فرمانده کریم رو می‌شناسی؟",
+    "source_indices": [
+      5274
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We're acquainted. ",
+    "fa": "آشنایی داریم. ",
+    "source_indices": [
+      5275
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This is a fight against our own...",
+    "fa": "این جنگ با آدم‌های خودمونه...",
+    "source_indices": [
+      5276
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Don’t miss.",
+    "fa": "خطا نرو.",
+    "source_indices": [
+      6826
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "As promised.",
+    "fa": "طبق قولمون.",
+    "source_indices": [
+      6828
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We had company.",
+    "fa": "مزاحم داشتیم.",
+    "source_indices": [
+      6831
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What’s left of it.",
+    "fa": "هرچی ازش مونده.",
+    "source_indices": [
+      6832
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "In the flesh.",
+    "fa": "شخصاً.",
+    "source_indices": [
+      6834
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "In full.",
+    "fa": "کامل.",
+    "source_indices": [
+      6836
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They stay here until I’m paid.",
+    "fa": "تا پولم نرسه همین‌جا می‌مونن.",
+    "source_indices": [
+      6837
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You fuck!",
+    "fa": "ای کونی!",
+    "source_indices": [
+      6844
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You are certain?]",
+    "fa": "[مطمئنی؟]",
+    "source_indices": [
+      6845
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[He told Sergeant Ko Jin-Hyuk himself. “There are others.”]",
+    "fa": "[خودش به گروهبان کو جین‌هیوک گفت: «افراد دیگه‌ای هم هستن.»]",
+    "source_indices": [
+      6846
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[They want you dead.]",
+    "fa": "[اون‌ها مرگ تو رو می‌خوان.]",
+    "source_indices": [
+      6847
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[What kind of message will that send?]",
+    "fa": "[این چه پیامی می‌فرسته؟]",
+    "source_indices": [
+      6848
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Because this country is yours now.]",
+    "fa": "[چون این کشور حالا مال توئه.]",
+    "source_indices": [
+      6849
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I know this isn’t how you wanted to return home.]",
+    "fa": "[می‌دونم دلت نمی‌خواست این‌طوری به وطن برگردی.]",
+    "source_indices": [
+      6850
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Comrade Ko Jin-Hyuk. What do you think?]",
+    "fa": "[رفیق کو جین‌هیوک. تو چی فکر می‌کنی؟]",
+    "source_indices": [
+      6851
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Fine.]",
+    "fa": "[باشه.]",
+    "source_indices": [
+      6852
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Bring me the senior council.]",
+    "fa": "[شورای ارشد رو پیشم بیار.]",
+    "source_indices": [
+      6853
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Understood.]",
+    "fa": "[اطاعت.]",
+    "source_indices": [
+      6854
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You are the senior council, our most trusted advisors.]",
+    "fa": "[شما شورای ارشد هستید، مورد اعتمادترین مشاوران ما.]",
+    "source_indices": [
+      6855
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Senior Official",
+    "fa": "مقام ارشد",
+    "source_indices": [
+      6856,
+      6859,
+      6860,
+      34791
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "[What do you mean?]",
+    "fa": "[منظورتان چیست؟]",
+    "source_indices": [
+      6856
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[A traitor was in your ranks.]",
+    "fa": "[یک خائن در صفوف شما بود.]",
+    "source_indices": [
+      6857
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[All of you have been compromised.]",
+    "fa": "[همهٔ شما آلوده شده‌اید.]",
+    "source_indices": [
+      6858
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Comrade Ri Ju-Young, everyone here is loyal to the Supreme Leader Ri Seung-ho.]",
+    "fa": "[رفیق ری جویونگ، همهٔ حاضران به رهبر عالی ری سونگ‌هو وفادارند.]",
+    "source_indices": [
+      6859
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Does he-]",
+    "fa": "[آیا او-]",
+    "source_indices": [
+      6860
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "US Pilot",
+    "fa": "خلبان آمریکایی",
+    "source_indices": [
+      6861,
+      7342,
+      7343,
+      29071,
+      35086
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Welcome home, gentlemen.",
+    "fa": "به خونه خوش اومدید، آقایون.",
+    "source_indices": [
+      6861
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Just got off the horn with Colonel Shaw.",
+    "fa": "همین الان با سرهنگ شاو صحبت کردم.",
+    "source_indices": [
+      6862
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "All teams hit their targets.",
+    "fa": "همهٔ تیم‌ها اهدافشون رو زدن.",
+    "source_indices": [
+      6863
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’ll brief when we land.",
+    "fa": "وقتی فرود اومدیم جلسهٔ توجیهی داریم.",
+    "source_indices": [
+      6864
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Moon",
+    "fa": "مون",
+    "source_indices": [
+      6865,
+      6952,
+      6953,
+      6960,
+      6978,
+      7116,
+      7121,
+      7339,
+      7470,
+      28584,
+      30237,
+      30346,
+      32146,
+      32505,
+      33762,
+      35150
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Sir...",
+    "fa": "قربان...",
+    "source_indices": [
+      6865
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Already got that covered.",
+    "fa": "اون رو از قبل جور کردم.",
+    "source_indices": [
+      6866
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Someone wants to talk to you.",
+    "fa": "یکی می‌خواد باهات حرف بزنه.",
+    "source_indices": [
+      6867
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Who?]",
+    "fa": "[کی؟]",
+    "source_indices": [
+      6868
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Just keep your head down and stay with me.",
+    "fa": "فقط سرت رو پایین نگه دار و کنارم بمون.",
+    "source_indices": [
+      6869
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You made a hard choice.]",
+    "fa": "[انتخاب سختی کردی.]",
+    "source_indices": [
+      6870
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[For once, it was mine to decide.]",
+    "fa": "[برای یک بار هم که شده، تصمیم با خودم بود.]",
+    "source_indices": [
+      6871
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Brief starts in five. Don’t be late.",
+    "fa": "جلسهٔ توجیهی پنج دقیقه دیگه شروع می‌شه. دیر نکن.",
+    "source_indices": [
+      6872
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’ll see you out there.",
+    "fa": "اون بیرون می‌بینمت.",
+    "source_indices": [
+      6873
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Alright Marines, today is the day.",
+    "fa": "خیلی خب تفنگدارها، امروز همون روزه.",
+    "source_indices": [
+      6874
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Y’all ever been to North Korea?",
+    "fa": "شما تا حالا کرهٔ شمالی بودید؟",
+    "source_indices": [
+      6883
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Shit was so dick, man.",
+    "fa": "اوضاعش گه بود، رفیق.",
+    "source_indices": [
+      6884
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Open the hatches!",
+    "fa": "دریچه‌ها رو باز کنید!",
+    "source_indices": [
+      6889
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Let’s fuckin’ go!",
+    "fa": "لامصب بزن بریم دیگه!",
+    "source_indices": [
+      6891
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Well, you went after the wrong one.",
+    "fa": "خب، دنبال آدم اشتباهی رفتی.",
+    "source_indices": [
+      6895
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You should’ve gone for the Archer.",
+    "fa": "باید می‌رفتی سراغ آرچر.",
+    "source_indices": [
+      6896
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Ghost",
+    "fa": "گوست",
+    "source_indices": [
+      6898,
+      6908,
+      7280,
+      7281,
+      7284,
+      7408,
+      7409,
+      26200,
+      31254,
+      31696,
+      34121
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Well, we’re in one now, aren’t we, Simon? Eh?",
+    "fa": "خب، الان وسطشیم، مگه نه سایمون؟ هان؟",
+    "source_indices": [
+      6899
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It’s the one that separates us from the enemy.",
+    "fa": "همون چیزیه که ما رو از دشمن جدا می‌کنه.",
+    "source_indices": [
+      6900
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I would have followed you through hell, sir.",
+    "fa": "تا جهنم هم دنبالتون می‌اومدم، قربان.",
+    "source_indices": [
+      6902
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So that’s it? ",
+    "fa": "پس همین بود؟ ",
+    "source_indices": [
+      6909
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You think you’ve won?",
+    "fa": "فکر می‌کنی بردی؟",
+    "source_indices": [
+      6910
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "No one’s going to believe you.",
+    "fa": "هیچ‌کس حرفت رو باور نمی‌کنه.",
+    "source_indices": [
+      6914
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "North Korean forces occupy key strongpoints in the city.",
+    "fa": "نیروهای کرهٔ شمالی نقاط مستحکم کلیدی شهر را در اختیار دارند.",
+    "source_indices": [
+      6920
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "That hotel functions as their communications relay",
+    "fa": "آن هتل به‌عنوان رلهٔ ارتباطی آن‌ها عمل می‌کند",
+    "source_indices": [
+      6921
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "for units operating throughout the city.",
+    "fa": "برای یگان‌هایی که در سراسر شهر فعالیت می‌کنند.",
+    "source_indices": [
+      6922
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Disrupt that node, and we fracture their ability to coordinate.",
+    "fa": "آن گره را مختل کنیم، توان هماهنگی‌شان را درهم می‌شکنیم.",
+    "source_indices": [
+      6923
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "At 0900, the Battalion Landing Team",
+    "fa": "ساعت 0900، تیم نشست گردان",
+    "source_indices": [
+      6924
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "supported by air and naval gunfire.",
+    "fa": "با پشتیبانی آتش هوایی و دریایی.",
+    "source_indices": [
+      6925
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "At the same time, adjacent units from 1st Marine Regiment will push in from the south.",
+    "fa": "هم‌زمان، یگان‌های مجاور از هنگ 1 تفنگداران دریایی از جنوب پیشروی می‌کنند.",
+    "source_indices": [
+      6926
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Phase One:",
+    "fa": "مرحلهٔ یک:",
+    "source_indices": [
+      6927
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Fox Company, will secure the beachhead, clearing all structures in the area.",
+    "fa": "گروهان فاکس سر ساحل را تأمین و همهٔ ساختمان‌های منطقه را پاک‌سازی می‌کند.",
+    "source_indices": [
+      6928
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Main Effort, Bravo Company, call sign Mayhem, will push west towards the hotel.",
+    "fa": "تلاش اصلی با گروهان براوو، با رمز میهم، است که به سمت غرب و هتل پیشروی می‌کند.",
+    "source_indices": [
+      6929
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Speed and momentum are critical here.",
+    "fa": "سرعت و شتاب اینجا حیاتی است.",
+    "source_indices": [
+      6930
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We don’t want to get bogged down in a street fight.",
+    "fa": "نمی‌خواهیم در نبرد خیابانی گرفتار شویم.",
+    "source_indices": [
+      6931
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "In Phase Three: ",
+    "fa": "در مرحلهٔ سه: ",
+    "source_indices": [
+      6932
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Mayhem will assault and secure the hotel,",
+    "fa": "میهم به هتل حمله و آن را تأمین می‌کند،",
+    "source_indices": [
+      6933
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "severing the enemy’s ability to command and control.",
+    "fa": "و توان فرماندهی و کنترل دشمن را قطع می‌کند.",
+    "source_indices": [
+      6934
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Marines, this operation represents the strength of our alliance.",
+    "fa": "تفنگداران، این عملیات نمایانگر قدرت اتحاد ماست.",
+    "source_indices": [
+      6935
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Dismissed.",
+    "fa": "مرخص.",
+    "source_indices": [
+      6936
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Alright. Ha, ha, ha.",
+    "fa": "باشه. هه، هه، هه.",
+    "source_indices": [
+      6942
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hey, rap’s for pussies, okay.",
+    "fa": "هی، رپ مال ترسوهاست، باشه؟",
+    "source_indices": [
+      6945
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Pantera... you know them?",
+    "fa": "پانترا... می‌شناسیشون؟",
+    "source_indices": [
+      6946
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Sorry, Dunn.",
+    "fa": "ببخشید دان.",
+    "source_indices": [
+      6948
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "North Korea has new leader.",
+    "fa": "کرهٔ شمالی رهبر جدید داره.",
+    "source_indices": [
+      6950
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They say he could-",
+    "fa": "می‌گن می‌تونه-",
+    "source_indices": [
+      6951
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The kid's just posturing. Right?",
+    "fa": "اون پسره فقط داره ژست می‌گیره. درسته؟",
+    "source_indices": [
+      6953
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hey, listen, we can end that streak with a couple precision guided, 2000lb JDAMs. ",
+    "fa": "هی، گوش کنید، با چندتا بمب هدایت‌شونده‌ی دقیق 2000 پوندی JDAM می‌تونیم این ماجرا رو تموم کنیم. ",
+    "source_indices": [
+      6955
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Coordinated by yours truly of course.",
+    "fa": "البته با هماهنگی خودِ من.",
+    "source_indices": [
+      6956
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Hey.] Orders are: ",
+    "fa": "[هی.] دستورها اینه: ",
+    "source_indices": [
+      6958
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Any time. Any place...",
+    "fa": "هر زمان. هر مکان...",
+    "source_indices": [
+      6959
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "C’mon now, old? ",
+    "fa": "ای بابا، قدیمی؟ ",
+    "source_indices": [
+      6961
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Wu is OG.",
+    "fa": "وو اصیله.",
+    "source_indices": [
+      6962
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "A structured, disciplined, street-level brotherhood.",
+    "fa": "یه برادری منظم و منضبط در سطح خیابان.",
+    "source_indices": [
+      6963
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You wanna be a better Marine, listen to Wu.",
+    "fa": "می‌خوای تفنگدار بهتری بشی، به وو گوش بده.",
+    "source_indices": [
+      6964
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So, Dunn-",
+    "fa": "خب، دان-",
+    "source_indices": [
+      6965
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I hear you shit on Wu-Tang again,",
+    "fa": "اگه دوباره بشنوم به وو-تانگ گه زدی،",
+    "source_indices": [
+      6966
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Can we make a pit-stop at the Goh mart?",
+    "fa": "می‌شه تو فروشگاه گو یه توقف کنیم؟",
+    "source_indices": [
+      6968
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Moon...",
+    "fa": "مون...",
+    "source_indices": [
+      6972
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How far to the Goh mart?",
+    "fa": "تا فروشگاه گو چقدر مونده؟",
+    "source_indices": [
+      6973
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Keep your scouts in line.",
+    "fa": "پیشاهنگ‌هات رو سر جاشون نگه دار.",
+    "source_indices": [
+      6982
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Let’s move with purpose.",
+    "fa": "با هدف حرکت کنیم.",
+    "source_indices": [
+      6984
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What? Korean chicks don’t like a man in uniform?",
+    "fa": "چیه؟ دخترای کره‌ای مرد یونیفرم‌پوش رو دوست ندارن؟",
+    "source_indices": [
+      6992
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Service is mandatory for us, Dunn.",
+    "fa": "خدمت برای ما اجباریه، دان.",
+    "source_indices": [
+      6993
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You’re not special to them.",
+    "fa": "تو براشون خاص نیستی.",
+    "source_indices": [
+      6994
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oh, your Korean is excellent.",
+    "fa": "اوه، کره‌ای‌ت عالیه.",
+    "source_indices": [
+      6996
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Sergeant, sir, I checked my rations and I’m topped off.]",
+    "fa": "[گروهبان، قربان، جیره‌م رو چک کردم و پره.]",
+    "source_indices": [
+      6997
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I was just a little confused...]",
+    "fa": "[فقط یه کم گیج شده بودم...]",
+    "source_indices": [
+      6998
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Private Ju Kwon, grunts are in a constant state of confusion.]",
+    "fa": "[سرباز جو کوون، پیاده‌نظام‌ها همیشه تو حالت سردرگمی‌ان.]",
+    "source_indices": [
+      6999
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[So when we get inside...]",
+    "fa": "[پس وقتی رفتیم تو...]",
+    "source_indices": [
+      7000
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Do not buy any milk.] Okay?",
+    "fa": "[هیچ شیری نخر.] باشه؟",
+    "source_indices": [
+      7001
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I heard you’re going to reenlist.]",
+    "fa": "[شنیدم می‌خوای دوباره ثبت‌نام کنی.]",
+    "source_indices": [
+      7003
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Yeah. I’m going to make a career out of it.]",
+    "fa": "[آره. می‌خوام ازش شغل بسازم.]",
+    "source_indices": [
+      7004
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[What about you?]",
+    "fa": "[تو چی؟]",
+    "source_indices": [
+      7005
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Be ready!",
+    "fa": "آماده باشید!",
+    "source_indices": [
+      7009
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Enemy patrol.",
+    "fa": "گشت دشمن.",
+    "source_indices": [
+      7014
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hold fire until I give the order.",
+    "fa": "تا دستور ندادم شلیک نکنید.",
+    "source_indices": [
+      7015
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "He saved our asses up there.",
+    "fa": "اون اون بالا جون ما رو نجات داد.",
+    "source_indices": [
+      7024
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Private Park, are you crazy? Move aside!]",
+    "fa": "[سرباز پارک، دیوونه شدی؟ برو کنار!]",
+    "source_indices": [
+      7027
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I understand your fear of North Korea. ",
+    "fa": "ترستون از کرهٔ شمالی رو می‌فهمم. ",
+    "source_indices": [
+      7035
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I have it too.",
+    "fa": "من هم دارم.",
+    "source_indices": [
+      7036
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "the strong do not protect the weak.",
+    "fa": "قوی‌ها از ضعیف‌ها محافظت نمی‌کنن.",
+    "source_indices": [
+      7037
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The masses bear the weight while the powerful want for nothing.",
+    "fa": "مردم بار رو به دوش می‌کشن در حالی که قدرتمندها هیچ کمبودی ندارن.",
+    "source_indices": [
+      7038
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "My name...",
+    "fa": "اسم من...",
+    "source_indices": [
+      7040
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "is Ko Jin-Hyuk.",
+    "fa": "کو جین‌هیوکه.",
+    "source_indices": [
+      7041
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And I'd rather die than live in fear.",
+    "fa": "و ترجیح می‌دم بمیرم تا اینکه تو ترس زندگی کنم.",
+    "source_indices": [
+      7042
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oh, fuck...",
+    "fa": "وای گوه...",
+    "source_indices": [
+      7043
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Sounds like he means it man.",
+    "fa": "به نظر می‌رسه جدی می‌گه رفیق.",
+    "source_indices": [
+      7044
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Sir, ",
+    "fa": "قربان، ",
+    "source_indices": [
+      7045
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "tell me you don’t trust this guy.",
+    "fa": "بگید که به این یارو اعتماد ندارید.",
+    "source_indices": [
+      7046
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "To do that, we need explosives.",
+    "fa": "برای این کار مواد منفجره لازم داریم.",
+    "source_indices": [
+      7049
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Lots of them.",
+    "fa": "کلی‌اش.",
+    "source_indices": [
+      7050
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And if we can pull this off, we need to call for exfil.",
+    "fa": "و اگه از پسش بر بیایم، باید درخواست تخلیه بدیم.",
+    "source_indices": [
+      7051
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And get the bird in here. Safely.",
+    "fa": "و هلیکوپتر رو سالم بیاریم اینجا.",
+    "source_indices": [
+      7052
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "If I'm missing, more will come.",
+    "fa": "اگه من غیب بشم، بیشتر میان.",
+    "source_indices": [
+      7056
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And your men need medicine.",
+    "fa": "و افرادتون دارو لازم دارن.",
+    "source_indices": [
+      7057
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You have to let me go.",
+    "fa": "باید بذارید برم.",
+    "source_indices": [
+      7058
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Sir, what are you doing?!",
+    "fa": "قربان، دارید چی کار می‌کنید؟!",
+    "source_indices": [
+      7059
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This is our best move.",
+    "fa": "این بهترین حرکتمونه.",
+    "source_indices": [
+      7060
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We are here.",
+    "fa": "ما اینجاییم.",
+    "source_indices": [
+      7064
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "There's a guard post to the south.",
+    "fa": "یه پست نگهبانی تو جنوب هست.",
+    "source_indices": [
+      7065
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Explosives are in a bunker underground.",
+    "fa": "مواد منفجره تو یه پناهگاه زیرزمینیه.",
+    "source_indices": [
+      7066
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How many soldiers?",
+    "fa": "چند تا سرباز؟",
+    "source_indices": [
+      7067
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Twelve. Maybe more.",
+    "fa": "دوازده. شاید بیشتر.",
+    "source_indices": [
+      7068
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "In the northeast mountains, there's a jamming station.",
+    "fa": "تو کوه‌های شمال‌شرق یه ایستگاه پارازیت هست.",
+    "source_indices": [
+      7069
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "you will not be able to contact anyone.",
+    "fa": "نمی‌تونید با کسی تماس بگیرید.",
+    "source_indices": [
+      7070
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "three klicks east.",
+    "fa": "سه کیلومتر شرق.",
+    "source_indices": [
+      7071
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The target will be crawling with enemies,",
+    "fa": "هدف پر از دشمن خواهد بود،",
+    "source_indices": [
+      7072
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "but Ko Jin-Hyuk has a plan for that.",
+    "fa": "ولی کو جین‌هیوک برای این یه نقشه داره.",
+    "source_indices": [
+      7074
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Park and myself will go for their ordnance in the southwest hangar.",
+    "fa": "من و پارک می‌ریم سراغ مهمات‌شون تو آشیانهٔ جنوب‌غرب.",
+    "source_indices": [
+      7075
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The rest of you will move to the airstrip and target their fuel reserves.",
+    "fa": "بقیهٔ شما به باند فرود می‌رید و ذخایر سوختشون رو هدف می‌گیرید.",
+    "source_indices": [
+      7076
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "When all charges are set,",
+    "fa": "وقتی همهٔ بارها کار گذاشته شد،",
+    "source_indices": [
+      7077
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Then call for exfil.",
+    "fa": "بعدش درخواست تخلیه بدید.",
+    "source_indices": [
+      7078
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "we go kinetic.",
+    "fa": "وارد عمل می‌شیم.",
+    "source_indices": [
+      7079
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So Ko's gonna cover our infil.",
+    "fa": "پس کو قراره نفوذ ما رو پوشش بده.",
+    "source_indices": [
+      7080
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oorah.",
+    "fa": "اورا.",
+    "source_indices": [
+      7082
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I fight for Korea.]",
+    "fa": "[من برای کره می‌جنگم.]",
+    "source_indices": [
+      7090
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[The Korea your brother wanted, before you killed him.]",
+    "fa": "[کره‌ای که برادرت می‌خواست، پیش از اینکه بکشیش.]",
+    "source_indices": [
+      7091
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Comrade Ri Ju-Young knows...",
+    "fa": "رفیق ری جویونگ می‌دونه...",
+    "source_indices": [
+      7096
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[So cool. Yeah?]",
+    "fa": "[خیلی باحاله. آره؟]",
+    "source_indices": [
+      7099
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "CHOW!",
+    "fa": "چاو!",
+    "source_indices": [
+      7104
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Don’t get stuck in your head.",
+    "fa": "تو سر خودت گیر نکن.",
+    "source_indices": [
+      7107
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Do not fear the unknown.",
+    "fa": "از ناشناخته نترس.",
+    "source_indices": [
+      7108
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Stay disciplined. ",
+    "fa": "منضبط بمون. ",
+    "source_indices": [
+      7109
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Trust your training.",
+    "fa": "به آموزشت اعتماد کن.",
+    "source_indices": [
+      7110
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Support your team.",
+    "fa": "از تیمت حمایت کن.",
+    "source_indices": [
+      7111
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[chuckles]",
+    "fa": "[می‌خندد]",
+    "source_indices": [
+      7115
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What’s wrong with that, huh?",
+    "fa": "مگه چه اشکالی داره، هان؟",
+    "source_indices": [
+      7117
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Here, do you need me to get it for you? Yeah...",
+    "fa": "بیا، می‌خوای من برات بگیرمش؟ آره...",
+    "source_indices": [
+      7120
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[laughs]",
+    "fa": "[می‌خندد]",
+    "source_indices": [
+      7121
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oh, fuck.",
+    "fa": "اوه، گوه.",
+    "source_indices": [
+      7123
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Are you ok?]",
+    "fa": "[خوبی؟]",
+    "source_indices": [
+      7124
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hang on! Just hang on!",
+    "fa": "تحمل کنید! فقط تحمل کنید!",
+    "source_indices": [
+      7127
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Cho!",
+    "fa": "چو!",
+    "source_indices": [
+      7128
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Eagle-3 is going down!",
+    "fa": "ایگل-3 داره سقوط می‌کنه!",
+    "source_indices": [
+      7129
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I say again, Eagle-3 is going down!",
+    "fa": "تکرار می‌کنم، ایگل-3 داره سقوط می‌کنه!",
+    "source_indices": [
+      7130
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Tier-1 forces are infiltrating into North Korea to hit key targets.",
+    "fa": "نیروهای تایر-1 برای زدن اهداف کلیدی به کرهٔ شمالی نفوذ می‌کنند.",
+    "source_indices": [
+      7132
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Our target is an artillery base ten klicks north of the border.",
+    "fa": "هدف ما یه پایگاه توپخانه‌ست، ده کیلومتر شمال مرز.",
+    "source_indices": [
+      7133
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’ll insert via HALO drop,",
+    "fa": "با پرش هالو نفوذ می‌کنیم،",
+    "source_indices": [
+      7134
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "landing on this ridgeline to the south, ",
+    "fa": "و روی این خط‌الرأس جنوبی فرود میایم، ",
+    "source_indices": [
+      7135
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Once on target, we’ll destroy all air and ground assault elements with explosive charges.",
+    "fa": "وقتی به هدف رسیدیم، همهٔ عناصر حملهٔ هوایی و زمینی رو با بارهای انفجاری نابود می‌کنیم.",
+    "source_indices": [
+      7136
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Lieutenant West and his Marines will be on standby as QRF.",
+    "fa": "ستوان وست و تفنگدارانش به‌عنوان نیروی واکنش سریع آماده‌باش هستن.",
+    "source_indices": [
+      7137
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I want to be clear...",
+    "fa": "می‌خوام واضح بگم...",
+    "source_indices": [
+      7138
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We cannot fail.",
+    "fa": "نمی‌تونیم شکست بخوریم.",
+    "source_indices": [
+      7139
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Fifteen minutes to the drop point.",
+    "fa": "پانزده دقیقه تا نقطهٔ پرش.",
+    "source_indices": [
+      7140
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Word came down.",
+    "fa": "دستور از بالا رسید.",
+    "source_indices": [
+      7143
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I've recommended you as my replacement.",
+    "fa": "تو رو به‌عنوان جایگزین خودم پیشنهاد دادم.",
+    "source_indices": [
+      7144
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Welcome to the Watcher Program.",
+    "fa": "به برنامهٔ ناظر خوش اومدی.",
+    "source_indices": [
+      7145
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Let’s get to the point, shall we?",
+    "fa": "بریم سر اصل مطلب، باشه؟",
+    "source_indices": [
+      7152
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You think I’ll help you?",
+    "fa": "فکر می‌کنی کمکت می‌کنم؟",
+    "source_indices": [
+      7156
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And why’s that?",
+    "fa": "چرا؟",
+    "source_indices": [
+      7158
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And you want him dead.",
+    "fa": "و تو مرگش رو می‌خوای.",
+    "source_indices": [
+      7162
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Then why work for him?",
+    "fa": "پس چرا براش کار می‌کنی؟",
+    "source_indices": [
+      7163
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What’s in that case that’s so important?",
+    "fa": "تو اون محموله چی هست که این‌قدر مهمه؟",
+    "source_indices": [
+      7164
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Go fuck yerself.",
+    "fa": "برو خودتو بگا.",
+    "source_indices": [
+      7168
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’ve seen what you do to your business partners, [demon].",
+    "fa": "دیدم با شریکای کاریت چی کار می‌کنی، [شیطان].",
+    "source_indices": [
+      7170
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yeah, but why me?",
+    "fa": "آره، ولی چرا من؟",
+    "source_indices": [
+      7175
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yeah, agreed.",
+    "fa": "آره، موافقم.",
+    "source_indices": [
+      7179
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Woo!",
+    "fa": "هوو!",
+    "source_indices": [
+      7189
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[The soldier who crossed to the other side... Hell yeah, welcome, outlaw.]",
+    "fa": "[سربازی که به اون طرف رفت... آره، خوش اومدی، یاغی.]",
+    "source_indices": [
+      7190
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Make it fast.",
+    "fa": "زود باش.",
+    "source_indices": [
+      7191
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "In 10 minutes, we disappear.",
+    "fa": "تا 10 دقیقه دیگه غیب می‌شیم.",
+    "source_indices": [
+      7192
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The cops are everywhere.",
+    "fa": "پلیس همه‌جا هست.",
+    "source_indices": [
+      7193
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "he was there, Kate.",
+    "fa": "اون اونجا بود، کیت.",
+    "source_indices": [
+      7194
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Where is he now?",
+    "fa": "الان کجاست؟",
+    "source_indices": [
+      7195
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The Archer will go to ground, you should do the same.",
+    "fa": "آرچر قایم می‌شه، تو هم باید همین کار رو بکنی.",
+    "source_indices": [
+      7196
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "No, I can’t do that, Kate.",
+    "fa": "نه، نمی‌تونم این کار رو بکنم، کیت.",
+    "source_indices": [
+      7197
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Because I found a way to him.",
+    "fa": "چون راهی بهش پیدا کردم.",
+    "source_indices": [
+      7198
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How?",
+    "fa": "چطوری؟",
+    "source_indices": [
+      7199,
+      7550
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It’s better if you don’t know.",
+    "fa": "بهتره ندونی.",
+    "source_indices": [
+      7200
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I gotta go at this one alone, Kate. You know?",
+    "fa": "این یکی رو باید تنها برم، کیت. می‌فهمی؟",
+    "source_indices": [
+      7201
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’ll call you if I need you.",
+    "fa": "اگه لازمت داشتم زنگ می‌زنم.",
+    "source_indices": [
+      7202
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Where is your husband?]",
+    "fa": "[شوهرت کجاست؟]",
+    "source_indices": [
+      7203
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You disloyal whore. Protecting a traitor?]",
+    "fa": "[ای جندهٔ بی‌وفا. از یه خائن محافظت می‌کنی؟]",
+    "source_indices": [
+      7204
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Who will protect you from me?]",
+    "fa": "[کی از دست من محافظتت می‌کنه؟]",
+    "source_indices": [
+      7205
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[She was hiding under the floorboard.]",
+    "fa": "[زیر تخته‌های کف قایم شده بود.]",
+    "source_indices": [
+      7207
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Hello, little one.]",
+    "fa": "[سلام، کوچولو.]",
+    "source_indices": [
+      7209
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Do you know who I am?]",
+    "fa": "[می‌دونی من کیم؟]",
+    "source_indices": [
+      7210
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[We could hear you.]",
+    "fa": "[صدات رو می‌شنیدیم.]",
+    "source_indices": [
+      7213
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You’re doing well in school?]",
+    "fa": "[تو مدرسه خوب پیش می‌ری؟]",
+    "source_indices": [
+      7214
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[And you’re memorizing all the aphorisms?]",
+    "fa": "[و همهٔ جمله‌های قصار رو حفظ می‌کنی؟]",
+    "source_indices": [
+      7215
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Tell me your favorite.]",
+    "fa": "[محبوب‌ترینت رو بگو.]",
+    "source_indices": [
+      7216
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I like that one too.]",
+    "fa": "[من هم اون رو دوست دارم.]",
+    "source_indices": [
+      7218
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Do you want to know my favorite?]",
+    "fa": "[می‌خوای محبوب‌ترین من رو بدونی؟]",
+    "source_indices": [
+      7219
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[”Loyalty follows truth.”]",
+    "fa": "[«وفاداری پیرو حقیقت است.»]",
+    "source_indices": [
+      7220
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Do you know what that means?]",
+    "fa": "[می‌دونی یعنی چی؟]",
+    "source_indices": [
+      7221
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Who hid you under the floor?]",
+    "fa": "[کی تو رو زیر کف قایم کرد؟]",
+    "source_indices": [
+      7224
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[And your father? Where is he?]",
+    "fa": "[و پدرت؟ کجاست؟]",
+    "source_indices": [
+      7226
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Kin punishment. Three generations.]",
+    "fa": "[مجازات خویشاوندان. سه نسل.]",
+    "source_indices": [
+      7230
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[She is the child of a traitor.]",
+    "fa": "[اون فرزند یه خائنه.]",
+    "source_indices": [
+      7231
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You think she’s worthy? Bring me the father.]",
+    "fa": "[فکر می‌کنی لایقه؟ پدرش رو پیشم بیار.]",
+    "source_indices": [
+      7232
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Solid fuckin’ hit, Park.",
+    "fa": "ضربهٔ لامصب خفنی بود، پارک.",
+    "source_indices": [
+      7234
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Copy, Warpig-6.",
+    "fa": "دریافت شد، وارپیگ-6.",
+    "source_indices": [
+      7237
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Look at that.",
+    "fa": "اونو ببین.",
+    "source_indices": [
+      7238
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Let's go!",
+    "fa": "بزن بریم!",
+    "source_indices": [
+      7240
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’re diverting to the power plant.",
+    "fa": "مسیرمون رو به سمت نیروگاه عوض می‌کنیم.",
+    "source_indices": [
+      7241
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oh, I’ve seen a lot of things...",
+    "fa": "آه، من چیزای زیادی دیدم...",
+    "source_indices": [
+      7256
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "See you and me, we’ve been in this game a long time, eh.",
+    "fa": "ببین، من و تو مدت زیادیه تو این بازی هستیم، نه؟",
+    "source_indices": [
+      7257
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We both know how this ends for you, yeah?",
+    "fa": "هر دومون می‌دونیم این ماجرا برای تو چطور تموم می‌شه، آره؟",
+    "source_indices": [
+      7258
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You're staying behind?]",
+    "fa": "[تو پشت سر می‌مونی؟]",
+    "source_indices": [
+      7266
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I don’t know...]",
+    "fa": "[نمی‌دونم...]",
+    "source_indices": [
+      7267
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Good luck to you, Ko Jin-Hyuk.]",
+    "fa": "[موفق باشی، کو جین‌هیوک.]",
+    "source_indices": [
+      7268
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[The choices ahead are ours to make.]",
+    "fa": "[انتخاب‌های پیش رو با خودمونه.]",
+    "source_indices": [
+      7269
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Do you realize what we just did?]",
+    "fa": "[می‌فهمی ما الان چی کار کردیم؟]",
+    "source_indices": [
+      7270
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You are going to have a great career.]",
+    "fa": "[آیندهٔ درخشانی در انتظارته.]",
+    "source_indices": [
+      7271
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Have you chosen a path yet?]",
+    "fa": "[هنوز راهتو انتخاب کردی؟]",
+    "source_indices": [
+      7272
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Collapse to your exfil points.",
+    "fa": "به نقاط خروج‌تون جمع بشید.",
+    "source_indices": [
+      7276
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Wheels up in five mikes.",
+    "fa": "پنج دقیقهٔ دیگه پرواز می‌کنیم.",
+    "source_indices": [
+      7277
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We gotta get the wounded outta here now.",
+    "fa": "باید مجروحا رو همین الان از اینجا ببریم.",
+    "source_indices": [
+      7278
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Lieutenant West.",
+    "fa": "ستوان وست.",
+    "source_indices": [
+      7285
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Gentlemen.",
+    "fa": "آقایون.",
+    "source_indices": [
+      7286
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This is Kate Laswell.",
+    "fa": "ایشون کیت لازول هستن.",
+    "source_indices": [
+      7287
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Callsign: Watcher.",
+    "fa": "کدنام: واچر.",
+    "source_indices": [
+      7288
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Are you CIA?",
+    "fa": "سیا هستین؟",
+    "source_indices": [
+      7289
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What’s the target?",
+    "fa": "هدف چیه؟",
+    "source_indices": [
+      7290
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The North Korean Supreme Leader.",
+    "fa": "رهبر عالی کرهٔ شمالی.",
+    "source_indices": [
+      7291
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "She’s holed up in the Presidential Palace.",
+    "fa": "اون تو کاخ ریاست‌جمهوری سنگر گرفته.",
+    "source_indices": [
+      7292
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’re taking it...",
+    "fa": "ما قراره بگیریمش...",
+    "source_indices": [
+      7293
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "tonight.",
+    "fa": "امشب.",
+    "source_indices": [
+      7294
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So, what do you want from my Marines?",
+    "fa": "خب، از تفنگدارای من چی می‌خواین؟",
+    "source_indices": [
+      7295
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Containment and isolation.",
+    "fa": "مهار و منزوی کردن.",
+    "source_indices": [
+      7296
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Nobody gets in or out except the assault team.",
+    "fa": "هیچ‌کس جز تیم تهاجمی نباید وارد یا خارج بشه.",
+    "source_indices": [
+      7297
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’ll be drawing a lot of fire.",
+    "fa": "آتش زیادی رو خودمون می‌کشیم.",
+    "source_indices": [
+      7298
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yeah, but, we're good at that.",
+    "fa": "آره، ولی ما تو این کار خوبیم.",
+    "source_indices": [
+      7299
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Last time we went behind enemy lines we got shot down.",
+    "fa": "دفعهٔ قبل که رفتیم پشت خطوط دشمن، سرنگون شدیم.",
+    "source_indices": [
+      7300
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How we getting in?",
+    "fa": "چطوری نفوذ می‌کنیم؟",
+    "source_indices": [
+      7301
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We hit them just like they hit us.",
+    "fa": "همونطور که اونا به ما زدن، ما هم بهشون می‌زنیم.",
+    "source_indices": [
+      7302
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "None of you are ordered to be here.",
+    "fa": "هیچ‌کدومتون مجبور نیستین اینجا باشین.",
+    "source_indices": [
+      7303
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They're all yours, Captain.",
+    "fa": "همه‌شون مال شما، کاپیتان.",
+    "source_indices": [
+      7304
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Tiger-1, at set point one.",
+    "fa": "تایگر-1، در نقطهٔ استقرار یک.",
+    "source_indices": [
+      7308
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Target in sight.",
+    "fa": "هدف در دید.",
+    "source_indices": [
+      7309
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We only get one shot.",
+    "fa": "فقط یه شلیک داریم.",
+    "source_indices": [
+      7310
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Outlaw 2-5",
+    "fa": "اوت‌لا 2-5",
+    "source_indices": [
+      7314,
+      7315
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Target building is the Presidential Palace.",
+    "fa": "ساختمان هدف، کاخ ریاست‌جمهوریه.",
+    "source_indices": [
+      7319
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Ri Ju-Young is holed up inside.",
+    "fa": "ری جو-یونگ داخلش سنگر گرفته.",
+    "source_indices": [
+      7320
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’re cutting the head off the snake.",
+    "fa": "داریم سر مار رو می‌زنیم.",
+    "source_indices": [
+      7321
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Lieutenant Ko Jin-Hyuk will use the weapon to take North Korea’s anti-air systems offline.",
+    "fa": "ستوان کو جین‌هیوک با این سلاح سامانه‌های ضدهوایی کرهٔ شمالی رو از کار می‌ندازه.",
+    "source_indices": [
+      7322
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We enter phase two...",
+    "fa": "وارد فاز دو می‌شیم...",
+    "source_indices": [
+      7323
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Marine chalks will insert via dual-rotor helos.",
+    "fa": "دسته‌های تفنگدار با هلیکوپترای دورتوربینه وارد می‌شن.",
+    "source_indices": [
+      7324
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "One will move to HLZ Alpha at the front gates, and set containment.",
+    "fa": "دستهٔ یک به منطقهٔ فرود آلفا، جلوی دروازه می‌ره و محاصره رو برقرار می‌کنه.",
+    "source_indices": [
+      7325
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Two will take HLZ Bravo, on the southern rooftop, and handle isolation.",
+    "fa": "دستهٔ دو منطقهٔ فرود براوو، روی پشت‌بام جنوبی رو می‌گیره و مسئول انزواست.",
+    "source_indices": [
+      7326
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "When the HLZs are secure, we make entry from the roof.",
+    "fa": "وقتی مناطق فرود امن شد، از پشت‌بام وارد می‌شیم.",
+    "source_indices": [
+      7328
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Lieutenant Ko.",
+    "fa": "ستوان کو.",
+    "source_indices": [
+      7329
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I will guide you to it.",
+    "fa": "من راهنمایی‌تون می‌کنم.",
+    "source_indices": [
+      7330
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Getting there will not be easy. ",
+    "fa": "رسیدن به اونجا آسون نیست. ",
+    "source_indices": [
+      7331
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "That’s where your man is?",
+    "fa": "آدم شما اونجاست؟",
+    "source_indices": [
+      7332
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Ri’s holding him prisoner.",
+    "fa": "ری اونو زندانی کرده.",
+    "source_indices": [
+      7334
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I have an asset who will help you locate and extract him.",
+    "fa": "یه عامل دارم که کمک می‌کنه پیداش کنید و بیرونش بیارید.",
+    "source_indices": [
+      7335
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How we gonna know who he is?",
+    "fa": "از کجا بفهمیم کدومه؟",
+    "source_indices": [
+      7336
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This our chance to end the war tonight.",
+    "fa": "این فرصت ماست که امشب جنگ رو تموم کنیم.",
+    "source_indices": [
+      7337
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Let’s get this done.",
+    "fa": "بریم تمومش کنیم.",
+    "source_indices": [
+      7338
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Guardian Actual, Angel-5. All Eagles oscar.",
+    "fa": "گاردین اکچوال، اینجا اینجل-5. همهٔ ایگل‌ها سالمن.",
+    "source_indices": [
+      7343
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Something came up.",
+    "fa": "یه اتفاقی پیش اومد.",
+    "source_indices": [
+      7345
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Alright, Marines, listen up.",
+    "fa": "خیلی خب تفنگدارا، گوش کنید.",
+    "source_indices": [
+      7348
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "North Korean forces have fallen back to the nuclear plant just outside the city.",
+    "fa": "نیروهای کرهٔ شمالی به نیروگاه هسته‌ای بیرون شهر عقب‌نشینی کردن.",
+    "source_indices": [
+      7349
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And Command believes they’re going to initiate a meltdown.",
+    "fa": "و فرماندهی فکر می‌کنه می‌خوان ذوب هسته‌ای راه بندازن.",
+    "source_indices": [
+      7350
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hard part'll be getting there.",
+    "fa": "قسمت سخت، رسیدن به اونجاست.",
+    "source_indices": [
+      7351
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Air support will soften the target for us.",
+    "fa": "پشتیبانی هوایی هدف رو برامون نرم می‌کنه.",
+    "source_indices": [
+      7352
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What’s our contingency if the relay station goes down?",
+    "fa": "اگه ایستگاه رله از کار بیفته، برنامهٔ جایگزین ما چیه؟",
+    "source_indices": [
+      7353
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We assault the power plant directly.",
+    "fa": "مستقیم به نیروگاه حمله می‌کنیم.",
+    "source_indices": [
+      7354
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Colonel Shaw’s got a plant engineer on standby",
+    "fa": "سرهنگ شاو یه مهندس نیروگاه آماده نگه داشته",
+    "source_indices": [
+      7355
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You all know the risks here.",
+    "fa": "همه‌تون خطرات اینجا رو می‌دونین.",
+    "source_indices": [
+      7356
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So if we go, we go together.",
+    "fa": "پس اگه بریم، با هم می‌ریم.",
+    "source_indices": [
+      7357
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You are working with Valeria Garza and the god damn cartel?",
+    "fa": "تو داری با والریا گارزا و اون کارتل لعنتی کار می‌کنی؟",
+    "source_indices": [
+      7358
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It's the only way to kill him, Kate.",
+    "fa": "تنها راه کشتنشه، کیت.",
+    "source_indices": [
+      7359
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "She is using you.",
+    "fa": "اون داره ازت استفاده می‌کنه.",
+    "source_indices": [
+      7360
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You are moving a weapon of war.",
+    "fa": "تو داری یه سلاح جنگی جابه‌جا می‌کنی.",
+    "source_indices": [
+      7361
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yeah, I know.",
+    "fa": "آره، می‌دونم.",
+    "source_indices": [
+      7362
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Well, we draw the line wherever we need it, don’t we?",
+    "fa": "خب، خط قرمز رو هر جا که لازم باشه می‌کشیم، مگه نه؟",
+    "source_indices": [
+      7363
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You are on the wrong side of this. Civilians are dead.",
+    "fa": "تو طرف اشتباهی هستی. غیرنظامیا کشته شدن.",
+    "source_indices": [
+      7364
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What do you think happens when that weapon gets to the Archer?",
+    "fa": "فکر می‌کنی وقتی اون سلاح به دست آرچر برسه چی می‌شه؟",
+    "source_indices": [
+      7365
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I kill him.",
+    "fa": "می‌کشمش.",
+    "source_indices": [
+      7366
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Don’t force my hand, John.",
+    "fa": "مجبورم نکن دست به کار بشم، جان.",
+    "source_indices": [
+      7367
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You do whatever you need to.",
+    "fa": "هر کاری لازمه بکن.",
+    "source_indices": [
+      7369
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "'Cause you know I will.",
+    "fa": "چون می‌دونی که می‌کشمش.",
+    "source_indices": [
+      7370
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hmm?",
+    "fa": "هوم؟",
+    "source_indices": [
+      7373
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Sweetie...] a deal is a deal.",
+    "fa": "[عزیزم...] قرار، قراره.",
+    "source_indices": [
+      7379
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Eduardo",
+    "fa": "ادواردو",
+    "source_indices": [
+      7380,
+      31329
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "Well, they're still on us.",
+    "fa": "خب، هنوز دنبالمونن.",
+    "source_indices": [
+      7391
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So, whatever you're plannin'...",
+    "fa": "پس هر نقشه‌ای داری...",
+    "source_indices": [
+      7392
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Look at him…]",
+    "fa": "[نگاهش کن…]",
+    "source_indices": [
+      7398
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[A scorpion like me.]",
+    "fa": "[یه عقرب مثل من.]",
+    "source_indices": [
+      7399
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’re going down!",
+    "fa": "داریم سقوط می‌کنیم!",
+    "source_indices": [
+      7401
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Now.",
+    "fa": "حالا.",
+    "source_indices": [
+      7403
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Blackjack 2-1 is down.",
+    "fa": "بلک‌جک 2-1 سقوط کرد.",
+    "source_indices": [
+      7405
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I say again, 2-1 is down.",
+    "fa": "تکرار می‌کنم، 2-1 سقوط کرد.",
+    "source_indices": [
+      7406
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Move to the high-rise, prep for takedown.",
+    "fa": "برین سمت برج، برای دستگیری آماده بشین.",
+    "source_indices": [
+      7410
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It appears North Korea has launched",
+    "fa": "به نظر می‌رسه کرهٔ شمالی",
+    "source_indices": [
+      7411
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "a full scale invasion of the South Korean mainland.",
+    "fa": "یه تهاجم تمام‌عیار به خاک اصلی کرهٔ جنوبی رو شروع کرده.",
+    "source_indices": [
+      7412
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "South Korea is currently being invaded by North Korea.",
+    "fa": "کرهٔ جنوبی در حال حاضر توسط کرهٔ شمالی مورد تهاجم قرار گرفته.",
+    "source_indices": [
+      7413
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "and significant infrastructure damage.",
+    "fa": "و خسارت سنگین به زیرساخت‌ها.",
+    "source_indices": [
+      7414
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Video posted to social media shows the initial moments of the attack, ",
+    "fa": "ویدیوهای منتشرشده در شبکه‌های اجتماعی لحظات اولیهٔ حمله رو نشون می‌ده، ",
+    "source_indices": [
+      7415
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "where it appears a large blast knocked out power for the city.",
+    "fa": "که به نظر می‌رسه یه انفجار بزرگ برق شهر رو قطع کرده.",
+    "source_indices": [
+      7416
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Many claimed they were hit with some sort of sound wave",
+    "fa": "خیلی‌ها می‌گن با نوعی موج صوتی مورد اصابت قرار گرفتن",
+    "source_indices": [
+      7417
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "that caused many to lose hearing or bleed from the nose.",
+    "fa": "که باعث شده شنوایی‌شون رو از دست بدن یا از بینی خونریزی کنن.",
+    "source_indices": [
+      7418
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Most of the country is now in a blackout.",
+    "fa": "بیشتر کشور الان در خاموشی کامل فرو رفته.",
+    "source_indices": [
+      7419
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "In what seems to be a coordinated effort,",
+    "fa": "در چیزی که شبیه یه اقدام هماهنگه،",
+    "source_indices": [
+      7420
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Russia has begun to take ground in the Middle East.",
+    "fa": "روسیه شروع به تصرف زمین در خاورمیانه کرده.",
+    "source_indices": [
+      7421
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This is much larger than just the Korean peninsula.",
+    "fa": "این ماجرا خیلی بزرگ‌تر از شبه‌جزیرهٔ کره‌ست.",
+    "source_indices": [
+      7422
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We are receiving reports that Russia has begun",
+    "fa": "گزارش‌هایی می‌رسه که روسیه شروع کرده",
+    "source_indices": [
+      7423
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "to invade multiple countries in the Middle East.",
+    "fa": "به حمله به چند کشور در خاورمیانه.",
+    "source_indices": [
+      7424
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Though some sources believe Russia may be involved as they have been ",
+    "fa": "هرچند بعضی منابع باور دارن روسیه ممکنه دست داشته باشه، چون ",
+    "source_indices": [
+      7425
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "a longtime ally and supporter of the current North Korean leadership.",
+    "fa": "سال‌هاست متحد و حامی رهبری فعلی کرهٔ شمالیه.",
+    "source_indices": [
+      7426
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This all comes as a new Supreme Leader has just been appointed,",
+    "fa": "همهٔ اینا در حالی اتفاق می‌افته که یه رهبر عالی جدید تازه منصوب شده،",
+    "source_indices": [
+      7427
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "the son of the recently deceased leader, Ri Seung-Ho.",
+    "fa": "پسر رهبر اخیراً درگذشته، ری سونگ-هو.",
+    "source_indices": [
+      7428
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Experts say this blackout and attack could potentially",
+    "fa": "کارشناسان می‌گن این خاموشی و حمله احتمالاً می‌تونه",
+    "source_indices": [
+      7429
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "be tied to the recent events in Mumbai.",
+    "fa": "به اتفاقات اخیر مومبای مربوط باشه.",
+    "source_indices": [
+      7430
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Chaos in France this week could point to a growing unrest in the rest of the world.",
+    "fa": "آشوب این هفته در فرانسه می‌تونه نشونهٔ ناآرامی روزافزون در بقیهٔ دنیا باشه.",
+    "source_indices": [
+      7431
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "New reports out of British Intelligence give more insight",
+    "fa": "گزارش‌های تازهٔ اطلاعات بریتانیا اطلاعات بیشتری می‌ده",
+    "source_indices": [
+      7432
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "into the murder of a U.S. General inside the Pentagon.",
+    "fa": "دربارهٔ قتل یه ژنرال آمریکایی داخل پنتاگون.",
+    "source_indices": [
+      7433
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "He is considered armed and dangerous.",
+    "fa": "اون مسلح و خطرناک تلقی می‌شه.",
+    "source_indices": [
+      7434
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "for an S.A.S Captain named John Price.",
+    "fa": "یه کاپیتان اس‌ای‌اس به نام جان پرایس.",
+    "source_indices": [
+      7435
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You’re still a wanted man.",
+    "fa": "هنوز تحت تعقیبی.",
+    "source_indices": [
+      7436
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We need to brief. Intel’s at the usual drop.",
+    "fa": "باید جلسهٔ توجیهی بذاریم. اطلاعات تو محل تحویل همیشگیه.",
+    "source_indices": [
+      7437
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’ll contact you.",
+    "fa": "خودم باهات تماس می‌گیرم.",
+    "source_indices": [
+      7438
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We secure?",
+    "fa": "امنیم؟",
+    "source_indices": [
+      7439
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yeah, we’re good here, Kate.",
+    "fa": "آره، اینجا مشکلی نیست، کیت.",
+    "source_indices": [
+      7440
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Orders came down.",
+    "fa": "دستورات رسید.",
+    "source_indices": [
+      7441
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "U.S. forces are withdrawing from the Black Sea regions:",
+    "fa": "نیروهای آمریکا دارن از مناطق دریای سیاه عقب‌نشینی می‌کنن:",
+    "source_indices": [
+      7442
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It’s a flawed system...",
+    "fa": "سیستم معیوبیه...",
+    "source_indices": [
+      7443
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "But we’ve got bigger problems.",
+    "fa": "ولی مشکلات بزرگ‌تری داریم.",
+    "source_indices": [
+      7444
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Russia’s taking ground.",
+    "fa": "روسیه داره زمین می‌گیره.",
+    "source_indices": [
+      7445
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We withdraw, they move in.",
+    "fa": "ما عقب بکشیم، اونا جاشو پر می‌کنن.",
+    "source_indices": [
+      7446
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yeah, they saw an opportunity, and they exploited it.",
+    "fa": "آره، فرصت دیدن و ازش سوءاستفاده کردن.",
+    "source_indices": [
+      7447
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Ultranationalists.",
+    "fa": "ملی‌گراهای افراطی.",
+    "source_indices": [
+      7448
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Normally these cells operate independent of each other...",
+    "fa": "معمولاً این سلول‌ها مستقل از هم عمل می‌کنن...",
+    "source_indices": [
+      7449
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "But here, their tactics are coordinated.",
+    "fa": "ولی اینجا تاکتیک‌هاشون هماهنگه.",
+    "source_indices": [
+      7450
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They are more...",
+    "fa": "اونا بیشتر...",
+    "source_indices": [
+      7451
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "decentralized...",
+    "fa": "غیرمتمرکزن...",
+    "source_indices": [
+      7452
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "There’s someone at the head of the table.",
+    "fa": "یکی بالای میز نشسته.",
+    "source_indices": [
+      7453
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The Agency thinks it might be Makarov.",
+    "fa": "آژانس فکر می‌کنه ممکنه ماکاروف باشه.",
+    "source_indices": [
+      7454
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I told you...",
+    "fa": "بهت گفتم...",
+    "source_indices": [
+      7455
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Makarov is an arrow, we are looking for an archer.",
+    "fa": "ماکاروف یه تیره، ما دنبال یه کمانداریم.",
+    "source_indices": [
+      7456
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You were right.",
+    "fa": "حق با تو بود.",
+    "source_indices": [
+      7457
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This Archer's high up in the Russian Government.",
+    "fa": "این آرچر تو دولت روسیه جایگاه بالایی داره.",
+    "source_indices": [
+      7458
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Who’s the target?",
+    "fa": "هدف کیه؟",
+    "source_indices": [
+      7459
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "She’ll be at the Nox club tonight. 21:00 hours.",
+    "fa": "امشب تو کلوپ نوکس خواهد بود. ساعت 21:00.",
+    "source_indices": [
+      7460
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Cut her out of the equation...",
+    "fa": "از معادله حذفش کن...",
+    "source_indices": [
+      7461
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And we see who reacts.",
+    "fa": "و ببینیم کی واکنش نشون می‌ده.",
+    "source_indices": [
+      7462
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’ll find her.",
+    "fa": "پیداش می‌کنم.",
+    "source_indices": [
+      7463
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "At 0400, Camp Humphreys went dark.",
+    "fa": "ساعت 0400، کمپ هامفریز تاریک شد.",
+    "source_indices": [
+      7464
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Within two mikes, we lost contact with every base on the peninsula.",
+    "fa": "ظرف دو دقیقه ارتباطمون با تمام پایگاه‌های شبه‌جزیره قطع شد.",
+    "source_indices": [
+      7465
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The enemy proceeded to attack with artillery and hypersonic missiles.",
+    "fa": "دشمن بعدش با توپخانه و موشک‌های مافوق صوت حمله کرد.",
+    "source_indices": [
+      7466
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What took out the power, Colonel?",
+    "fa": "چی برق رو قطع کرد، سرهنگ؟",
+    "source_indices": [
+      7467
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What we do know is that the area of effect is directional.",
+    "fa": "چیزی که می‌دونیم اینه که محدودهٔ اثرش جهت‌داره.",
+    "source_indices": [
+      7468
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They can aim it.",
+    "fa": "یعنی می‌تونن نشونه‌گیریش کنن.",
+    "source_indices": [
+      7470
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It was only one of them.",
+    "fa": "فقط یکیشون بود.",
+    "source_indices": [
+      7471
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Well, now there's one less.",
+    "fa": "خب، حالا یکی کمتر شده.",
+    "source_indices": [
+      7472
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So are we.",
+    "fa": "ما هم همین‌طور.",
+    "source_indices": [
+      7473
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Our company will lead the counterattack to retake it.",
+    "fa": "گروهان ما پیشقدم ضدحمله برای پس گرفتنش می‌شه.",
+    "source_indices": [
+      7474
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Everyone be prepared to move within the next 48 hours.",
+    "fa": "همه باید ظرف 48 ساعت آینده آمادهٔ حرکت باشن.",
+    "source_indices": [
+      7475
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Platoon Commanders, more information to follow.",
+    "fa": "فرماندهان دسته، اطلاعات بیشتر بعداً می‌رسه.",
+    "source_indices": [
+      7476
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "SF is crossing the border, tonight.",
+    "fa": "نیروی ویژه امشب از مرز رد می‌شه.",
+    "source_indices": [
+      7477
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Roll with Special Forces?",
+    "fa": "همراه نیروهای ویژه؟",
+    "source_indices": [
+      7478
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’ll get you and your boys situated.",
+    "fa": "شما و بچه‌هاتون رو جا می‌دیم.",
+    "source_indices": [
+      7480
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Something on your mind, Park?",
+    "fa": "چیزی تو فکرته، پارک؟",
+    "source_indices": [
+      7481
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "No, Lieutenant.",
+    "fa": "نه، ستوان.",
+    "source_indices": [
+      7482
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Speak freely.",
+    "fa": "آزادانه حرف بزن.",
+    "source_indices": [
+      7484
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We are not ready.",
+    "fa": "ما آماده نیستیم.",
+    "source_indices": [
+      7486
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We could all die tonight and we don’t even get a choice.",
+    "fa": "ممکنه همهٔ ما امشب بمیریم و حتی حق انتخاب هم نداریم.",
+    "source_indices": [
+      7487
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "War doesn’t wait.",
+    "fa": "جنگ منتظر کسی نمی‌مونه.",
+    "source_indices": [
+      7488
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "No one chose today,",
+    "fa": "هیچ‌کس این روز رو انتخاب نکرد،",
+    "source_indices": [
+      7489
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "but it’s here now.",
+    "fa": "ولی الان اینجاست.",
+    "source_indices": [
+      7490
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You want a choice?",
+    "fa": "انتخاب می‌خوای؟",
+    "source_indices": [
+      7491
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "When you’re forced through hell,",
+    "fa": "وقتی مجبور می‌شی از جهنم رد بشی،",
+    "source_indices": [
+      7492
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "choose how you respond.",
+    "fa": "انتخاب کن چطور واکنش نشون بدی.",
+    "source_indices": [
+      7493
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Choose how you show up for your team.",
+    "fa": "انتخاب کن چطور پای تیمت وایمیستی.",
+    "source_indices": [
+      7494
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You need to be with us.",
+    "fa": "باید با ما باشی.",
+    "source_indices": [
+      7495
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Graves is dead.",
+    "fa": "گریوز مرده.",
+    "source_indices": [
+      7502
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I know.",
+    "fa": "می‌دونم.",
+    "source_indices": [
+      7503
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hey-",
+    "fa": "هی-",
+    "source_indices": [
+      7510
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We haven’t lost.",
+    "fa": "ما نباختیم.",
+    "source_indices": [
+      7511
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This fight...",
+    "fa": "این نبرد...",
+    "source_indices": [
+      7512
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "is not over.",
+    "fa": "هنوز تموم نشده.",
+    "source_indices": [
+      7513
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "(coughs)",
+    "fa": "(سرفه می‌کنه)",
+    "source_indices": [
+      7515,
+      7536
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hey, hey... easy, buddy...",
+    "fa": "هی، هی... آروم، رفیق...",
+    "source_indices": [
+      7516
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We got you.",
+    "fa": "ما هواتو داریم.",
+    "source_indices": [
+      7517
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Sierra-1, Mayhem-1 Actual. Good copy.",
+    "fa": "سیرا-1، میهم-1 اکچوال. واضح شنیدم.",
+    "source_indices": [
+      7522
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Rally at TRP Charlie. Out.",
+    "fa": "در نقطهٔ تجمع TRP چارلی جمع بشید. تمام.",
+    "source_indices": [
+      7523
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I didn’t know we’d get fucking invaded today!",
+    "fa": "نمی‌دونستم امروز قراره لامصب بهمون حمله کنن!",
+    "source_indices": [
+      7531
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Mayhem-1, Sierra-1, we’re approaching from the north alley.",
+    "fa": "میهم-1، سیرا-1، از کوچهٔ شمالی نزدیک می‌شیم.",
+    "source_indices": [
+      7533
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Watch your fire.",
+    "fa": "مواظب آتش خودی باشین.",
+    "source_indices": [
+      7534
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Chairman Ri Seung-ho.",
+    "fa": "رئیس ری سونگ-هو.",
+    "source_indices": [
+      7537
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I regret our introduction is not under better circumstances.",
+    "fa": "متأسفم که آشناییمون تو شرایط بهتری نیست.",
+    "source_indices": [
+      7538
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Please...",
+    "fa": "خواهش می‌کنم...",
+    "source_indices": [
+      7539
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What may I do for you?",
+    "fa": "چه کاری از دستم برمیاد؟",
+    "source_indices": [
+      7540
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Before your father passed, we were coordinating efforts to reunite the peninsula.",
+    "fa": "پیش از درگذشت پدرتون، برای اتحاد دوبارهٔ شبه‌جزیره هماهنگی داشتیم.",
+    "source_indices": [
+      7541
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Reunite?",
+    "fa": "اتحاد دوباره؟",
+    "source_indices": [
+      7542
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "By what means?",
+    "fa": "با چه وسیله‌ای؟",
+    "source_indices": [
+      7543
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "A pre-emptive strike.",
+    "fa": "یه ضربهٔ پیشگیرانه.",
+    "source_indices": [
+      7544
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Our people are in mourning.",
+    "fa": "مردم ما در سوگ‌ان.",
+    "source_indices": [
+      7545
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So do you.",
+    "fa": "شما هم همین‌طور.",
+    "source_indices": [
+      7546
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Soon, Russia will control the Middle East, and the Americans will...",
+    "fa": "به‌زودی روسیه خاورمیانه رو کنترل می‌کنه و آمریکایی‌ها...",
+    "source_indices": [
+      7547
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We have the means to destabilize the South.",
+    "fa": "ما ابزار بی‌ثبات کردن جنوب رو داریم.",
+    "source_indices": [
+      7548
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Cripple their ability to defend themselves.",
+    "fa": "توانایی دفاع از خودشون رو فلج می‌کنیم.",
+    "source_indices": [
+      7549
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We will.",
+    "fa": "انجامش می‌دیم.",
+    "source_indices": [
+      7551
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[This is what father wanted.]",
+    "fa": "[پدر همین رو می‌خواست.]",
+    "source_indices": [
+      7552
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Father is dead.]",
+    "fa": "[پدر مرده.]",
+    "source_indices": [
+      7553
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’m sure you understand.",
+    "fa": "مطمئنم متوجه هستید.",
+    "source_indices": [
+      7554
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Now, if you’ll excuse me.",
+    "fa": "حالا، اگه اجازه بدید.",
+    "source_indices": [
+      7555
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Russia will support Korea.",
+    "fa": "روسیه از کره حمایت می‌کنه.",
+    "source_indices": [
+      7556
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "No matter your decision.",
+    "fa": "هر تصمیمی بگیرید.",
+    "source_indices": [
+      7557
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Comrade Ko Jin-Hyuk. Join me.]",
+    "fa": "[رفیق کو جین‌هیوک. همراهم بیا.]",
+    "source_indices": [
+      7558
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How is your English?",
+    "fa": "انگلیسی‌ت چطوره؟",
+    "source_indices": [
+      7559
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Good enough not to envy your position.",
+    "fa": "در حدی که به جای شما حسودی نکنم.",
+    "source_indices": [
+      7560
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The Russian wants war...",
+    "fa": "اون روسه جنگ می‌خواد...",
+    "source_indices": [
+      7561
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "He has my sister’s ear.",
+    "fa": "گوش خواهرم دست اونه.",
+    "source_indices": [
+      7562
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You were with her at the village.",
+    "fa": "تو تو روستا همراهش بودی.",
+    "source_indices": [
+      7563
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Were her actions justified?",
+    "fa": "کارش موجه بود؟",
+    "source_indices": [
+      7564
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Comrade Ri Ju-Young made the best possible decision.]",
+    "fa": "[رفیق ری جو-یونگ بهترین تصمیم ممکن رو گرفت.]",
+    "source_indices": [
+      7565
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[We follow her without question.]",
+    "fa": "[ما بی‌چون‌وچرا ازش پیروی می‌کنیم.]",
+    "source_indices": [
+      7566
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You're a good liar.",
+    "fa": "دروغگوی خوبی هستی.",
+    "source_indices": [
+      7567
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I just want what is right for my people.",
+    "fa": "من فقط چیزی رو می‌خوام که برای مردمم درسته.",
+    "source_indices": [
+      7568
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Hope.",
+    "fa": "امید.",
+    "source_indices": [
+      7569
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "That is a dangerous word.",
+    "fa": "این کلمهٔ خطرناکیه.",
+    "source_indices": [
+      7570
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Dangerous people want what we’re moving.",
+    "fa": "آدمای خطرناکی چیزی رو که حمل می‌کنیم می‌خوان.",
+    "source_indices": [
+      7581
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "DIA Weapon stolen. Shadows chasing.",
+    "fa": "سلاح DIA دزدیده شد. شدوها تعقیب می‌کنن.",
+    "source_indices": [
+      7591
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Here...",
+    "fa": "بیا...",
+    "source_indices": [
+      25685
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oorah!",
+    "fa": "اورا!",
+    "source_indices": [
+      26892
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Copy].",
+    "fa": "[متوجه شدم].",
+    "source_indices": [
+      27047
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Fine.",
+    "fa": "خیلی خب.",
+    "source_indices": [
+      27420
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[From you.]",
+    "fa": "[از طرف تو.]",
+    "source_indices": [
+      27552
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Phase one:",
+    "fa": "مرحله یک:",
+    "source_indices": [
+      27625
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Yeah....",
+    "fa": "آره....",
+    "source_indices": [
+      27721
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[You good?]",
+    "fa": "[خوبی؟]",
+    "source_indices": [
+      28381
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "He’s right.",
+    "fa": "حق با اونه.",
+    "source_indices": [
+      28383
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[No, sir.]",
+    "fa": "[نه، قربان.]",
+    "source_indices": [
+      28396
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Good girl.]",
+    "fa": "[دختر خوب.]",
+    "source_indices": [
+      28448
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Oh, shit.]",
+    "fa": "[آخ، گوه.]",
+    "source_indices": [
+      28584
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Long time.",
+    "fa": "مدت‌ها گذشته.",
+    "source_indices": [
+      28599
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Why not?",
+    "fa": "چرا که نه؟",
+    "source_indices": [
+      28628
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It repeats.",
+    "fa": "تکرار می‌شود.",
+    "source_indices": [
+      29045
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Told you.",
+    "fa": "گفتم که.",
+    "source_indices": [
+      29063
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Then you.",
+    "fa": "پس تو.",
+    "source_indices": [
+      29069
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Luca",
+    "fa": "لوکا",
+    "source_indices": [
+      29074,
+      31741
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "We found one.",
+    "fa": "یکی پیدا کردیم.",
+    "source_indices": [
+      29076
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Who is this?]",
+    "fa": "[این کیست؟]",
+    "source_indices": [
+      29450
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We just did.",
+    "fa": "همین الان کردیم.",
+    "source_indices": [
+      29620
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Laswell.",
+    "fa": "لازول.",
+    "source_indices": [
+      29768
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Happy to help.",
+    "fa": "خوشحالم که کمک کردم.",
+    "source_indices": [
+      29776
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Do it quick.",
+    "fa": "زود انجامش بده.",
+    "source_indices": [
+      29802
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "But John...",
+    "fa": "ولی جان...",
+    "source_indices": [
+      30038
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Off the list.",
+    "fa": "از لیست خارج شد.",
+    "source_indices": [
+      30044
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I gotta go...",
+    "fa": "باید برم...",
+    "source_indices": [
+      30046
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’re shooters.",
+    "fa": "ما تیرانداز هستیم.",
+    "source_indices": [
+      30055
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[The right one.]",
+    "fa": "[همونی که درسته.]",
+    "source_indices": [
+      30174
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "If it is active, ",
+    "fa": "اگه فعال باشه، ",
+    "source_indices": [
+      30315
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We have incoming.",
+    "fa": "داره میاد سمتمون.",
+    "source_indices": [
+      30318
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What about him?",
+    "fa": "پس اون چی؟",
+    "source_indices": [
+      30346
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "There is a line.",
+    "fa": "یه خط هست.",
+    "source_indices": [
+      30351
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You’ll know.",
+    "fa": "می‌فهمی.",
+    "source_indices": [
+      30356
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What I had to.",
+    "fa": "کاری که باید می‌کردم.",
+    "source_indices": [
+      30357
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "So, no Archer?",
+    "fa": "پس آرچر نیست؟",
+    "source_indices": [
+      30378
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Lieutenant West?",
+    "fa": "ستوان وست؟",
+    "source_indices": [
+      30396
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It’s a cycle...",
+    "fa": "یه چرخه‌ست...",
+    "source_indices": [
+      30777
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Phase Two: ",
+    "fa": "مرحلهٔ دوم: ",
+    "source_indices": [
+      30811
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You’re gonna fail.",
+    "fa": "شکست می‌خوری.",
+    "source_indices": [
+      31231
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You’re a target.",
+    "fa": "تو یه هدفی.",
+    "source_indices": [
+      31254
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Your asset...",
+    "fa": "عنصر شما...",
+    "source_indices": [
+      31350
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Korea is my home.]",
+    "fa": "[کره خونه منه.]",
+    "source_indices": [
+      31355
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oh, what the fuck?!",
+    "fa": "وای، این دیگه چه کوفتیه؟!",
+    "source_indices": [
+      31719
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "After we gain entry,",
+    "fa": "بعد از اینکه وارد شدیم،",
+    "source_indices": [
+      31731
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Different tactics.",
+    "fa": "تاکتیک‌های متفاوت.",
+    "source_indices": [
+      31742
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I’m protecting them.]",
+    "fa": "[دارم ازشون محافظت می‌کنم.]",
+    "source_indices": [
+      32056
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "He will be missed.",
+    "fa": "جاش خالی می‌مونه.",
+    "source_indices": [
+      32116
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "A tunnel? [No shit.]",
+    "fa": "یه تونل؟ [نه بابا، جدی؟]",
+    "source_indices": [
+      32146
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Rally downstairs.",
+    "fa": "طبقهٔ پایین جمع بشید.",
+    "source_indices": [
+      32500
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I’m calling Shepherd.",
+    "fa": "دارم به شپرد زنگ می‌زنم.",
+    "source_indices": [
+      32526
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I was never here.",
+    "fa": "من هیچ‌وقت اینجا نبودم.",
+    "source_indices": [
+      32777
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "It's gonna be you guys.",
+    "fa": "قراره شما بچه‌ها باشید.",
+    "source_indices": [
+      32796
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "All Bravo, this is 0-6.",
+    "fa": "همهٔ براوو، اینجا 0-6.",
+    "source_indices": [
+      32816
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Verdansk, Georgia...",
+    "fa": "وردنسک، گرجستان...",
+    "source_indices": [
+      32970
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Sergeant MacTavish.",
+    "fa": "گروهبان مک‌تاویش.",
+    "source_indices": [
+      33146
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Did you see anything?",
+    "fa": "چیزی دیدی؟",
+    "source_indices": [
+      33177
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You should take that.",
+    "fa": "باید اونو برداری.",
+    "source_indices": [
+      33213
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Good to go, Marines?",
+    "fa": "آماده‌اید، تفنگداران؟",
+    "source_indices": [
+      33224
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Oh, yeah, the oligarch.",
+    "fa": "آها، آره، الیگارش.",
+    "source_indices": [
+      33237
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How fast can you get here?",
+    "fa": "چقدر زود می‌تونی برسی اینجا؟",
+    "source_indices": [
+      33453
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Time to get the fuck out.",
+    "fa": "وقتشه گورمونو از اینجا گم کنیم.",
+    "source_indices": [
+      33466
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Unknown at this time.",
+    "fa": "فعلاً نامعلومه.",
+    "source_indices": [
+      33643
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Glad to be of service.",
+    "fa": "خوشحالم که خدمتی کردم.",
+    "source_indices": [
+      33645
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[The girl told the truth...]",
+    "fa": "[دختره راست گفته بود...]",
+    "source_indices": [
+      33657
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I knew your father well.",
+    "fa": "من پدرتو خوب می‌شناختم.",
+    "source_indices": [
+      33690
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’re going to take it out.",
+    "fa": "نابودش می‌کنیم.",
+    "source_indices": [
+      33710
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "are surface-to-air missiles.",
+    "fa": "موشک‌های زمین به هوا هستن.",
+    "source_indices": [
+      33718
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "No war here, just practice.",
+    "fa": "اینجا جنگی نیست، فقط تمرینه.",
+    "source_indices": [
+      33720
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They need all they can get.",
+    "fa": "هرچی بتونن گیر بیارن لازم دارن.",
+    "source_indices": [
+      33722
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Wouldn't do you any good.",
+    "fa": "به نفعت نیست.",
+    "source_indices": [
+      33736
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And it’s one we don’t cross.",
+    "fa": "و یه خطیه که ازش رد نمی‌شیم.",
+    "source_indices": [
+      33750
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[There was only one to make.]",
+    "fa": "[فقط یکی بود که باید ساخته می‌شد.]",
+    "source_indices": [
+      33759
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We're gonna call his bluff.",
+    "fa": "بلوفشو رو می‌کنیم.",
+    "source_indices": [
+      33762
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[What are you going to do?]",
+    "fa": "[می‌خوای چیکار کنی؟]",
+    "source_indices": [
+      33785
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What the fuck did you do?",
+    "fa": "چه گوهی خوردی؟",
+    "source_indices": [
+      34058
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[What should we do with them?]",
+    "fa": "[باهاشون چیکار کنیم؟]",
+    "source_indices": [
+      34063
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Boss, he’s here.]",
+    "fa": "[رئیس، اینجاست.]",
+    "source_indices": [
+      34072
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "But you chose to go it alone.",
+    "fa": "ولی تو تصمیم گرفتی تنهایی بروی.",
+    "source_indices": [
+      34087
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We have to smoke him out.",
+    "fa": "باید با دود از لانه‌اش بیرونش بکشیم.",
+    "source_indices": [
+      34099
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Here’s how we break ‘em.",
+    "fa": "این‌طوری می‌شکنیمشان.",
+    "source_indices": [
+      34114
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I like the sound of that.",
+    "fa": "این حرف به دلم نشست.",
+    "source_indices": [
+      34130
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Hey, think about it. For me.]",
+    "fa": "[هی، فکرش را بکن. به خاطر من.]",
+    "source_indices": [
+      34149
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And what we’re doing here,",
+    "fa": "و کاری که اینجا می‌کنیم،",
+    "source_indices": [
+      34209
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Because lying makes you what?]",
+    "fa": "[چون دروغ گفتن تو را چه می‌کند؟]",
+    "source_indices": [
+      34217
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Good to have you guys with us.",
+    "fa": "خوشحالیم که شما با ما هستید.",
+    "source_indices": [
+      34245
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "then hike to the base on foot.",
+    "fa": "بعد پیاده تا پایگاه راه بیفتید.",
+    "source_indices": [
+      34251
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Counterattack green to go?",
+    "fa": "ضدحمله سبز است، برویم؟",
+    "source_indices": [
+      34363
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This will get you in undetected.",
+    "fa": "با این بدون شناسایی داخل می‌شوی.",
+    "source_indices": [
+      34391
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Everybody, move to the doors!",
+    "fa": "همه، برید سمت درها!",
+    "source_indices": [
+      34398
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You gotta give me something-",
+    "fa": "باید یک چیزی بهم بدهی-",
+    "source_indices": [
+      34417
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Thank you, Minister.",
+    "fa": "ممنونم، وزیر.",
+    "source_indices": [
+      34424
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "If you want out, decide now.",
+    "fa": "اگر می‌خواهی بیرون بیایی، همین حالا تصمیم بگیر.",
+    "source_indices": [
+      34480
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You put a target on your back.",
+    "fa": "روی پشتت هدف کشیدی.",
+    "source_indices": [
+      34523
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "If you want to kill me, go ahead.",
+    "fa": "اگر می‌خواهی من را بکشی، بفرما.",
+    "source_indices": [
+      34545
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Your safety is all that matters.]",
+    "fa": "[تنها چیز مهم امنیت توست.]",
+    "source_indices": [
+      34627
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You gotta listen to heavy metal.",
+    "fa": "باید هوی‌متال گوش بدهی.",
+    "source_indices": [
+      34645
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "But look who they’re using...",
+    "fa": "ولی ببین از چه کسی استفاده می‌کنند...",
+    "source_indices": [
+      34660
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What the fuck happened, John?",
+    "fa": "چه کوفتی شد، جان؟",
+    "source_indices": [
+      34694
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Okay, so I kill him, then what?",
+    "fa": "خب، من می‌کشمش، بعدش چی؟",
+    "source_indices": [
+      34696
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "There’s too many eyes on this.",
+    "fa": "چشم‌های زیادی روی این ماجراست.",
+    "source_indices": [
+      34721
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Comrade Ri Ju-Young.]",
+    "fa": "[رفیق ری جو-یانگ.]",
+    "source_indices": [
+      34791
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "May be why Makarov was in NYC.",
+    "fa": "شاید برای همین ماکاروف تو نیویورک بود.",
+    "source_indices": [
+      34833
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "What is best for them?",
+    "fa": "بهترین چیز برای اونا چیه؟",
+    "source_indices": [
+      34853
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And on an island to the northwest...",
+    "fa": "و روی یه جزیره در شمال‌غرب...",
+    "source_indices": [
+      34866
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Same way Venezuela was disabled.",
+    "fa": "همون‌طور که ونزوئلا از کار افتاد.",
+    "source_indices": [
+      34946
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We are taking back this city.",
+    "fa": "ما این شهر رو پس می‌گیریم.",
+    "source_indices": [
+      34968
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[The defector wasn’t working alone.]",
+    "fa": "[فراری تنها کار نمی‌کرد.]",
+    "source_indices": [
+      34994
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They attack us in every way they can.",
+    "fa": "از هر راهی که بتونن بهمون حمله می‌کنن.",
+    "source_indices": [
+      35000
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "That’s their last strong point.",
+    "fa": "اون آخرین نقطهٔ قوتشونه.",
+    "source_indices": [
+      35007
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You better know what you're doing!",
+    "fa": "بهتره بدونی داری چکار می‌کنی!",
+    "source_indices": [
+      35008
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "How far are you gonna take this?",
+    "fa": "تا کجا می‌خوای پیش ببری؟",
+    "source_indices": [
+      35010
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Nine masters of verbal warfare.",
+    "fa": "نُه استاد جنگ کلامی.",
+    "source_indices": [
+      35069
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Entering South Korean airspace.",
+    "fa": "ورود به حریم هوایی کرهٔ جنوبی.",
+    "source_indices": [
+      35086
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Follow-on orders just came down.",
+    "fa": "دستورهای بعدی همین الان رسید.",
+    "source_indices": [
+      35137
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You have that capability?",
+    "fa": "اون توانایی رو دارید؟",
+    "source_indices": [
+      35155
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[I won't leave when it needs me most.]",
+    "fa": "[وقتی بیشترین نیاز رو به من داره ترکش نمی‌کنم.]",
+    "source_indices": [
+      35157
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They have powerful allies.",
+    "fa": "متحدان قدرتمندی دارن.",
+    "source_indices": [
+      35260
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Okay. We only have 10 mikes, Sierra-1.",
+    "fa": "باشه. فقط 10 دقیقه وقت داریم، سیرا-1.",
+    "source_indices": [
+      35317
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I can’t see shit. We need nightvision.",
+    "fa": "هیچ گهی نمی‌بینم. دید در شب لازمه.",
+    "source_indices": [
+      35422
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Everybody load in! We are RTB one mike.",
+    "fa": "همه سوار شید! یک دقیقهٔ دیگه برمی‌گردیم پایگاه.",
+    "source_indices": [
+      35424
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": " [Hey...] Be patient. It’s a virtue.",
+    "fa": " [هی...] صبور باش. فضیلته.",
+    "source_indices": [
+      35473
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "just to be clear, is non-sanctioned.",
+    "fa": "که روشن باشه، غیرمجازه.",
+    "source_indices": [
+      35498
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Comrade Ko Jin-Hyuk, check under there.]",
+    "fa": "[رفیق کو جین‌هیوک، اون زیر رو چک کن.]",
+    "source_indices": [
+      35500
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Thank you, Defense Minister.",
+    "fa": "ممنونم، وزیر دفاع.",
+    "source_indices": [
+      35512
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I will order my forces away from the base.",
+    "fa": "به نیروهایم دستور می‌دهم از پایگاه دور شوند.",
+    "source_indices": [
+      35563
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You draw the line wherever you need it.",
+    "fa": "خط را هر جا که لازم باشه می‌کشی.",
+    "source_indices": [
+      35614
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’ve lost power! We’re going down!",
+    "fa": "برق را از دست دادیم! داریم سقوط می‌کنیم!",
+    "source_indices": [
+      35648
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We are moving operations into the DMZ.",
+    "fa": "عملیات را به منطقه غیرنظامی (DMZ) منتقل می‌کنیم.",
+    "source_indices": [
+      35706
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Outlaw-2, Tiger-1, we’re clear to proceed.",
+    "fa": "آوت‌لا-2، تایگر-1، اجازه ادامه داریم.",
+    "source_indices": [
+      35710
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We’ll link up with her back at base, over.",
+    "fa": "با او در پایگاه به هم می‌رسیم، تمام.",
+    "source_indices": [
+      35745
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "You and your men did a good job back there.",
+    "fa": "تو و افرادت اون پشت کار خوبی کردید.",
+    "source_indices": [
+      35826
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I need time to think about this.",
+    "fa": "برای فکر کردن به این موضوع به وقت نیاز دارم.",
+    "source_indices": [
+      35847
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[Private Ju Kwon], you brought too much gear.",
+    "fa": "[سرباز جو کوون]، خیلی زیاد وسیله آوردی.",
+    "source_indices": [
+      35936
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "As of now, North Korea controls the city.",
+    "fa": "از این لحظه، کره شمالی شهر را در کنترل داره.",
+    "source_indices": [
+      36145
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Same target as before: the North Korean airbase,",
+    "fa": "همون هدف قبلی: پایگاه هوایی کره شمالی،",
+    "source_indices": [
+      36163
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[That’s why we follow orders without question.]",
+    "fa": "[برای همین دستورها را بدون سؤال اجرا می‌کنیم.]",
+    "source_indices": [
+      36184
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Still no updates into the devastation.",
+    "fa": "هنوز خبر تازه‌ای از ویرانی منتشر نشده.",
+    "source_indices": [
+      36197
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Clearing these trench networks along the way.",
+    "fa": "توی مسیر این شبکه‌های سنگر رو پاکسازی می‌کنیم.",
+    "source_indices": [
+      36315
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "I have one asset on site that needs extraction.",
+    "fa": "یه نفوذی توی محل دارم که باید خارج بشه.",
+    "source_indices": [
+      36360
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The North laid trenches and they’re digging in.",
+    "fa": "شمالی‌ها سنگر کندن و دارن مستقر می‌شن.",
+    "source_indices": [
+      36417
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We will have to move underground, through the prison.",
+    "fa": "باید از زیر زمین و از میان زندان حرکت کنیم.",
+    "source_indices": [
+      36442
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "When we step off those ramps, we do so as one. ",
+    "fa": "وقتی از اون رمپ‌ها پیاده می‌شیم، همه با هم پیاده می‌شیم. ",
+    "source_indices": [
+      36488
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Helos are standing by for exfil when we give the word.",
+    "fa": "هلیکوپترها آماده‌ان تا هر وقت فرمان بدیم برای خروج بیان.",
+    "source_indices": [
+      36517
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "This is when we suffered most of our casualties.",
+    "fa": "اینجا بود که بیشترین تلفاتمون رو دادیم.",
+    "source_indices": [
+      36566
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Listen to me- keep your head down. It'll be alright.",
+    "fa": "گوش کن- سرت رو پایین نگه دار. همه‌چی درست می‌شه.",
+    "source_indices": [
+      36570
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "you’ll be coordinating those JDAMs outta your ass.",
+    "fa": "تو این JDAMها رو از ته کونت هماهنگ می‌کنی.",
+    "source_indices": [
+      36588
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[If they want to leave, just let them leave.]",
+    "fa": "[اگه می‌خوان برن، بذارین برن.]",
+    "source_indices": [
+      36724
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "...infiltrate via aircraft and underground tunnels.",
+    "fa": "...از طریق هواپیما و تونل‌های زیرزمینی نفوذ کنیم.",
+    "source_indices": [
+      36743
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "to direct whoever gets there first through shut down.",
+    "fa": "تا هرکی زودتر رسید رو از مرحلهٔ خاموش‌سازی هدایت کنه.",
+    "source_indices": [
+      36776
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Then we’ll push to the objective under cover of ACVs.",
+    "fa": "بعدش زیر پوشش ACVها به سمت هدف پیش می‌ریم.",
+    "source_indices": [
+      36779
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Farah",
+    "fa": "فرح",
+    "source_indices": [
+      36857
+    ],
+    "kind": "speaker"
+  },
+  {
+    "en": "The invaders of my country have no regard for human life.",
+    "fa": "مهاجمان کشور من هیچ ارزشی برای جان انسان قائل نیستن.",
+    "source_indices": [
+      36857
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And while they mourn, South Korea mobilizes their armies.",
+    "fa": "و تا اونا عزاداری می‌کنن، کرهٔ جنوبی ارتش‌هاش رو بسیج می‌کنه.",
+    "source_indices": [
+      36906
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "And all we gotta do is plant charges and watch the fireworks.",
+    "fa": "و تنها کاری که باید بکنیم اینه که بمب بذاریم و آتش‌بازی رو تماشا کنیم.",
+    "source_indices": [
+      36983
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "A multi-year and cross-agency manhunt is still ongoing",
+    "fa": "تعقیب چندساله و میان‌سازمانی همچنان ادامه دارد",
+    "source_indices": [
+      37021
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "We are working to find out more as this story develops.",
+    "fa": "در حال بررسی بیشتر هستیم تا این ماجرا روشن‌تر شود.",
+    "source_indices": [
+      37080
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "will conduct an amphibious assault on the eastern coastline,",
+    "fa": "یک حملهٔ آبی‌خاکی به سواحل شرقی انجام خواهد داد،",
+    "source_indices": [
+      37089
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "[These are not poor farmers, they’re senior officials. People close to you.]",
+    "fa": "[اینا کشاورز فقیر نیستن، مقام‌های ارشدن. آدمای نزدیک به تو.]",
+    "source_indices": [
+      37373
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "From there, we activate emergency systems that will prevent a meltdown.",
+    "fa": "از اونجا سامانه‌های اضطراری رو فعال می‌کنیم که جلوی ذوب شدن رو بگیره.",
+    "source_indices": [
+      37393
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Witnesses across multiple cities are reporting heavy artillery fire",
+    "fa": "شاهدان در چندین شهر از آتش توپخانهٔ سنگین خبر می‌دهند",
+    "source_indices": [
+      37436
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They dominate any threat with controlled aggression and a verbal swagger.",
+    "fa": "اونا هر تهدیدی رو با پرخاشگری کنترل‌شده و کلاس کلامی مهار می‌کنن.",
+    "source_indices": [
+      37444
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "They’ve established a Command Element in Hotel Lucera, half a klick inland.",
+    "fa": "اونا یه عنصر فرماندهی تو هتل لوچرا، نیم کیلومتر داخل خشکی مستقر کردن.",
+    "source_indices": [
+      37521
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "After first contact, the Supreme Leader's forces will move her to a secure location.",
+    "fa": "بعد از اولین درگیری، نیروهای رهبر عالی او را به یه مکان امن منتقل می‌کنن.",
+    "source_indices": [
+      37567
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Do you want to explain to me why they’re fucking up all the good work we’ve done?",
+    "fa": "می‌خوای برام توضیح بدی چرا دارن همهٔ کارای خوبی که کردیم رو گه می‌زنن؟",
+    "source_indices": [
+      37576
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "The base is within effective range of Hajin and is a main deterrent from retaking the city.",
+    "fa": "این پایگاه در برد مؤثر هاجین قرار دارد و مانع اصلی بازپس‌گیری شهر است.",
+    "source_indices": [
+      37705
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "E-KIA.",
+    "fa": "E-KIA.",
+    "source_indices": [
+      38941
+    ],
+    "kind": "dialogue"
+  },
+  {
+    "en": "Jae",
+    "fa": "جِی",
+    "kind": "speaker",
+    "source_indices": [
+      1609,
+      2225,
+      6881,
+      6886,
+      6889,
+      6890,
+      6938,
+      6940,
+      6943,
+      6947,
+      6958,
+      6959,
+      6970,
+      6976,
+      6983,
+      6984,
+      6993,
+      6994,
+      7004,
+      7005,
+      7007,
+      7027,
+      7030,
+      7033,
+      7045,
+      7046,
+      7059,
+      7063,
+      7098,
+      7099,
+      7100,
+      7102,
+      7114,
+      7117,
+      7119,
+      7124,
+      7125,
+      7126,
+      7235,
+      7237,
+      7242,
+      7270,
+      7272,
+      7298,
+      7340,
+      7341,
+      7471,
+      7514,
+      7518,
+      7521,
+      7524,
+      7526,
+      7527,
+      7529,
+      7532,
+      7533,
+      7534,
+      24833,
+      26197,
+      28381,
+      28866,
+      29450,
+      29776,
+      30055,
+      30413,
+      31579,
+      31725,
+      33722,
+      34145,
+      34149,
+      35317
+    ],
+    "note": "Neutral standalone rendering; full contextual translations are unchanged."
+  },
+  {
+    "en": "Ju Kwon",
+    "fa": "جو کوون",
+    "kind": "speaker",
+    "source_indices": [
+      1839,
+      6950,
+      6951,
+      6971,
+      6985,
+      6987,
+      6997,
+      6998
+    ],
+    "note": "Neutral standalone rendering; full contextual translations are unchanged."
+  },
+  {
+    "en": "US ACV Driver",
+    "fa": "رانندهٔ خودروی آبی‌خاکی آمریکایی",
+    "kind": "speaker",
+    "source_indices": [
+      6876,
+      6879,
+      6880,
+      34515,
+      35812
+    ],
+    "note": "Neutral standalone rendering; full contextual translations are unchanged."
+  },
+  {
+    "en": "(chuckles)",
+    "fa": "(می‌خندد)",
+    "kind": "dialogue",
+    "source_indices": [
+      6995,
+      7243,
+      7520
+    ],
+    "note": "Neutral standalone rendering; full contextual translations are unchanged."
+  },
+  {
+    "en": "That’s right.",
+    "fa": "درسته.",
+    "kind": "dialogue",
+    "source_indices": [
+      7081,
+      7485
+    ],
+    "note": "Neutral standalone rendering; full contextual translations are unchanged."
+  },
+  {
+    "en": "Okay?",
+    "fa": "باشه؟",
+    "kind": "dialogue",
+    "source_indices": [
+      7102,
+      7590
+    ],
+    "note": "Neutral standalone rendering; full contextual translations are unchanged."
+  },
+  {
+    "en": "News Reporter",
+    "fa": "گزارشگر خبری",
+    "kind": "speaker",
+    "source_indices": [
+      7411,
+      7412,
+      7413,
+      7414,
+      7415,
+      7416,
+      7417,
+      7418,
+      7419,
+      7420,
+      7421,
+      7422,
+      7423,
+      7424,
+      7425,
+      7426,
+      7427,
+      7428,
+      7429,
+      7430,
+      7431,
+      7432,
+      7433,
+      7434,
+      7435,
+      36197,
+      37021,
+      37080,
+      37436
+    ],
+    "note": "Neutral standalone rendering; full contextual translations are unchanged."
+  },
+  {
+    "en": "Ko!",
+    "fa": "کو!",
+    "kind": "name_call",
+    "source_indices": [
+      937,
+      6854,
+      6868,
+      6871,
+      6893,
+      7034,
+      7035,
+      7036,
+      7037,
+      7038,
+      7039,
+      7040,
+      7041,
+      7042,
+      7055,
+      7056,
+      7057,
+      7058,
+      7064,
+      7065,
+      7066,
+      7068,
+      7069,
+      7070,
+      7084,
+      7090,
+      7091,
+      7096,
+      7206,
+      7207,
+      7233,
+      7267,
+      7311,
+      7316,
+      7330,
+      7331,
+      7560,
+      7565,
+      7566,
+      7569,
+      25685,
+      27552,
+      30315,
+      30318,
+      30385,
+      31355,
+      32056,
+      33657,
+      33718,
+      33759,
+      34063,
+      34391,
+      34545,
+      34627,
+      34866,
+      35157,
+      35563,
+      36442,
+      37567
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ko?",
+    "fa": "کو؟",
+    "kind": "name_call",
+    "source_indices": [
+      937,
+      6854,
+      6868,
+      6871,
+      6893,
+      7034,
+      7035,
+      7036,
+      7037,
+      7038,
+      7039,
+      7040,
+      7041,
+      7042,
+      7055,
+      7056,
+      7057,
+      7058,
+      7064,
+      7065,
+      7066,
+      7068,
+      7069,
+      7070,
+      7084,
+      7090,
+      7091,
+      7096,
+      7206,
+      7207,
+      7233,
+      7267,
+      7311,
+      7316,
+      7330,
+      7331,
+      7560,
+      7565,
+      7566,
+      7569,
+      25685,
+      27552,
+      30315,
+      30318,
+      30385,
+      31355,
+      32056,
+      33657,
+      33718,
+      33759,
+      34063,
+      34391,
+      34545,
+      34627,
+      34866,
+      35157,
+      35563,
+      36442,
+      37567
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ko.",
+    "fa": "کو.",
+    "kind": "name_call",
+    "source_indices": [
+      937,
+      6854,
+      6868,
+      6871,
+      6893,
+      7034,
+      7035,
+      7036,
+      7037,
+      7038,
+      7039,
+      7040,
+      7041,
+      7042,
+      7055,
+      7056,
+      7057,
+      7058,
+      7064,
+      7065,
+      7066,
+      7068,
+      7069,
+      7070,
+      7084,
+      7090,
+      7091,
+      7096,
+      7206,
+      7207,
+      7233,
+      7267,
+      7311,
+      7316,
+      7330,
+      7331,
+      7560,
+      7565,
+      7566,
+      7569,
+      25685,
+      27552,
+      30315,
+      30318,
+      30385,
+      31355,
+      32056,
+      33657,
+      33718,
+      33759,
+      34063,
+      34391,
+      34545,
+      34627,
+      34866,
+      35157,
+      35563,
+      36442,
+      37567
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ko…",
+    "fa": "کو…",
+    "kind": "name_call",
+    "source_indices": [
+      937,
+      6854,
+      6868,
+      6871,
+      6893,
+      7034,
+      7035,
+      7036,
+      7037,
+      7038,
+      7039,
+      7040,
+      7041,
+      7042,
+      7055,
+      7056,
+      7057,
+      7058,
+      7064,
+      7065,
+      7066,
+      7068,
+      7069,
+      7070,
+      7084,
+      7090,
+      7091,
+      7096,
+      7206,
+      7207,
+      7233,
+      7267,
+      7311,
+      7316,
+      7330,
+      7331,
+      7560,
+      7565,
+      7566,
+      7569,
+      25685,
+      27552,
+      30315,
+      30318,
+      30385,
+      31355,
+      32056,
+      33657,
+      33718,
+      33759,
+      34063,
+      34391,
+      34545,
+      34627,
+      34866,
+      35157,
+      35563,
+      36442,
+      37567
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gordo!",
+    "fa": "گوردو!",
+    "kind": "name_call",
+    "source_indices": [
+      1208,
+      7501,
+      7585,
+      27047,
+      34398
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gordo?",
+    "fa": "گوردو؟",
+    "kind": "name_call",
+    "source_indices": [
+      1208,
+      7501,
+      7585,
+      27047,
+      34398
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gordo.",
+    "fa": "گوردو.",
+    "kind": "name_call",
+    "source_indices": [
+      1208,
+      7501,
+      7585,
+      27047,
+      34398
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gordo…",
+    "fa": "گوردو…",
+    "kind": "name_call",
+    "source_indices": [
+      1208,
+      7501,
+      7585,
+      27047,
+      34398
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Price!",
+    "fa": "پرایس!",
+    "kind": "name_call",
+    "source_indices": [
+      1432,
+      1539,
+      2034,
+      2726,
+      5240,
+      5241,
+      5242,
+      5243,
+      5244,
+      5250,
+      5251,
+      5256,
+      5258,
+      5261,
+      5264,
+      5266,
+      5268,
+      5270,
+      5272,
+      5275,
+      5276,
+      6844,
+      6894,
+      6895,
+      6896,
+      6897,
+      6899,
+      6907,
+      6917,
+      7150,
+      7152,
+      7156,
+      7158,
+      7162,
+      7163,
+      7164,
+      7168,
+      7170,
+      7175,
+      7179,
+      7194,
+      7197,
+      7198,
+      7200,
+      7201,
+      7202,
+      7247,
+      7256,
+      7257,
+      7258,
+      7282,
+      7283,
+      7359,
+      7362,
+      7363,
+      7366,
+      7369,
+      7370,
+      7371,
+      7373,
+      7378,
+      7382,
+      7386,
+      7391,
+      7392,
+      7438,
+      7440,
+      7447,
+      7448,
+      7455,
+      7456,
+      7459,
+      7463,
+      7503,
+      7505,
+      7575,
+      7579,
+      7580,
+      7590,
+      25142,
+      27721,
+      28244,
+      28599,
+      29045,
+      29620,
+      29802,
+      30044,
+      30046,
+      30357,
+      30378,
+      30777,
+      31094,
+      31105,
+      31361,
+      31742,
+      31747,
+      32520,
+      32812,
+      32906,
+      32967,
+      33237,
+      33257,
+      33736,
+      33764,
+      34362,
+      34523,
+      34696,
+      35006,
+      35008,
+      35614,
+      36570,
+      37576
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Price?",
+    "fa": "پرایس؟",
+    "kind": "name_call",
+    "source_indices": [
+      1432,
+      1539,
+      2034,
+      2726,
+      5240,
+      5241,
+      5242,
+      5243,
+      5244,
+      5250,
+      5251,
+      5256,
+      5258,
+      5261,
+      5264,
+      5266,
+      5268,
+      5270,
+      5272,
+      5275,
+      5276,
+      6844,
+      6894,
+      6895,
+      6896,
+      6897,
+      6899,
+      6907,
+      6917,
+      7150,
+      7152,
+      7156,
+      7158,
+      7162,
+      7163,
+      7164,
+      7168,
+      7170,
+      7175,
+      7179,
+      7194,
+      7197,
+      7198,
+      7200,
+      7201,
+      7202,
+      7247,
+      7256,
+      7257,
+      7258,
+      7282,
+      7283,
+      7359,
+      7362,
+      7363,
+      7366,
+      7369,
+      7370,
+      7371,
+      7373,
+      7378,
+      7382,
+      7386,
+      7391,
+      7392,
+      7438,
+      7440,
+      7447,
+      7448,
+      7455,
+      7456,
+      7459,
+      7463,
+      7503,
+      7505,
+      7575,
+      7579,
+      7580,
+      7590,
+      25142,
+      27721,
+      28244,
+      28599,
+      29045,
+      29620,
+      29802,
+      30044,
+      30046,
+      30357,
+      30378,
+      30777,
+      31094,
+      31105,
+      31361,
+      31742,
+      31747,
+      32520,
+      32812,
+      32906,
+      32967,
+      33237,
+      33257,
+      33736,
+      33764,
+      34362,
+      34523,
+      34696,
+      35006,
+      35008,
+      35614,
+      36570,
+      37576
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Price.",
+    "fa": "پرایس.",
+    "kind": "name_call",
+    "source_indices": [
+      1432,
+      1539,
+      2034,
+      2726,
+      5240,
+      5241,
+      5242,
+      5243,
+      5244,
+      5250,
+      5251,
+      5256,
+      5258,
+      5261,
+      5264,
+      5266,
+      5268,
+      5270,
+      5272,
+      5275,
+      5276,
+      6844,
+      6894,
+      6895,
+      6896,
+      6897,
+      6899,
+      6907,
+      6917,
+      7150,
+      7152,
+      7156,
+      7158,
+      7162,
+      7163,
+      7164,
+      7168,
+      7170,
+      7175,
+      7179,
+      7194,
+      7197,
+      7198,
+      7200,
+      7201,
+      7202,
+      7247,
+      7256,
+      7257,
+      7258,
+      7282,
+      7283,
+      7359,
+      7362,
+      7363,
+      7366,
+      7369,
+      7370,
+      7371,
+      7373,
+      7378,
+      7382,
+      7386,
+      7391,
+      7392,
+      7438,
+      7440,
+      7447,
+      7448,
+      7455,
+      7456,
+      7459,
+      7463,
+      7503,
+      7505,
+      7575,
+      7579,
+      7580,
+      7590,
+      25142,
+      27721,
+      28244,
+      28599,
+      29045,
+      29620,
+      29802,
+      30044,
+      30046,
+      30357,
+      30378,
+      30777,
+      31094,
+      31105,
+      31361,
+      31742,
+      31747,
+      32520,
+      32812,
+      32906,
+      32967,
+      33237,
+      33257,
+      33736,
+      33764,
+      34362,
+      34523,
+      34696,
+      35006,
+      35008,
+      35614,
+      36570,
+      37576
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Price…",
+    "fa": "پرایس…",
+    "kind": "name_call",
+    "source_indices": [
+      1432,
+      1539,
+      2034,
+      2726,
+      5240,
+      5241,
+      5242,
+      5243,
+      5244,
+      5250,
+      5251,
+      5256,
+      5258,
+      5261,
+      5264,
+      5266,
+      5268,
+      5270,
+      5272,
+      5275,
+      5276,
+      6844,
+      6894,
+      6895,
+      6896,
+      6897,
+      6899,
+      6907,
+      6917,
+      7150,
+      7152,
+      7156,
+      7158,
+      7162,
+      7163,
+      7164,
+      7168,
+      7170,
+      7175,
+      7179,
+      7194,
+      7197,
+      7198,
+      7200,
+      7201,
+      7202,
+      7247,
+      7256,
+      7257,
+      7258,
+      7282,
+      7283,
+      7359,
+      7362,
+      7363,
+      7366,
+      7369,
+      7370,
+      7371,
+      7373,
+      7378,
+      7382,
+      7386,
+      7391,
+      7392,
+      7438,
+      7440,
+      7447,
+      7448,
+      7455,
+      7456,
+      7459,
+      7463,
+      7503,
+      7505,
+      7575,
+      7579,
+      7580,
+      7590,
+      25142,
+      27721,
+      28244,
+      28599,
+      29045,
+      29620,
+      29802,
+      30044,
+      30046,
+      30357,
+      30378,
+      30777,
+      31094,
+      31105,
+      31361,
+      31742,
+      31747,
+      32520,
+      32812,
+      32906,
+      32967,
+      33237,
+      33257,
+      33736,
+      33764,
+      34362,
+      34523,
+      34696,
+      35006,
+      35008,
+      35614,
+      36570,
+      37576
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Kal!",
+    "fa": "کال!",
+    "kind": "name_call",
+    "source_indices": [
+      1626,
+      1627,
+      1809,
+      2123,
+      2171,
+      2280,
+      2284,
+      2381,
+      2578,
+      6862,
+      6863,
+      6864,
+      6866,
+      6867,
+      6869,
+      6872,
+      6873,
+      6892,
+      7010,
+      7014,
+      7015,
+      7022,
+      7026,
+      7047,
+      7048,
+      7049,
+      7050,
+      7051,
+      7052,
+      7053,
+      7054,
+      7060,
+      7061,
+      7067,
+      7071,
+      7072,
+      7073,
+      7074,
+      7075,
+      7076,
+      7077,
+      7078,
+      7079,
+      7081,
+      7113,
+      7131,
+      7132,
+      7133,
+      7134,
+      7135,
+      7136,
+      7137,
+      7138,
+      7139,
+      7140,
+      7273,
+      7274,
+      7275,
+      7276,
+      7277,
+      7278,
+      7285,
+      7286,
+      7287,
+      7288,
+      7292,
+      7293,
+      7294,
+      7302,
+      7307,
+      7308,
+      7309,
+      7310,
+      7313,
+      7317,
+      7318,
+      7319,
+      7320,
+      7321,
+      7322,
+      7323,
+      7324,
+      7325,
+      7326,
+      7328,
+      7329,
+      7337,
+      7338,
+      7344,
+      7345,
+      7467,
+      7477,
+      7480,
+      7508,
+      27625,
+      27880,
+      28383,
+      29048,
+      31731,
+      32796,
+      32819,
+      33453,
+      33710,
+      34245,
+      34251,
+      34382,
+      35424,
+      35710,
+      35745,
+      35826,
+      36163,
+      36517,
+      37705,
+      38941
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Kal?",
+    "fa": "کال؟",
+    "kind": "name_call",
+    "source_indices": [
+      1626,
+      1627,
+      1809,
+      2123,
+      2171,
+      2280,
+      2284,
+      2381,
+      2578,
+      6862,
+      6863,
+      6864,
+      6866,
+      6867,
+      6869,
+      6872,
+      6873,
+      6892,
+      7010,
+      7014,
+      7015,
+      7022,
+      7026,
+      7047,
+      7048,
+      7049,
+      7050,
+      7051,
+      7052,
+      7053,
+      7054,
+      7060,
+      7061,
+      7067,
+      7071,
+      7072,
+      7073,
+      7074,
+      7075,
+      7076,
+      7077,
+      7078,
+      7079,
+      7081,
+      7113,
+      7131,
+      7132,
+      7133,
+      7134,
+      7135,
+      7136,
+      7137,
+      7138,
+      7139,
+      7140,
+      7273,
+      7274,
+      7275,
+      7276,
+      7277,
+      7278,
+      7285,
+      7286,
+      7287,
+      7288,
+      7292,
+      7293,
+      7294,
+      7302,
+      7307,
+      7308,
+      7309,
+      7310,
+      7313,
+      7317,
+      7318,
+      7319,
+      7320,
+      7321,
+      7322,
+      7323,
+      7324,
+      7325,
+      7326,
+      7328,
+      7329,
+      7337,
+      7338,
+      7344,
+      7345,
+      7467,
+      7477,
+      7480,
+      7508,
+      27625,
+      27880,
+      28383,
+      29048,
+      31731,
+      32796,
+      32819,
+      33453,
+      33710,
+      34245,
+      34251,
+      34382,
+      35424,
+      35710,
+      35745,
+      35826,
+      36163,
+      36517,
+      37705,
+      38941
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Kal.",
+    "fa": "کال.",
+    "kind": "name_call",
+    "source_indices": [
+      1626,
+      1627,
+      1809,
+      2123,
+      2171,
+      2280,
+      2284,
+      2381,
+      2578,
+      6862,
+      6863,
+      6864,
+      6866,
+      6867,
+      6869,
+      6872,
+      6873,
+      6892,
+      7010,
+      7014,
+      7015,
+      7022,
+      7026,
+      7047,
+      7048,
+      7049,
+      7050,
+      7051,
+      7052,
+      7053,
+      7054,
+      7060,
+      7061,
+      7067,
+      7071,
+      7072,
+      7073,
+      7074,
+      7075,
+      7076,
+      7077,
+      7078,
+      7079,
+      7081,
+      7113,
+      7131,
+      7132,
+      7133,
+      7134,
+      7135,
+      7136,
+      7137,
+      7138,
+      7139,
+      7140,
+      7273,
+      7274,
+      7275,
+      7276,
+      7277,
+      7278,
+      7285,
+      7286,
+      7287,
+      7288,
+      7292,
+      7293,
+      7294,
+      7302,
+      7307,
+      7308,
+      7309,
+      7310,
+      7313,
+      7317,
+      7318,
+      7319,
+      7320,
+      7321,
+      7322,
+      7323,
+      7324,
+      7325,
+      7326,
+      7328,
+      7329,
+      7337,
+      7338,
+      7344,
+      7345,
+      7467,
+      7477,
+      7480,
+      7508,
+      27625,
+      27880,
+      28383,
+      29048,
+      31731,
+      32796,
+      32819,
+      33453,
+      33710,
+      34245,
+      34251,
+      34382,
+      35424,
+      35710,
+      35745,
+      35826,
+      36163,
+      36517,
+      37705,
+      38941
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Kal…",
+    "fa": "کال…",
+    "kind": "name_call",
+    "source_indices": [
+      1626,
+      1627,
+      1809,
+      2123,
+      2171,
+      2280,
+      2284,
+      2381,
+      2578,
+      6862,
+      6863,
+      6864,
+      6866,
+      6867,
+      6869,
+      6872,
+      6873,
+      6892,
+      7010,
+      7014,
+      7015,
+      7022,
+      7026,
+      7047,
+      7048,
+      7049,
+      7050,
+      7051,
+      7052,
+      7053,
+      7054,
+      7060,
+      7061,
+      7067,
+      7071,
+      7072,
+      7073,
+      7074,
+      7075,
+      7076,
+      7077,
+      7078,
+      7079,
+      7081,
+      7113,
+      7131,
+      7132,
+      7133,
+      7134,
+      7135,
+      7136,
+      7137,
+      7138,
+      7139,
+      7140,
+      7273,
+      7274,
+      7275,
+      7276,
+      7277,
+      7278,
+      7285,
+      7286,
+      7287,
+      7288,
+      7292,
+      7293,
+      7294,
+      7302,
+      7307,
+      7308,
+      7309,
+      7310,
+      7313,
+      7317,
+      7318,
+      7319,
+      7320,
+      7321,
+      7322,
+      7323,
+      7324,
+      7325,
+      7326,
+      7328,
+      7329,
+      7337,
+      7338,
+      7344,
+      7345,
+      7467,
+      7477,
+      7480,
+      7508,
+      27625,
+      27880,
+      28383,
+      29048,
+      31731,
+      32796,
+      32819,
+      33453,
+      33710,
+      34245,
+      34251,
+      34382,
+      35424,
+      35710,
+      35745,
+      35826,
+      36163,
+      36517,
+      37705,
+      38941
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Archer!",
+    "fa": "آرچر!",
+    "kind": "name_call",
+    "source_indices": [
+      1654,
+      7537,
+      7538,
+      7541,
+      7544,
+      7546,
+      7547,
+      7548,
+      7549,
+      7551,
+      7556,
+      7557,
+      32116,
+      33690,
+      34946,
+      36906
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Archer?",
+    "fa": "آرچر؟",
+    "kind": "name_call",
+    "source_indices": [
+      1654,
+      7537,
+      7538,
+      7541,
+      7544,
+      7546,
+      7547,
+      7548,
+      7549,
+      7551,
+      7556,
+      7557,
+      32116,
+      33690,
+      34946,
+      36906
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Archer.",
+    "fa": "آرچر.",
+    "kind": "name_call",
+    "source_indices": [
+      1654,
+      7537,
+      7538,
+      7541,
+      7544,
+      7546,
+      7547,
+      7548,
+      7549,
+      7551,
+      7556,
+      7557,
+      32116,
+      33690,
+      34946,
+      36906
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Archer…",
+    "fa": "آرچر…",
+    "kind": "name_call",
+    "source_indices": [
+      1654,
+      7537,
+      7538,
+      7541,
+      7544,
+      7546,
+      7547,
+      7548,
+      7549,
+      7551,
+      7556,
+      7557,
+      32116,
+      33690,
+      34946,
+      36906
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Valeria!",
+    "fa": "والریا!",
+    "kind": "name_call",
+    "source_indices": [
+      1680,
+      6826,
+      6828,
+      6831,
+      6832,
+      6834,
+      6836,
+      6837,
+      7189,
+      7190,
+      7191,
+      7192,
+      7372,
+      7374,
+      7375,
+      7376,
+      7377,
+      7379,
+      7383,
+      7384,
+      7387,
+      7388,
+      7389,
+      7397,
+      7398,
+      7399,
+      7400,
+      7402,
+      7403,
+      7496,
+      7497,
+      7498,
+      7499,
+      7500,
+      7506,
+      7573,
+      7574,
+      7577,
+      7578,
+      7581,
+      7582,
+      28424,
+      29063,
+      29069,
+      29799,
+      30001,
+      30792,
+      30845,
+      31356,
+      31740,
+      32810,
+      33213,
+      33514,
+      33748,
+      34095,
+      34666,
+      35473,
+      35477,
+      36021,
+      36563,
+      36806
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Valeria?",
+    "fa": "والریا؟",
+    "kind": "name_call",
+    "source_indices": [
+      1680,
+      6826,
+      6828,
+      6831,
+      6832,
+      6834,
+      6836,
+      6837,
+      7189,
+      7190,
+      7191,
+      7192,
+      7372,
+      7374,
+      7375,
+      7376,
+      7377,
+      7379,
+      7383,
+      7384,
+      7387,
+      7388,
+      7389,
+      7397,
+      7398,
+      7399,
+      7400,
+      7402,
+      7403,
+      7496,
+      7497,
+      7498,
+      7499,
+      7500,
+      7506,
+      7573,
+      7574,
+      7577,
+      7578,
+      7581,
+      7582,
+      28424,
+      29063,
+      29069,
+      29799,
+      30001,
+      30792,
+      30845,
+      31356,
+      31740,
+      32810,
+      33213,
+      33514,
+      33748,
+      34095,
+      34666,
+      35473,
+      35477,
+      36021,
+      36563,
+      36806
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Valeria.",
+    "fa": "والریا.",
+    "kind": "name_call",
+    "source_indices": [
+      1680,
+      6826,
+      6828,
+      6831,
+      6832,
+      6834,
+      6836,
+      6837,
+      7189,
+      7190,
+      7191,
+      7192,
+      7372,
+      7374,
+      7375,
+      7376,
+      7377,
+      7379,
+      7383,
+      7384,
+      7387,
+      7388,
+      7389,
+      7397,
+      7398,
+      7399,
+      7400,
+      7402,
+      7403,
+      7496,
+      7497,
+      7498,
+      7499,
+      7500,
+      7506,
+      7573,
+      7574,
+      7577,
+      7578,
+      7581,
+      7582,
+      28424,
+      29063,
+      29069,
+      29799,
+      30001,
+      30792,
+      30845,
+      31356,
+      31740,
+      32810,
+      33213,
+      33514,
+      33748,
+      34095,
+      34666,
+      35473,
+      35477,
+      36021,
+      36563,
+      36806
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Valeria…",
+    "fa": "والریا…",
+    "kind": "name_call",
+    "source_indices": [
+      1680,
+      6826,
+      6828,
+      6831,
+      6832,
+      6834,
+      6836,
+      6837,
+      7189,
+      7190,
+      7191,
+      7192,
+      7372,
+      7374,
+      7375,
+      7376,
+      7377,
+      7379,
+      7383,
+      7384,
+      7387,
+      7388,
+      7389,
+      7397,
+      7398,
+      7399,
+      7400,
+      7402,
+      7403,
+      7496,
+      7497,
+      7498,
+      7499,
+      7500,
+      7506,
+      7573,
+      7574,
+      7577,
+      7578,
+      7581,
+      7582,
+      28424,
+      29063,
+      29069,
+      29799,
+      30001,
+      30792,
+      30845,
+      31356,
+      31740,
+      32810,
+      33213,
+      33514,
+      33748,
+      34095,
+      34666,
+      35473,
+      35477,
+      36021,
+      36563,
+      36806
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Dunn!",
+    "fa": "دان!",
+    "kind": "name_call",
+    "source_indices": [
+      1688,
+      1773,
+      2206,
+      2310,
+      6882,
+      6883,
+      6884,
+      6887,
+      6888,
+      6891,
+      6942,
+      6945,
+      6946,
+      6949,
+      6955,
+      6956,
+      6967,
+      6986,
+      6989,
+      6990,
+      6992,
+      7020,
+      7021,
+      7023,
+      7025,
+      7032,
+      7043,
+      7044,
+      7062,
+      7080,
+      7105,
+      7106,
+      7120,
+      7234,
+      7238,
+      7239,
+      7240,
+      7289,
+      7299,
+      7305,
+      7306,
+      7347,
+      7472,
+      7515,
+      7516,
+      7517,
+      7520,
+      7525,
+      7530,
+      7531,
+      31719,
+      33209,
+      33732,
+      34645,
+      35422,
+      36983,
+      37167
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Dunn?",
+    "fa": "دان؟",
+    "kind": "name_call",
+    "source_indices": [
+      1688,
+      1773,
+      2206,
+      2310,
+      6882,
+      6883,
+      6884,
+      6887,
+      6888,
+      6891,
+      6942,
+      6945,
+      6946,
+      6949,
+      6955,
+      6956,
+      6967,
+      6986,
+      6989,
+      6990,
+      6992,
+      7020,
+      7021,
+      7023,
+      7025,
+      7032,
+      7043,
+      7044,
+      7062,
+      7080,
+      7105,
+      7106,
+      7120,
+      7234,
+      7238,
+      7239,
+      7240,
+      7289,
+      7299,
+      7305,
+      7306,
+      7347,
+      7472,
+      7515,
+      7516,
+      7517,
+      7520,
+      7525,
+      7530,
+      7531,
+      31719,
+      33209,
+      33732,
+      34645,
+      35422,
+      36983,
+      37167
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Dunn.",
+    "fa": "دان.",
+    "kind": "name_call",
+    "source_indices": [
+      1688,
+      1773,
+      2206,
+      2310,
+      6882,
+      6883,
+      6884,
+      6887,
+      6888,
+      6891,
+      6942,
+      6945,
+      6946,
+      6949,
+      6955,
+      6956,
+      6967,
+      6986,
+      6989,
+      6990,
+      6992,
+      7020,
+      7021,
+      7023,
+      7025,
+      7032,
+      7043,
+      7044,
+      7062,
+      7080,
+      7105,
+      7106,
+      7120,
+      7234,
+      7238,
+      7239,
+      7240,
+      7289,
+      7299,
+      7305,
+      7306,
+      7347,
+      7472,
+      7515,
+      7516,
+      7517,
+      7520,
+      7525,
+      7530,
+      7531,
+      31719,
+      33209,
+      33732,
+      34645,
+      35422,
+      36983,
+      37167
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Dunn…",
+    "fa": "دان…",
+    "kind": "name_call",
+    "source_indices": [
+      1688,
+      1773,
+      2206,
+      2310,
+      6882,
+      6883,
+      6884,
+      6887,
+      6888,
+      6891,
+      6942,
+      6945,
+      6946,
+      6949,
+      6955,
+      6956,
+      6967,
+      6986,
+      6989,
+      6990,
+      6992,
+      7020,
+      7021,
+      7023,
+      7025,
+      7032,
+      7043,
+      7044,
+      7062,
+      7080,
+      7105,
+      7106,
+      7120,
+      7234,
+      7238,
+      7239,
+      7240,
+      7289,
+      7299,
+      7305,
+      7306,
+      7347,
+      7472,
+      7515,
+      7516,
+      7517,
+      7520,
+      7525,
+      7530,
+      7531,
+      31719,
+      33209,
+      33732,
+      34645,
+      35422,
+      36983,
+      37167
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gaz!",
+    "fa": "گاز!",
+    "kind": "name_call",
+    "source_indices": [
+      2064,
+      5267,
+      6900,
+      6901,
+      6902,
+      6909,
+      6910,
+      6914,
+      7404,
+      7407,
+      7410,
+      30351,
+      31231,
+      31681,
+      32816,
+      33750,
+      34087,
+      36037
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gaz?",
+    "fa": "گاز؟",
+    "kind": "name_call",
+    "source_indices": [
+      2064,
+      5267,
+      6900,
+      6901,
+      6902,
+      6909,
+      6910,
+      6914,
+      7404,
+      7407,
+      7410,
+      30351,
+      31231,
+      31681,
+      32816,
+      33750,
+      34087,
+      36037
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gaz.",
+    "fa": "گاز.",
+    "kind": "name_call",
+    "source_indices": [
+      2064,
+      5267,
+      6900,
+      6901,
+      6902,
+      6909,
+      6910,
+      6914,
+      7404,
+      7407,
+      7410,
+      30351,
+      31231,
+      31681,
+      32816,
+      33750,
+      34087,
+      36037
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Gaz…",
+    "fa": "گاز…",
+    "kind": "name_call",
+    "source_indices": [
+      2064,
+      5267,
+      6900,
+      6901,
+      6902,
+      6909,
+      6910,
+      6914,
+      7404,
+      7407,
+      7410,
+      30351,
+      31231,
+      31681,
+      32816,
+      33750,
+      34087,
+      36037
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Laswell!",
+    "fa": "لازول!",
+    "kind": "name_call",
+    "source_indices": [
+      2203,
+      2273,
+      2374,
+      5234,
+      5235,
+      5236,
+      5245,
+      5246,
+      5274,
+      7143,
+      7144,
+      7145,
+      7193,
+      7195,
+      7196,
+      7199,
+      7291,
+      7296,
+      7297,
+      7303,
+      7304,
+      7333,
+      7334,
+      7335,
+      7358,
+      7360,
+      7361,
+      7364,
+      7365,
+      7367,
+      7368,
+      7436,
+      7437,
+      7439,
+      7441,
+      7442,
+      7443,
+      7444,
+      7445,
+      7446,
+      7449,
+      7450,
+      7451,
+      7452,
+      7453,
+      7454,
+      7457,
+      7458,
+      7460,
+      7461,
+      7462,
+      7502,
+      7504,
+      7591,
+      27290,
+      27420,
+      28628,
+      30038,
+      30356,
+      32970,
+      33177,
+      34058,
+      34099,
+      34209,
+      34417,
+      34480,
+      34660,
+      34694,
+      34721,
+      34833,
+      35010,
+      35498,
+      35706,
+      36360
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Laswell?",
+    "fa": "لازول؟",
+    "kind": "name_call",
+    "source_indices": [
+      2203,
+      2273,
+      2374,
+      5234,
+      5235,
+      5236,
+      5245,
+      5246,
+      5274,
+      7143,
+      7144,
+      7145,
+      7193,
+      7195,
+      7196,
+      7199,
+      7291,
+      7296,
+      7297,
+      7303,
+      7304,
+      7333,
+      7334,
+      7335,
+      7358,
+      7360,
+      7361,
+      7364,
+      7365,
+      7367,
+      7368,
+      7436,
+      7437,
+      7439,
+      7441,
+      7442,
+      7443,
+      7444,
+      7445,
+      7446,
+      7449,
+      7450,
+      7451,
+      7452,
+      7453,
+      7454,
+      7457,
+      7458,
+      7460,
+      7461,
+      7462,
+      7502,
+      7504,
+      7591,
+      27290,
+      27420,
+      28628,
+      30038,
+      30356,
+      32970,
+      33177,
+      34058,
+      34099,
+      34209,
+      34417,
+      34480,
+      34660,
+      34694,
+      34721,
+      34833,
+      35010,
+      35498,
+      35706,
+      36360
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Laswell…",
+    "fa": "لازول…",
+    "kind": "name_call",
+    "source_indices": [
+      2203,
+      2273,
+      2374,
+      5234,
+      5235,
+      5236,
+      5245,
+      5246,
+      5274,
+      7143,
+      7144,
+      7145,
+      7193,
+      7195,
+      7196,
+      7199,
+      7291,
+      7296,
+      7297,
+      7303,
+      7304,
+      7333,
+      7334,
+      7335,
+      7358,
+      7360,
+      7361,
+      7364,
+      7365,
+      7367,
+      7368,
+      7436,
+      7437,
+      7439,
+      7441,
+      7442,
+      7443,
+      7444,
+      7445,
+      7446,
+      7449,
+      7450,
+      7451,
+      7452,
+      7453,
+      7454,
+      7457,
+      7458,
+      7460,
+      7461,
+      7462,
+      7502,
+      7504,
+      7591,
+      27290,
+      27420,
+      28628,
+      30038,
+      30356,
+      32970,
+      33177,
+      34058,
+      34099,
+      34209,
+      34417,
+      34480,
+      34660,
+      34694,
+      34721,
+      34833,
+      35010,
+      35498,
+      35706,
+      36360
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Soap!",
+    "fa": "سوپ!",
+    "kind": "name_call",
+    "source_indices": [
+      5237,
+      5265,
+      32526
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Soap?",
+    "fa": "سوپ؟",
+    "kind": "name_call",
+    "source_indices": [
+      5237,
+      5265,
+      32526
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Soap.",
+    "fa": "سوپ.",
+    "kind": "name_call",
+    "source_indices": [
+      5237,
+      5265,
+      32526
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Soap…",
+    "fa": "سوپ…",
+    "kind": "name_call",
+    "source_indices": [
+      5237,
+      5265,
+      32526
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ghost!",
+    "fa": "گوست!",
+    "kind": "name_call",
+    "source_indices": [
+      6898,
+      6908,
+      7280,
+      7281,
+      7284,
+      7408,
+      7409,
+      26200,
+      31254,
+      31696,
+      34121
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ghost?",
+    "fa": "گوست؟",
+    "kind": "name_call",
+    "source_indices": [
+      6898,
+      6908,
+      7280,
+      7281,
+      7284,
+      7408,
+      7409,
+      26200,
+      31254,
+      31696,
+      34121
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ghost.",
+    "fa": "گوست.",
+    "kind": "name_call",
+    "source_indices": [
+      6898,
+      6908,
+      7280,
+      7281,
+      7284,
+      7408,
+      7409,
+      26200,
+      31254,
+      31696,
+      34121
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ghost…",
+    "fa": "گوست…",
+    "kind": "name_call",
+    "source_indices": [
+      6898,
+      6908,
+      7280,
+      7281,
+      7284,
+      7408,
+      7409,
+      26200,
+      31254,
+      31696,
+      34121
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Jae!",
+    "fa": "جِی!",
+    "kind": "name_call",
+    "source_indices": [
+      1609,
+      2225,
+      6881,
+      6886,
+      6889,
+      6890,
+      6938,
+      6940,
+      6943,
+      6947,
+      6958,
+      6959,
+      6970,
+      6976,
+      6983,
+      6984,
+      6993,
+      6994,
+      7004,
+      7005,
+      7007,
+      7027,
+      7030,
+      7033,
+      7045,
+      7046,
+      7059,
+      7063,
+      7098,
+      7099,
+      7100,
+      7102,
+      7114,
+      7117,
+      7119,
+      7124,
+      7125,
+      7126,
+      7235,
+      7237,
+      7242,
+      7270,
+      7272,
+      7298,
+      7340,
+      7341,
+      7471,
+      7514,
+      7518,
+      7521,
+      7524,
+      7526,
+      7527,
+      7529,
+      7532,
+      7533,
+      7534,
+      24833,
+      26197,
+      28381,
+      28866,
+      29450,
+      29776,
+      30055,
+      30413,
+      31579,
+      31725,
+      33722,
+      34145,
+      34149,
+      35317
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Jae?",
+    "fa": "جِی؟",
+    "kind": "name_call",
+    "source_indices": [
+      1609,
+      2225,
+      6881,
+      6886,
+      6889,
+      6890,
+      6938,
+      6940,
+      6943,
+      6947,
+      6958,
+      6959,
+      6970,
+      6976,
+      6983,
+      6984,
+      6993,
+      6994,
+      7004,
+      7005,
+      7007,
+      7027,
+      7030,
+      7033,
+      7045,
+      7046,
+      7059,
+      7063,
+      7098,
+      7099,
+      7100,
+      7102,
+      7114,
+      7117,
+      7119,
+      7124,
+      7125,
+      7126,
+      7235,
+      7237,
+      7242,
+      7270,
+      7272,
+      7298,
+      7340,
+      7341,
+      7471,
+      7514,
+      7518,
+      7521,
+      7524,
+      7526,
+      7527,
+      7529,
+      7532,
+      7533,
+      7534,
+      24833,
+      26197,
+      28381,
+      28866,
+      29450,
+      29776,
+      30055,
+      30413,
+      31579,
+      31725,
+      33722,
+      34145,
+      34149,
+      35317
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Jae.",
+    "fa": "جِی.",
+    "kind": "name_call",
+    "source_indices": [
+      1609,
+      2225,
+      6881,
+      6886,
+      6889,
+      6890,
+      6938,
+      6940,
+      6943,
+      6947,
+      6958,
+      6959,
+      6970,
+      6976,
+      6983,
+      6984,
+      6993,
+      6994,
+      7004,
+      7005,
+      7007,
+      7027,
+      7030,
+      7033,
+      7045,
+      7046,
+      7059,
+      7063,
+      7098,
+      7099,
+      7100,
+      7102,
+      7114,
+      7117,
+      7119,
+      7124,
+      7125,
+      7126,
+      7235,
+      7237,
+      7242,
+      7270,
+      7272,
+      7298,
+      7340,
+      7341,
+      7471,
+      7514,
+      7518,
+      7521,
+      7524,
+      7526,
+      7527,
+      7529,
+      7532,
+      7533,
+      7534,
+      24833,
+      26197,
+      28381,
+      28866,
+      29450,
+      29776,
+      30055,
+      30413,
+      31579,
+      31725,
+      33722,
+      34145,
+      34149,
+      35317
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Jae…",
+    "fa": "جِی…",
+    "kind": "name_call",
+    "source_indices": [
+      1609,
+      2225,
+      6881,
+      6886,
+      6889,
+      6890,
+      6938,
+      6940,
+      6943,
+      6947,
+      6958,
+      6959,
+      6970,
+      6976,
+      6983,
+      6984,
+      6993,
+      6994,
+      7004,
+      7005,
+      7007,
+      7027,
+      7030,
+      7033,
+      7045,
+      7046,
+      7059,
+      7063,
+      7098,
+      7099,
+      7100,
+      7102,
+      7114,
+      7117,
+      7119,
+      7124,
+      7125,
+      7126,
+      7235,
+      7237,
+      7242,
+      7270,
+      7272,
+      7298,
+      7340,
+      7341,
+      7471,
+      7514,
+      7518,
+      7521,
+      7524,
+      7526,
+      7527,
+      7529,
+      7532,
+      7533,
+      7534,
+      24833,
+      26197,
+      28381,
+      28866,
+      29450,
+      29776,
+      30055,
+      30413,
+      31579,
+      31725,
+      33722,
+      34145,
+      34149,
+      35317
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ju Kwon!",
+    "fa": "جو کوون!",
+    "kind": "name_call",
+    "source_indices": [
+      1839,
+      6950,
+      6951,
+      6971,
+      6985,
+      6987,
+      6997,
+      6998
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ju Kwon?",
+    "fa": "جو کوون؟",
+    "kind": "name_call",
+    "source_indices": [
+      1839,
+      6950,
+      6951,
+      6971,
+      6985,
+      6987,
+      6997,
+      6998
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ju Kwon.",
+    "fa": "جو کوون.",
+    "kind": "name_call",
+    "source_indices": [
+      1839,
+      6950,
+      6951,
+      6971,
+      6985,
+      6987,
+      6997,
+      6998
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  },
+  {
+    "en": "Ju Kwon…",
+    "fa": "جو کوون…",
+    "kind": "name_call",
+    "source_indices": [
+      1839,
+      6950,
+      6951,
+      6971,
+      6985,
+      6987,
+      6997,
+      6998
+    ],
+    "note": "Derived punctuated proper-name call; requires runtime confirmation."
+  }
+]
