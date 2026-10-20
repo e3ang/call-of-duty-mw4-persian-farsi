@@ -1,0 +1,7 @@
+*.jsonl text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.bat text eol=crlf
+*.bin binary
+*.dll binary
+*.ps1 text eol=crlf
