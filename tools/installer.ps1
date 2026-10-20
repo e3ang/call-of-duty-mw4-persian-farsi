@@ -8,9 +8,11 @@ $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.Windows.Forms
 
 $Repo = Split-Path -Parent $PSScriptRoot
+if (Test-Path -LiteralPath (Join-Path $PSScriptRoot 'files') -PathType Container) { $Repo = $PSScriptRoot }
 $Files = Join-Path $Repo 'files'
 $PatchedBink = '6a58f884a8ff7355143c828d7c2badd3a1ec29fd38eccf4de3a3f5ea6055291e'
 $Backup = '.fa-backup'
+$RuntimeFiles = @('mw4splash.dll', 'rtlcompanion.dll', 'bink2w64.dll', 'trhook.dll', 'trdata2.bin')
 
 function Say([string]$fa, [string]$en, [string]$icon = 'Information') {
     if ($Quiet) { Write-Host "[$icon] $en"; return }
@@ -58,6 +60,10 @@ $OurData = Hash (Join-Path $Files 'trdata2.bin')
 
 try {
     if ($Mode -eq 'install') {
+        # Check the entire package before touching installed files. Install dependencies first.
+        foreach ($n in $RuntimeFiles) {
+            if (-not (Test-Path -LiteralPath (Join-Path $Files $n) -PathType Leaf)) { throw "Missing package file: $n" }
+        }
         # back up original files once; never back up our own files
         if ((Test-Path -LiteralPath $bink) -and (Hash $bink) -ne $PatchedBink -and -not (Test-Path -LiteralPath "$bink$Backup")) {
             Copy-Item -LiteralPath $bink -Destination "$bink$Backup"
@@ -67,13 +73,15 @@ try {
             Copy-Item -LiteralPath $data -Destination "$data$Backup"
             Write-Host 'Backed up previous trdata2.bin'
         }
-        foreach ($n in 'rtlcompanion.dll', 'bink2w64.dll', 'trhook.dll', 'trdata2.bin') {
+        foreach ($n in $RuntimeFiles) {
             $src = Join-Path $Files $n
             $dst = Join-Path $Sp26 $n
             Copy-Item -LiteralPath $src -Destination $dst -Force
             if ((Hash $src) -ne (Hash $dst)) { throw "verify failed: $n" }
             Write-Host "Installed $n"
         }
+        # Remove obsolete artwork from local preview builds after successful installation.
+        Remove-Item -LiteralPath (Join-Path $Sp26 'mw4-splash.bmp') -Force -ErrorAction SilentlyContinue
         Say "ترجمه فارسی نصب شد.`nبازی را با زبان English اجرا کنید و Subtitles را روشن کنید.`nفقط برای بخش داستانی؛ آنلاین بازی نکنید." 'Persian translation installed. Run the campaign with the game language set to English and Subtitles on. Campaign/offline only.'
     }
     else {
@@ -98,11 +106,14 @@ try {
             Remove-Item -LiteralPath (Join-Path $Sp26 'trhook.log') -Force -ErrorAction SilentlyContinue
             Remove-Item -LiteralPath (Join-Path $Sp26 'rtlcompanion.dll') -Force -ErrorAction SilentlyContinue
             Remove-Item -LiteralPath (Join-Path $Sp26 'rtlcompanion.log') -Force -ErrorAction SilentlyContinue
+            Remove-Item -LiteralPath (Join-Path $Sp26 'mw4splash.dll') -Force -ErrorAction SilentlyContinue
             Say 'ترجمه فارسی حذف شد و بازی به حالت اصلی برگشت.' 'Persian translation removed; original files restored.'
         }
         else {
-            Say "متن‌های فارسی حذف شد، ولی نسخه اصلی bink2w64.dll پیدا نشد؛ پس trhook.dll و rtlcompanion.dll نگه داشته شدند تا بازی سالم بماند.`nبرای حذف کامل، فایل اصلی bink2w64.dll را از نصب بازی برگردانید (مثلاً Verify files در لانچر)." 'Translation removed, but no backup of the original bink2w64.dll was found, so trhook.dll and rtlcompanion.dll were kept. Restore the original bink2w64.dll from your game install to remove the hook completely.' 'Warning'
+            Say "متن‌های فارسی حذف شد، ولی نسخه اصلی bink2w64.dll پیدا نشد؛ پس trhook.dll و وابستگی‌های آن نگه داشته شدند تا بازی سالم بماند.`nبرای حذف کامل، فایل اصلی bink2w64.dll را از نصب بازی برگردانید (مثلاً Verify files در لانچر)." 'Translation removed, but no backup of the original bink2w64.dll was found, so trhook.dll, rtlcompanion.dll and mw4splash.dll were kept. Restore the original bink2w64.dll from your game install to remove the hook completely.' 'Warning'
         }
+        # Clean up artwork left by preview builds.
+        Remove-Item -LiteralPath (Join-Path $Sp26 'mw4-splash.bmp') -Force -ErrorAction SilentlyContinue
     }
 }
 catch {
