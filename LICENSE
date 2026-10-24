@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 cod-mw4-farsi contributors
+Copyright (c) 2026 Ehsan Ghotbizade
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,20 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-Scope of this license
-
-This license covers the Persian translations, scripts and documentation
-written for this project. It does NOT cover:
-
-- The original English game text included as lookup keys in the
-  translation files. It belongs to its owners (Activision) and is included
-  only so the translation can be matched at runtime.
-- The runtime hook in files/ (trhook.dll, bink2w64.dll), taken from the
-  Turkish MW4 patch (Turkce Yama). It belongs to its own authors and is
-  included with credit for convenience.
-
-This is an unofficial fan project, not affiliated with or endorsed by
-Activision or Infinity Ward. "Call of Duty" and "Modern Warfare" are
-trademarks of their respective owners.
